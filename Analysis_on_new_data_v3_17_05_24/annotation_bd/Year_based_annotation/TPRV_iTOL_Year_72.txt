@@ -1,0 +1,114 @@
+DATASET_COLORSTRIP
+#lines starting with a hash are comments and ignored during parsing
+#select the separator which is used to delimit the data below (TAB	SPACE or COMMA).This separator must be used throught this file (except in the SEPARATOR line which uses space).
+
+SEPARATOR TAB
+#SEPARATOR SPACE
+#SEPARATOR COMMA
+
+#label is used in the legend table (can be changed later)
+DATASET_LABEL	Year
+
+#dataset color (can be changed later)
+COLOR	#000000
+
+#optional settings
+
+#all other optional settings can be set or changed later in the web interface (under 'Datasets' tab)
+COLOR_BRANCHES	1
+#maximum width
+STRIP_WIDTH	50
+
+#left margin, used to increase/decrease the spacing to the next dataset. Can be negative,causing datasets to overlap.
+MARGIN	25
+
+#border width; if set above 0, a black border of specified width (in pixels) will be drawn around the color strip 
+BORDER_WIDTH	0
+BORDER_COLOR	#000
+
+#show internal values; if set, values associated to internal nodes will be displayed even if these nodes are not collapsed. It could cause overlapping in the dataset display.
+SHOW_INTERNAL	0
+
+LEGEND_TITLE	Year	
+LEGEND_SHAPES	1	1	1	1	1	1	1	1
+LEGEND_COLORS	#a65628	#f781bf	#e41a1c	#377eb8	#ffff33	#ff7f00	#4daf4a	#984ea3	
+LEGEND_LABELS	2015	2016	2017	2018	2019	2020	2021	2022	
+
+
+#In colored strip charts	 each ID is associated to a color. Color can be specified in hexadecimal	 RGB or RGBA notation
+#Internal tree nodes can be specified using IDs directly	 or using the 'last common ancestor' method described in iTOL help pages
+#Actual data follows after the "DATA" keyword
+DATA
+#phyloID	Year_color
+CHRF_0012	#e41a1c
+CHRF_0015	#e41a1c
+BD0003	#377eb8
+CSF_0003	#4daf4a
+CSF_0004	#4daf4a
+CSF_0015	#984ea3
+CSF_0016	#984ea3
+CSF_0017	#984ea3
+CSF_0018	#ff7f00
+CSF_0019	#ff7f00
+CSF_0020	#984ea3
+CSF_0022	#4daf4a
+CSF_0023	#4daf4a
+CSF_0024	#ff7f00
+CSF_0026	#ff7f00
+CSF_0027	#ff7f00
+CSF_0028	#ff7f00
+CSF_0036	#ffff33
+CSF_0037	#ffff33
+CSF_0038	#377eb8
+CSF_0039	#377eb8
+CSF_0040	#ff7f00
+CSF_0041	#4daf4a
+CSF_0042	#4daf4a
+CSF_0043	#984ea3
+CSF_0044	#984ea3
+CSF_0045	#4daf4a
+CSF_0046	#4daf4a
+CSF_0047	#4daf4a
+CSF_0048	#4daf4a
+CSF_0049	#ff7f00
+CSF_0050	#4daf4a
+CSF_0051	#ff7f00
+CSF_0052	#ff7f00
+CSF_0053	#ff7f00
+CSF_0054	#ff7f00
+CSF_0055	#ffff33
+CSF_0056	#ffff33
+CSF_0057	#ffff33
+CSF_0058	#ffff33
+CSF_0059	#ffff33
+CSF_0060	#377eb8
+CSF_0061	#377eb8
+CSF_0062	#377eb8
+CSF_0063	#377eb8
+CSF_0064	#e41a1c
+CSF_0065	#e41a1c
+CSF_0066	#984ea3
+CSF_0067	#e41a1c
+CSF_0068	#e41a1c
+CSF_0069	#e41a1c
+CSF_0070	#e41a1c
+CSF_0071	#377eb8
+CSF_0072	#984ea3
+CSF_0073	#984ea3
+CSF_0074	#377eb8
+CSF_0075	#ffff33
+CSF_0076	#ffff33
+CSF_0077	#ffff33
+CSF_0090	#a65628
+CSF_0091	#a65628
+CSF_0092	#a65628
+CSF_0093	#a65628
+CSF_0094	#a65628
+CSF_0095	#f781bf
+CSF_0096	#f781bf
+CSF_0097	#f781bf
+CSF_0098	#f781bf
+CSF_0099	#f781bf
+CSF_0100	#f781bf
+CSF_0101	#f781bf
+

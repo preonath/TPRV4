@@ -1,0 +1,1903 @@
+2022-04-23 08:37:34,348 - DEBUG - primalscheme version 1.3.2
+2022-04-23 08:37:34,348 - INFO - References:
+ - NC_007018.1
+ - KM390024.1
+ - CHRF_BD0003_CZ
+ - CSF_0017_CZ
+ - CSF_0004_CZ
+ - CSF_0018_CZ
+ - CSF_0019_CZ
+ - CSF_0023_NODE_1_length_4912_cov_9477
+ - CSF_0026_CZ
+ - KU871314.1
+ - KU871315.1
+ - AY622943.1
+ - EU546204.1
+ - EU546210.1
+ - EU175856.1
+ - EU874248.1
+ - EU546205.1
+ - EU546206.1
+ - EU546207.1
+ - HQ593530.1
+ - EU546211.1
+ - EU200667.1
+ - EU175855.1
+ - DQ873387.1
+ - DQ873388.1
+ - DQ873389.1
+ - DQ873386.1
+ - DQ873391.1
+2022-04-23 08:37:34,348 - INFO - Primary reference for coordinate system: NC_007018.1
+2022-04-23 08:37:34,348 - INFO - Considering primers from all references
+2022-04-23 08:37:34,349 - DEBUG - MuliplexScheme
+Prefix: Trpv4_v1
+Amplicon size range: 380 - 420
+Target overlap: 0
+Primary only (pinned): False
+References:
+ - NC_007018.1
+ - KM390024.1
+ - CHRF_BD0003_CZ
+ - CSF_0017_CZ
+ - CSF_0004_CZ
+ - CSF_0018_CZ
+ - CSF_0019_CZ
+ - CSF_0023_NODE_1_length_4912_cov_9477
+ - CSF_0026_CZ
+ - KU871314.1
+ - KU871315.1
+ - AY622943.1
+ - EU546204.1
+ - EU546210.1
+ - EU175856.1
+ - EU874248.1
+ - EU546205.1
+ - EU546206.1
+ - EU546207.1
+ - HQ593530.1
+ - EU546211.1
+ - EU200667.1
+ - EU175855.1
+ - DQ873387.1
+ - DQ873388.1
+ - DQ873389.1
+ - DQ873386.1
+ - DQ873391.1
+2022-04-23 08:37:34,349 - DEBUG - Window: left_limit 0, slice_start 0, right_limit 5268
+2022-04-23 08:37:34,349 - DEBUG - Region 1, pool 1
+2022-04-23 08:37:34,349 - DEBUG - Finding primers for slice 0 to 419
+2022-04-23 08:37:34,358 - DEBUG - Left limit reached
+2022-04-23 08:37:34,359 - DEBUG - Finding primers for slice 0 to 419
+2022-04-23 08:37:34,366 - DEBUG - Stepping right to 11
+2022-04-23 08:37:34,367 - DEBUG - Finding primers for slice 11 to 430
+2022-04-23 08:37:34,372 - DEBUG - Stepping right to 22
+2022-04-23 08:37:34,372 - DEBUG - Finding primers for slice 22 to 441
+2022-04-23 08:37:34,380 - DEBUG - Stepping right to 33
+2022-04-23 08:37:34,380 - DEBUG - Finding primers for slice 33 to 452
+2022-04-23 08:37:34,387 - DEBUG - Stepping right to 44
+2022-04-23 08:37:34,387 - DEBUG - Finding primers for slice 44 to 463
+2022-04-23 08:37:34,395 - DEBUG - Stepping right to 55
+2022-04-23 08:37:34,395 - DEBUG - Finding primers for slice 55 to 474
+2022-04-23 08:37:34,402 - DEBUG - Stepping right to 66
+2022-04-23 08:37:34,402 - DEBUG - Finding primers for slice 66 to 485
+2022-04-23 08:37:34,411 - DEBUG - Stepping right to 77
+2022-04-23 08:37:34,411 - DEBUG - Finding primers for slice 77 to 496
+2022-04-23 08:37:34,418 - DEBUG - Stepping right to 88
+2022-04-23 08:37:34,418 - DEBUG - Finding primers for slice 88 to 507
+2022-04-23 08:37:34,425 - DEBUG - Stepping right to 99
+2022-04-23 08:37:34,425 - DEBUG - Finding primers for slice 99 to 518
+2022-04-23 08:37:34,432 - DEBUG - Stepping right to 110
+2022-04-23 08:37:34,432 - DEBUG - Finding primers for slice 110 to 529
+2022-04-23 08:37:34,439 - DEBUG - Stepping right to 121
+2022-04-23 08:37:34,439 - DEBUG - Finding primers for slice 121 to 540
+2022-04-23 08:37:34,446 - DEBUG - Stepping right to 132
+2022-04-23 08:37:34,446 - DEBUG - Finding primers for slice 132 to 551
+2022-04-23 08:37:34,454 - DEBUG - Stepping right to 143
+2022-04-23 08:37:34,454 - DEBUG - Finding primers for slice 143 to 562
+2022-04-23 08:37:34,461 - INFO - Excluding reference CHRF_BD0003_CZ: unable to align.
+2022-04-23 08:37:34,461 - DEBUG - Window: left_limit 0, slice_start 0, right_limit 5268
+2022-04-23 08:37:34,461 - DEBUG - Region 1, pool 1
+2022-04-23 08:37:34,461 - DEBUG - Finding primers for slice 0 to 419
+2022-04-23 08:37:34,468 - DEBUG - Left limit reached
+2022-04-23 08:37:34,468 - DEBUG - Finding primers for slice 0 to 419
+2022-04-23 08:37:34,475 - DEBUG - Stepping right to 11
+2022-04-23 08:37:34,475 - DEBUG - Finding primers for slice 11 to 430
+2022-04-23 08:37:34,480 - DEBUG - Stepping right to 22
+2022-04-23 08:37:34,480 - DEBUG - Finding primers for slice 22 to 441
+2022-04-23 08:37:34,488 - DEBUG - Stepping right to 33
+2022-04-23 08:37:34,488 - DEBUG - Finding primers for slice 33 to 452
+2022-04-23 08:37:34,495 - DEBUG - Stepping right to 44
+2022-04-23 08:37:34,495 - DEBUG - Finding primers for slice 44 to 463
+2022-04-23 08:37:34,502 - DEBUG - Stepping right to 55
+2022-04-23 08:37:34,503 - DEBUG - Finding primers for slice 55 to 474
+2022-04-23 08:37:34,510 - DEBUG - Stepping right to 66
+2022-04-23 08:37:34,510 - DEBUG - Finding primers for slice 66 to 485
+2022-04-23 08:37:34,518 - DEBUG - Stepping right to 77
+2022-04-23 08:37:34,518 - DEBUG - Finding primers for slice 77 to 496
+2022-04-23 08:37:34,525 - DEBUG - Stepping right to 88
+2022-04-23 08:37:34,525 - DEBUG - Finding primers for slice 88 to 507
+2022-04-23 08:37:34,532 - DEBUG - Stepping right to 99
+2022-04-23 08:37:34,533 - DEBUG - Finding primers for slice 99 to 518
+2022-04-23 08:37:34,539 - DEBUG - Stepping right to 110
+2022-04-23 08:37:34,540 - DEBUG - Finding primers for slice 110 to 529
+2022-04-23 08:37:34,546 - DEBUG - Stepping right to 121
+2022-04-23 08:37:34,547 - DEBUG - Finding primers for slice 121 to 540
+2022-04-23 08:37:34,554 - DEBUG - Stepping right to 132
+2022-04-23 08:37:34,554 - DEBUG - Finding primers for slice 132 to 551
+2022-04-23 08:37:34,561 - DEBUG - Stepping right to 143
+2022-04-23 08:37:34,561 - DEBUG - Finding primers for slice 143 to 562
+2022-04-23 08:37:34,568 - INFO - Excluding reference CSF_0017_CZ: unable to align.
+2022-04-23 08:37:34,568 - DEBUG - Window: left_limit 0, slice_start 0, right_limit 5268
+2022-04-23 08:37:34,568 - DEBUG - Region 1, pool 1
+2022-04-23 08:37:34,568 - DEBUG - Finding primers for slice 0 to 419
+2022-04-23 08:37:34,575 - DEBUG - Left limit reached
+2022-04-23 08:37:34,575 - DEBUG - Finding primers for slice 0 to 419
+2022-04-23 08:37:34,582 - DEBUG - Stepping right to 11
+2022-04-23 08:37:34,583 - DEBUG - Finding primers for slice 11 to 430
+2022-04-23 08:37:34,588 - DEBUG - Stepping right to 22
+2022-04-23 08:37:34,588 - DEBUG - Finding primers for slice 22 to 441
+2022-04-23 08:37:34,595 - DEBUG - Stepping right to 33
+2022-04-23 08:37:34,595 - DEBUG - Finding primers for slice 33 to 452
+2022-04-23 08:37:34,602 - DEBUG - Stepping right to 44
+2022-04-23 08:37:34,602 - DEBUG - Finding primers for slice 44 to 463
+2022-04-23 08:37:34,610 - DEBUG - Stepping right to 55
+2022-04-23 08:37:34,610 - DEBUG - Finding primers for slice 55 to 474
+2022-04-23 08:37:34,617 - DEBUG - Stepping right to 66
+2022-04-23 08:37:34,617 - DEBUG - Finding primers for slice 66 to 485
+2022-04-23 08:37:34,626 - DEBUG - Stepping right to 77
+2022-04-23 08:37:34,626 - DEBUG - Finding primers for slice 77 to 496
+2022-04-23 08:37:34,632 - DEBUG - Stepping right to 88
+2022-04-23 08:37:34,633 - DEBUG - Finding primers for slice 88 to 507
+2022-04-23 08:37:34,640 - DEBUG - Stepping right to 99
+2022-04-23 08:37:34,640 - DEBUG - Finding primers for slice 99 to 518
+2022-04-23 08:37:34,647 - DEBUG - Stepping right to 110
+2022-04-23 08:37:34,647 - DEBUG - Finding primers for slice 110 to 529
+2022-04-23 08:37:34,654 - DEBUG - Stepping right to 121
+2022-04-23 08:37:34,654 - DEBUG - Finding primers for slice 121 to 540
+2022-04-23 08:37:34,661 - DEBUG - Stepping right to 132
+2022-04-23 08:37:34,661 - DEBUG - Finding primers for slice 132 to 551
+2022-04-23 08:37:34,668 - DEBUG - Stepping right to 143
+2022-04-23 08:37:34,668 - DEBUG - Finding primers for slice 143 to 562
+2022-04-23 08:37:34,675 - INFO - Excluding reference CSF_0004_CZ: unable to align.
+2022-04-23 08:37:34,676 - DEBUG - Window: left_limit 0, slice_start 0, right_limit 5268
+2022-04-23 08:37:34,676 - DEBUG - Region 1, pool 1
+2022-04-23 08:37:34,676 - DEBUG - Finding primers for slice 0 to 419
+2022-04-23 08:37:34,683 - DEBUG - Left limit reached
+2022-04-23 08:37:34,683 - DEBUG - Finding primers for slice 0 to 419
+2022-04-23 08:37:34,690 - DEBUG - Stepping right to 11
+2022-04-23 08:37:34,690 - DEBUG - Finding primers for slice 11 to 430
+2022-04-23 08:37:34,695 - DEBUG - Stepping right to 22
+2022-04-23 08:37:34,695 - DEBUG - Finding primers for slice 22 to 441
+2022-04-23 08:37:34,702 - DEBUG - Stepping right to 33
+2022-04-23 08:37:34,702 - DEBUG - Finding primers for slice 33 to 452
+2022-04-23 08:37:34,709 - DEBUG - Stepping right to 44
+2022-04-23 08:37:34,709 - DEBUG - Finding primers for slice 44 to 463
+2022-04-23 08:37:34,717 - DEBUG - Stepping right to 55
+2022-04-23 08:37:34,717 - DEBUG - Finding primers for slice 55 to 474
+2022-04-23 08:37:34,725 - DEBUG - Stepping right to 66
+2022-04-23 08:37:34,725 - DEBUG - Finding primers for slice 66 to 485
+2022-04-23 08:37:34,733 - DEBUG - Stepping right to 77
+2022-04-23 08:37:34,733 - DEBUG - Finding primers for slice 77 to 496
+2022-04-23 08:37:34,740 - DEBUG - Stepping right to 88
+2022-04-23 08:37:34,740 - DEBUG - Finding primers for slice 88 to 507
+2022-04-23 08:37:34,747 - DEBUG - Stepping right to 99
+2022-04-23 08:37:34,747 - DEBUG - Finding primers for slice 99 to 518
+2022-04-23 08:37:34,754 - DEBUG - Stepping right to 110
+2022-04-23 08:37:34,754 - DEBUG - Finding primers for slice 110 to 529
+2022-04-23 08:37:34,761 - DEBUG - Stepping right to 121
+2022-04-23 08:37:34,761 - DEBUG - Finding primers for slice 121 to 540
+2022-04-23 08:37:34,768 - DEBUG - Stepping right to 132
+2022-04-23 08:37:34,768 - DEBUG - Finding primers for slice 132 to 551
+2022-04-23 08:37:34,776 - DEBUG - Stepping right to 143
+2022-04-23 08:37:34,776 - DEBUG - Finding primers for slice 143 to 562
+2022-04-23 08:37:34,783 - INFO - Excluding reference CSF_0018_CZ: unable to align.
+2022-04-23 08:37:34,783 - DEBUG - Window: left_limit 0, slice_start 0, right_limit 5268
+2022-04-23 08:37:34,783 - DEBUG - Region 1, pool 1
+2022-04-23 08:37:34,783 - DEBUG - Finding primers for slice 0 to 419
+2022-04-23 08:37:34,790 - DEBUG - Left limit reached
+2022-04-23 08:37:34,790 - DEBUG - Finding primers for slice 0 to 419
+2022-04-23 08:37:34,797 - DEBUG - Stepping right to 11
+2022-04-23 08:37:34,797 - DEBUG - Finding primers for slice 11 to 430
+2022-04-23 08:37:34,802 - DEBUG - Stepping right to 22
+2022-04-23 08:37:34,803 - DEBUG - Finding primers for slice 22 to 441
+2022-04-23 08:37:34,810 - DEBUG - Stepping right to 33
+2022-04-23 08:37:34,810 - DEBUG - Finding primers for slice 33 to 452
+2022-04-23 08:37:34,817 - DEBUG - Stepping right to 44
+2022-04-23 08:37:34,817 - DEBUG - Finding primers for slice 44 to 463
+2022-04-23 08:37:34,825 - DEBUG - Stepping right to 55
+2022-04-23 08:37:34,825 - DEBUG - Finding primers for slice 55 to 474
+2022-04-23 08:37:34,832 - DEBUG - Stepping right to 66
+2022-04-23 08:37:34,832 - DEBUG - Finding primers for slice 66 to 485
+2022-04-23 08:37:34,840 - DEBUG - Stepping right to 77
+2022-04-23 08:37:34,840 - DEBUG - Finding primers for slice 77 to 496
+2022-04-23 08:37:34,847 - DEBUG - Stepping right to 88
+2022-04-23 08:37:34,847 - DEBUG - Finding primers for slice 88 to 507
+2022-04-23 08:37:34,854 - DEBUG - Stepping right to 99
+2022-04-23 08:37:34,855 - DEBUG - Finding primers for slice 99 to 518
+2022-04-23 08:37:34,862 - DEBUG - Stepping right to 110
+2022-04-23 08:37:34,862 - DEBUG - Finding primers for slice 110 to 529
+2022-04-23 08:37:34,868 - DEBUG - Stepping right to 121
+2022-04-23 08:37:34,869 - DEBUG - Finding primers for slice 121 to 540
+2022-04-23 08:37:34,876 - DEBUG - Stepping right to 132
+2022-04-23 08:37:34,876 - DEBUG - Finding primers for slice 132 to 551
+2022-04-23 08:37:34,883 - DEBUG - Stepping right to 143
+2022-04-23 08:37:34,883 - DEBUG - Finding primers for slice 143 to 562
+2022-04-23 08:37:34,894 - INFO - Excluding reference CSF_0019_CZ: unable to align.
+2022-04-23 08:37:34,894 - DEBUG - Window: left_limit 0, slice_start 0, right_limit 5268
+2022-04-23 08:37:34,894 - DEBUG - Region 1, pool 1
+2022-04-23 08:37:34,894 - DEBUG - Finding primers for slice 0 to 419
+2022-04-23 08:37:34,901 - DEBUG - Left limit reached
+2022-04-23 08:37:34,901 - DEBUG - Finding primers for slice 0 to 419
+2022-04-23 08:37:34,908 - DEBUG - Stepping right to 11
+2022-04-23 08:37:34,908 - DEBUG - Finding primers for slice 11 to 430
+2022-04-23 08:37:34,913 - DEBUG - Stepping right to 22
+2022-04-23 08:37:34,914 - DEBUG - Finding primers for slice 22 to 441
+2022-04-23 08:37:34,921 - DEBUG - Stepping right to 33
+2022-04-23 08:37:34,921 - DEBUG - Finding primers for slice 33 to 452
+2022-04-23 08:37:34,928 - DEBUG - Stepping right to 44
+2022-04-23 08:37:34,928 - DEBUG - Finding primers for slice 44 to 463
+2022-04-23 08:37:34,936 - DEBUG - Stepping right to 55
+2022-04-23 08:37:34,936 - DEBUG - Finding primers for slice 55 to 474
+2022-04-23 08:37:34,943 - DEBUG - Stepping right to 66
+2022-04-23 08:37:34,943 - DEBUG - Finding primers for slice 66 to 485
+2022-04-23 08:37:34,951 - DEBUG - Stepping right to 77
+2022-04-23 08:37:34,951 - DEBUG - Finding primers for slice 77 to 496
+2022-04-23 08:37:34,958 - DEBUG - Stepping right to 88
+2022-04-23 08:37:34,958 - DEBUG - Finding primers for slice 88 to 507
+2022-04-23 08:37:34,966 - DEBUG - Stepping right to 99
+2022-04-23 08:37:34,966 - DEBUG - Finding primers for slice 99 to 518
+2022-04-23 08:37:34,973 - DEBUG - Stepping right to 110
+2022-04-23 08:37:34,973 - DEBUG - Finding primers for slice 110 to 529
+2022-04-23 08:37:34,980 - DEBUG - Stepping right to 121
+2022-04-23 08:37:34,980 - DEBUG - Finding primers for slice 121 to 540
+2022-04-23 08:37:34,987 - DEBUG - Stepping right to 132
+2022-04-23 08:37:34,987 - DEBUG - Finding primers for slice 132 to 551
+2022-04-23 08:37:34,994 - DEBUG - Stepping right to 143
+2022-04-23 08:37:34,994 - DEBUG - Finding primers for slice 143 to 562
+2022-04-23 08:37:35,001 - INFO - Excluding reference CSF_0023_NODE_1_length_4912_cov_9477: unable to align.
+2022-04-23 08:37:35,002 - DEBUG - Window: left_limit 0, slice_start 0, right_limit 5268
+2022-04-23 08:37:35,002 - DEBUG - Region 1, pool 1
+2022-04-23 08:37:35,002 - DEBUG - Finding primers for slice 0 to 419
+2022-04-23 08:37:35,009 - DEBUG - Left limit reached
+2022-04-23 08:37:35,009 - DEBUG - Finding primers for slice 0 to 419
+2022-04-23 08:37:35,016 - DEBUG - Stepping right to 11
+2022-04-23 08:37:35,016 - DEBUG - Finding primers for slice 11 to 430
+2022-04-23 08:37:35,021 - DEBUG - Stepping right to 22
+2022-04-23 08:37:35,021 - DEBUG - Finding primers for slice 22 to 441
+2022-04-23 08:37:35,028 - DEBUG - Stepping right to 33
+2022-04-23 08:37:35,028 - DEBUG - Finding primers for slice 33 to 452
+2022-04-23 08:37:35,035 - DEBUG - Stepping right to 44
+2022-04-23 08:37:35,035 - DEBUG - Finding primers for slice 44 to 463
+2022-04-23 08:37:35,043 - DEBUG - Stepping right to 55
+2022-04-23 08:37:35,043 - DEBUG - Finding primers for slice 55 to 474
+2022-04-23 08:37:35,050 - DEBUG - Stepping right to 66
+2022-04-23 08:37:35,050 - DEBUG - Finding primers for slice 66 to 485
+2022-04-23 08:37:35,059 - DEBUG - Stepping right to 77
+2022-04-23 08:37:35,059 - DEBUG - Finding primers for slice 77 to 496
+2022-04-23 08:37:35,066 - DEBUG - Stepping right to 88
+2022-04-23 08:37:35,066 - DEBUG - Finding primers for slice 88 to 507
+2022-04-23 08:37:35,073 - DEBUG - Stepping right to 99
+2022-04-23 08:37:35,073 - DEBUG - Finding primers for slice 99 to 518
+2022-04-23 08:37:35,080 - DEBUG - Stepping right to 110
+2022-04-23 08:37:35,080 - DEBUG - Finding primers for slice 110 to 529
+2022-04-23 08:37:35,087 - DEBUG - Stepping right to 121
+2022-04-23 08:37:35,087 - DEBUG - Finding primers for slice 121 to 540
+2022-04-23 08:37:35,094 - DEBUG - Stepping right to 132
+2022-04-23 08:37:35,094 - DEBUG - Finding primers for slice 132 to 551
+2022-04-23 08:37:35,102 - DEBUG - Stepping right to 143
+2022-04-23 08:37:35,102 - DEBUG - Finding primers for slice 143 to 562
+2022-04-23 08:37:35,109 - INFO - Excluding reference CSF_0026_CZ: unable to align.
+2022-04-23 08:37:35,109 - DEBUG - Window: left_limit 0, slice_start 0, right_limit 5268
+2022-04-23 08:37:35,109 - DEBUG - Region 1, pool 1
+2022-04-23 08:37:35,109 - DEBUG - Finding primers for slice 0 to 419
+2022-04-23 08:37:35,116 - DEBUG - Left limit reached
+2022-04-23 08:37:35,116 - DEBUG - Finding primers for slice 0 to 419
+2022-04-23 08:37:35,123 - DEBUG - Stepping right to 11
+2022-04-23 08:37:35,124 - DEBUG - Finding primers for slice 11 to 430
+2022-04-23 08:37:35,129 - DEBUG - Stepping right to 22
+2022-04-23 08:37:35,129 - DEBUG - Finding primers for slice 22 to 441
+2022-04-23 08:37:35,150 - DEBUG - Stepping right to 33
+2022-04-23 08:37:35,150 - DEBUG - Finding primers for slice 33 to 452
+2022-04-23 08:37:35,171 - DEBUG - Stepping right to 44
+2022-04-23 08:37:35,171 - DEBUG - Finding primers for slice 44 to 463
+2022-04-23 08:37:35,194 - DEBUG - Stepping right to 55
+2022-04-23 08:37:35,194 - DEBUG - Finding primers for slice 55 to 474
+2022-04-23 08:37:35,253 - DEBUG - Stepping right to 66
+2022-04-23 08:37:35,253 - DEBUG - Finding primers for slice 66 to 485
+2022-04-23 08:37:35,330 - DEBUG - Stepping right to 77
+2022-04-23 08:37:35,330 - DEBUG - Finding primers for slice 77 to 496
+2022-04-23 08:37:35,394 - DEBUG - Stepping right to 88
+2022-04-23 08:37:35,394 - DEBUG - Finding primers for slice 88 to 507
+2022-04-23 08:37:35,462 - DEBUG - Stepping right to 99
+2022-04-23 08:37:35,462 - DEBUG - Finding primers for slice 99 to 518
+2022-04-23 08:37:35,469 - DEBUG - Stepping right to 110
+2022-04-23 08:37:35,469 - DEBUG - Finding primers for slice 110 to 529
+2022-04-23 08:37:35,537 - DEBUG - Stepping right to 121
+2022-04-23 08:37:35,538 - DEBUG - Finding primers for slice 121 to 540
+2022-04-23 08:37:35,603 - DEBUG - Stepping right to 132
+2022-04-23 08:37:35,603 - DEBUG - Finding primers for slice 132 to 551
+2022-04-23 08:37:35,610 - DEBUG - Stepping right to 143
+2022-04-23 08:37:35,610 - DEBUG - Finding primers for slice 143 to 562
+2022-04-23 08:37:35,616 - INFO - Excluding reference KU871314.1: unable to align.
+2022-04-23 08:37:35,617 - DEBUG - Window: left_limit 0, slice_start 0, right_limit 5268
+2022-04-23 08:37:35,617 - DEBUG - Region 1, pool 1
+2022-04-23 08:37:35,617 - DEBUG - Finding primers for slice 0 to 419
+2022-04-23 08:37:35,623 - DEBUG - Left limit reached
+2022-04-23 08:37:35,623 - DEBUG - Finding primers for slice 0 to 419
+2022-04-23 08:37:35,630 - DEBUG - Stepping right to 11
+2022-04-23 08:37:35,630 - DEBUG - Finding primers for slice 11 to 430
+2022-04-23 08:37:35,634 - DEBUG - Stepping right to 22
+2022-04-23 08:37:35,634 - DEBUG - Finding primers for slice 22 to 441
+2022-04-23 08:37:35,649 - DEBUG - Stepping right to 33
+2022-04-23 08:37:35,650 - DEBUG - Finding primers for slice 33 to 452
+2022-04-23 08:37:35,665 - DEBUG - Stepping right to 44
+2022-04-23 08:37:35,665 - DEBUG - Finding primers for slice 44 to 463
+2022-04-23 08:37:35,681 - DEBUG - Stepping right to 55
+2022-04-23 08:37:35,681 - DEBUG - Finding primers for slice 55 to 474
+2022-04-23 08:37:35,731 - DEBUG - Stepping right to 66
+2022-04-23 08:37:35,731 - DEBUG - Finding primers for slice 66 to 485
+2022-04-23 08:37:35,795 - DEBUG - Stepping right to 77
+2022-04-23 08:37:35,796 - DEBUG - Finding primers for slice 77 to 496
+2022-04-23 08:37:35,850 - DEBUG - Stepping right to 88
+2022-04-23 08:37:35,850 - DEBUG - Finding primers for slice 88 to 507
+2022-04-23 08:37:35,908 - DEBUG - Stepping right to 99
+2022-04-23 08:37:35,908 - DEBUG - Finding primers for slice 99 to 518
+2022-04-23 08:37:35,915 - DEBUG - Stepping right to 110
+2022-04-23 08:37:35,915 - DEBUG - Finding primers for slice 110 to 529
+2022-04-23 08:37:35,974 - DEBUG - Stepping right to 121
+2022-04-23 08:37:35,974 - DEBUG - Finding primers for slice 121 to 540
+2022-04-23 08:37:36,034 - DEBUG - Stepping right to 132
+2022-04-23 08:37:36,035 - DEBUG - Finding primers for slice 132 to 551
+2022-04-23 08:37:36,041 - DEBUG - Stepping right to 143
+2022-04-23 08:37:36,042 - DEBUG - Finding primers for slice 143 to 562
+2022-04-23 08:37:36,051 - INFO - Excluding reference KU871315.1: unable to align.
+2022-04-23 08:37:36,051 - DEBUG - Window: left_limit 0, slice_start 0, right_limit 5268
+2022-04-23 08:37:36,051 - DEBUG - Region 1, pool 1
+2022-04-23 08:37:36,051 - DEBUG - Finding primers for slice 0 to 419
+2022-04-23 08:37:36,062 - DEBUG - Left limit reached
+2022-04-23 08:37:36,062 - DEBUG - Finding primers for slice 0 to 419
+2022-04-23 08:37:36,073 - DEBUG - Stepping right to 11
+2022-04-23 08:37:36,073 - DEBUG - Finding primers for slice 11 to 430
+2022-04-23 08:37:36,078 - DEBUG - Stepping right to 22
+2022-04-23 08:37:36,078 - DEBUG - Finding primers for slice 22 to 441
+2022-04-23 08:37:36,089 - DEBUG - Stepping right to 33
+2022-04-23 08:37:36,089 - DEBUG - Finding primers for slice 33 to 452
+2022-04-23 08:37:36,100 - DEBUG - Stepping right to 44
+2022-04-23 08:37:36,100 - DEBUG - Finding primers for slice 44 to 463
+2022-04-23 08:37:36,112 - DEBUG - Stepping right to 55
+2022-04-23 08:37:36,112 - DEBUG - Finding primers for slice 55 to 474
+2022-04-23 08:37:36,157 - DEBUG - Stepping right to 66
+2022-04-23 08:37:36,157 - DEBUG - Finding primers for slice 66 to 485
+2022-04-23 08:37:36,218 - DEBUG - Stepping right to 77
+2022-04-23 08:37:36,218 - DEBUG - Finding primers for slice 77 to 496
+2022-04-23 08:37:36,269 - DEBUG - Stepping right to 88
+2022-04-23 08:37:36,269 - DEBUG - Finding primers for slice 88 to 507
+2022-04-23 08:37:36,322 - DEBUG - Stepping right to 99
+2022-04-23 08:37:36,322 - DEBUG - Finding primers for slice 99 to 518
+2022-04-23 08:37:36,345 - DEBUG - Stepping right to 110
+2022-04-23 08:37:36,345 - DEBUG - Finding primers for slice 110 to 529
+2022-04-23 08:37:36,403 - DEBUG - Stepping right to 121
+2022-04-23 08:37:36,403 - DEBUG - Finding primers for slice 121 to 540
+2022-04-23 08:37:36,459 - DEBUG - Stepping right to 132
+2022-04-23 08:37:36,459 - DEBUG - Finding primers for slice 132 to 551
+2022-04-23 08:37:36,483 - DEBUG - Stepping right to 143
+2022-04-23 08:37:36,483 - DEBUG - Finding primers for slice 143 to 562
+2022-04-23 08:37:36,507 - INFO - Excluding reference EU874248.1: unable to align.
+2022-04-23 08:37:36,507 - DEBUG - Window: left_limit 0, slice_start 0, right_limit 5268
+2022-04-23 08:37:36,507 - DEBUG - Region 1, pool 1
+2022-04-23 08:37:36,507 - DEBUG - Finding primers for slice 0 to 419
+2022-04-23 08:37:36,517 - DEBUG - Left limit reached
+2022-04-23 08:37:36,518 - DEBUG - Finding primers for slice 0 to 419
+2022-04-23 08:37:36,528 - DEBUG - Stepping right to 11
+2022-04-23 08:37:36,528 - DEBUG - Finding primers for slice 11 to 430
+2022-04-23 08:37:36,533 - DEBUG - Stepping right to 22
+2022-04-23 08:37:36,533 - DEBUG - Finding primers for slice 22 to 441
+2022-04-23 08:37:36,544 - DEBUG - Stepping right to 33
+2022-04-23 08:37:36,544 - DEBUG - Finding primers for slice 33 to 452
+2022-04-23 08:37:36,555 - DEBUG - Stepping right to 44
+2022-04-23 08:37:36,555 - DEBUG - Finding primers for slice 44 to 463
+2022-04-23 08:37:36,566 - DEBUG - Stepping right to 55
+2022-04-23 08:37:36,566 - DEBUG - Finding primers for slice 55 to 474
+2022-04-23 08:37:36,613 - DEBUG - Stepping right to 66
+2022-04-23 08:37:36,613 - DEBUG - Finding primers for slice 66 to 485
+2022-04-23 08:37:36,671 - DEBUG - Stepping right to 77
+2022-04-23 08:37:36,671 - DEBUG - Finding primers for slice 77 to 496
+2022-04-23 08:37:36,718 - DEBUG - Stepping right to 88
+2022-04-23 08:37:36,719 - DEBUG - Finding primers for slice 88 to 507
+2022-04-23 08:37:36,767 - DEBUG - Stepping right to 99
+2022-04-23 08:37:36,767 - DEBUG - Finding primers for slice 99 to 518
+2022-04-23 08:37:36,811 - DEBUG - Stepping right to 110
+2022-04-23 08:37:36,811 - DEBUG - Finding primers for slice 110 to 529
+2022-04-23 08:37:36,862 - DEBUG - Stepping right to 121
+2022-04-23 08:37:36,862 - DEBUG - Finding primers for slice 121 to 540
+2022-04-23 08:37:36,914 - DEBUG - Stepping right to 132
+2022-04-23 08:37:36,915 - DEBUG - Finding primers for slice 132 to 551
+2022-04-23 08:37:36,960 - DEBUG - Stepping right to 143
+2022-04-23 08:37:36,960 - DEBUG - Finding primers for slice 143 to 562
+2022-04-23 08:37:37,004 - INFO - Excluding reference EU200667.1: unable to align.
+2022-04-23 08:37:37,004 - DEBUG - Window: left_limit 0, slice_start 0, right_limit 5268
+2022-04-23 08:37:37,004 - DEBUG - Region 1, pool 1
+2022-04-23 08:37:37,004 - DEBUG - Finding primers for slice 0 to 419
+2022-04-23 08:37:37,015 - DEBUG - Left limit reached
+2022-04-23 08:37:37,015 - DEBUG - Finding primers for slice 0 to 419
+2022-04-23 08:37:37,025 - DEBUG - Stepping right to 11
+2022-04-23 08:37:37,025 - DEBUG - Finding primers for slice 11 to 430
+2022-04-23 08:37:37,030 - DEBUG - Stepping right to 22
+2022-04-23 08:37:37,030 - DEBUG - Finding primers for slice 22 to 441
+2022-04-23 08:37:37,041 - DEBUG - Stepping right to 33
+2022-04-23 08:37:37,041 - DEBUG - Finding primers for slice 33 to 452
+2022-04-23 08:37:37,052 - DEBUG - Stepping right to 44
+2022-04-23 08:37:37,052 - DEBUG - Finding primers for slice 44 to 463
+2022-04-23 08:37:37,063 - DEBUG - Stepping right to 55
+2022-04-23 08:37:37,063 - DEBUG - Finding primers for slice 55 to 474
+2022-04-23 08:37:37,105 - DEBUG - Stepping right to 66
+2022-04-23 08:37:37,105 - DEBUG - Finding primers for slice 66 to 485
+2022-04-23 08:37:37,159 - DEBUG - Stepping right to 77
+2022-04-23 08:37:37,159 - DEBUG - Finding primers for slice 77 to 496
+2022-04-23 08:37:37,202 - DEBUG - Stepping right to 88
+2022-04-23 08:37:37,202 - DEBUG - Finding primers for slice 88 to 507
+2022-04-23 08:37:37,246 - DEBUG - Stepping right to 99
+2022-04-23 08:37:37,246 - DEBUG - Finding primers for slice 99 to 518
+2022-04-23 08:37:37,294 - DEBUG - Stepping right to 110
+2022-04-23 08:37:37,294 - DEBUG - Finding primers for slice 110 to 529
+2022-04-23 08:37:37,341 - DEBUG - Stepping right to 121
+2022-04-23 08:37:37,342 - DEBUG - Finding primers for slice 121 to 540
+2022-04-23 08:37:37,389 - DEBUG - Stepping right to 132
+2022-04-23 08:37:37,389 - DEBUG - Finding primers for slice 132 to 551
+2022-04-23 08:37:37,439 - DEBUG - Stepping right to 143
+2022-04-23 08:37:37,439 - DEBUG - Finding primers for slice 143 to 562
+2022-04-23 08:37:37,486 - INFO - Excluding reference DQ873387.1: unable to align.
+2022-04-23 08:37:37,486 - DEBUG - Window: left_limit 0, slice_start 0, right_limit 5268
+2022-04-23 08:37:37,486 - DEBUG - Region 1, pool 1
+2022-04-23 08:37:37,487 - DEBUG - Finding primers for slice 0 to 419
+2022-04-23 08:37:37,497 - DEBUG - Left limit reached
+2022-04-23 08:37:37,498 - DEBUG - Finding primers for slice 0 to 419
+2022-04-23 08:37:37,510 - DEBUG - Stepping right to 11
+2022-04-23 08:37:37,510 - DEBUG - Finding primers for slice 11 to 430
+2022-04-23 08:37:37,514 - DEBUG - Stepping right to 22
+2022-04-23 08:37:37,514 - DEBUG - Finding primers for slice 22 to 441
+2022-04-23 08:37:37,525 - DEBUG - Stepping right to 33
+2022-04-23 08:37:37,525 - DEBUG - Finding primers for slice 33 to 452
+2022-04-23 08:37:37,536 - DEBUG - Stepping right to 44
+2022-04-23 08:37:37,536 - DEBUG - Finding primers for slice 44 to 463
+2022-04-23 08:37:37,547 - DEBUG - Stepping right to 55
+2022-04-23 08:37:37,548 - DEBUG - Finding primers for slice 55 to 474
+2022-04-23 08:37:37,588 - DEBUG - Stepping right to 66
+2022-04-23 08:37:37,588 - DEBUG - Finding primers for slice 66 to 485
+2022-04-23 08:37:37,643 - DEBUG - Stepping right to 77
+2022-04-23 08:37:37,643 - DEBUG - Finding primers for slice 77 to 496
+2022-04-23 08:37:37,685 - DEBUG - Stepping right to 88
+2022-04-23 08:37:37,685 - DEBUG - Finding primers for slice 88 to 507
+2022-04-23 08:37:37,731 - DEBUG - Stepping right to 99
+2022-04-23 08:37:37,731 - DEBUG - Finding primers for slice 99 to 518
+2022-04-23 08:37:37,779 - DEBUG - Stepping right to 110
+2022-04-23 08:37:37,779 - DEBUG - Finding primers for slice 110 to 529
+2022-04-23 08:37:37,826 - DEBUG - Stepping right to 121
+2022-04-23 08:37:37,826 - DEBUG - Finding primers for slice 121 to 540
+2022-04-23 08:37:37,873 - DEBUG - Stepping right to 132
+2022-04-23 08:37:37,873 - DEBUG - Finding primers for slice 132 to 551
+2022-04-23 08:37:37,924 - DEBUG - Stepping right to 143
+2022-04-23 08:37:37,924 - DEBUG - Finding primers for slice 143 to 562
+2022-04-23 08:37:37,972 - INFO - Excluding reference DQ873388.1: unable to align.
+2022-04-23 08:37:37,972 - DEBUG - Window: left_limit 0, slice_start 0, right_limit 5268
+2022-04-23 08:37:37,972 - DEBUG - Region 1, pool 1
+2022-04-23 08:37:37,973 - DEBUG - Finding primers for slice 0 to 419
+2022-04-23 08:37:37,983 - DEBUG - Left limit reached
+2022-04-23 08:37:37,983 - DEBUG - Finding primers for slice 0 to 419
+2022-04-23 08:37:37,994 - DEBUG - Stepping right to 11
+2022-04-23 08:37:37,994 - DEBUG - Finding primers for slice 11 to 430
+2022-04-23 08:37:37,999 - DEBUG - Stepping right to 22
+2022-04-23 08:37:37,999 - DEBUG - Finding primers for slice 22 to 441
+2022-04-23 08:37:38,010 - DEBUG - Stepping right to 33
+2022-04-23 08:37:38,010 - DEBUG - Finding primers for slice 33 to 452
+2022-04-23 08:37:38,021 - DEBUG - Stepping right to 44
+2022-04-23 08:37:38,021 - DEBUG - Finding primers for slice 44 to 463
+2022-04-23 08:37:38,033 - DEBUG - Stepping right to 55
+2022-04-23 08:37:38,033 - DEBUG - Finding primers for slice 55 to 474
+2022-04-23 08:37:38,074 - DEBUG - Stepping right to 66
+2022-04-23 08:37:38,074 - DEBUG - Finding primers for slice 66 to 485
+2022-04-23 08:37:38,129 - DEBUG - Stepping right to 77
+2022-04-23 08:37:38,130 - DEBUG - Finding primers for slice 77 to 496
+2022-04-23 08:37:38,172 - DEBUG - Stepping right to 88
+2022-04-23 08:37:38,172 - DEBUG - Finding primers for slice 88 to 507
+2022-04-23 08:37:38,217 - DEBUG - Stepping right to 99
+2022-04-23 08:37:38,217 - DEBUG - Finding primers for slice 99 to 518
+2022-04-23 08:37:38,264 - DEBUG - Stepping right to 110
+2022-04-23 08:37:38,264 - DEBUG - Finding primers for slice 110 to 529
+2022-04-23 08:37:38,312 - DEBUG - Stepping right to 121
+2022-04-23 08:37:38,312 - DEBUG - Finding primers for slice 121 to 540
+2022-04-23 08:37:38,360 - DEBUG - Stepping right to 132
+2022-04-23 08:37:38,360 - DEBUG - Finding primers for slice 132 to 551
+2022-04-23 08:37:38,410 - DEBUG - Stepping right to 143
+2022-04-23 08:37:38,410 - DEBUG - Finding primers for slice 143 to 562
+2022-04-23 08:37:38,457 - INFO - Excluding reference DQ873389.1: unable to align.
+2022-04-23 08:37:38,457 - DEBUG - Window: left_limit 0, slice_start 0, right_limit 5268
+2022-04-23 08:37:38,457 - DEBUG - Region 1, pool 1
+2022-04-23 08:37:38,457 - DEBUG - Finding primers for slice 0 to 419
+2022-04-23 08:37:38,468 - DEBUG - Left limit reached
+2022-04-23 08:37:38,468 - DEBUG - Finding primers for slice 0 to 419
+2022-04-23 08:37:38,479 - DEBUG - Stepping right to 11
+2022-04-23 08:37:38,479 - DEBUG - Finding primers for slice 11 to 430
+2022-04-23 08:37:38,484 - DEBUG - Stepping right to 22
+2022-04-23 08:37:38,484 - DEBUG - Finding primers for slice 22 to 441
+2022-04-23 08:37:38,495 - DEBUG - Stepping right to 33
+2022-04-23 08:37:38,495 - DEBUG - Finding primers for slice 33 to 452
+2022-04-23 08:37:38,506 - DEBUG - Stepping right to 44
+2022-04-23 08:37:38,506 - DEBUG - Finding primers for slice 44 to 463
+2022-04-23 08:37:38,519 - DEBUG - Stepping right to 55
+2022-04-23 08:37:38,519 - DEBUG - Finding primers for slice 55 to 474
+2022-04-23 08:37:38,560 - DEBUG - Stepping right to 66
+2022-04-23 08:37:38,560 - DEBUG - Finding primers for slice 66 to 485
+2022-04-23 08:37:38,614 - DEBUG - Stepping right to 77
+2022-04-23 08:37:38,614 - DEBUG - Finding primers for slice 77 to 496
+2022-04-23 08:37:38,657 - DEBUG - Stepping right to 88
+2022-04-23 08:37:38,657 - DEBUG - Finding primers for slice 88 to 507
+2022-04-23 08:37:38,702 - DEBUG - Stepping right to 99
+2022-04-23 08:37:38,702 - DEBUG - Finding primers for slice 99 to 518
+2022-04-23 08:37:38,750 - DEBUG - Stepping right to 110
+2022-04-23 08:37:38,750 - DEBUG - Finding primers for slice 110 to 529
+2022-04-23 08:37:38,797 - DEBUG - Stepping right to 121
+2022-04-23 08:37:38,797 - DEBUG - Finding primers for slice 121 to 540
+2022-04-23 08:37:38,845 - DEBUG - Stepping right to 132
+2022-04-23 08:37:38,845 - DEBUG - Finding primers for slice 132 to 551
+2022-04-23 08:37:38,894 - DEBUG - Stepping right to 143
+2022-04-23 08:37:38,894 - DEBUG - Finding primers for slice 143 to 562
+2022-04-23 08:37:38,943 - INFO - Excluding reference DQ873386.1: unable to align.
+2022-04-23 08:37:38,943 - DEBUG - Window: left_limit 0, slice_start 0, right_limit 5268
+2022-04-23 08:37:38,943 - DEBUG - Region 1, pool 1
+2022-04-23 08:37:38,944 - DEBUG - Finding primers for slice 0 to 419
+2022-04-23 08:37:38,954 - DEBUG - Left limit reached
+2022-04-23 08:37:38,954 - DEBUG - Finding primers for slice 0 to 419
+2022-04-23 08:37:38,965 - DEBUG - Stepping right to 11
+2022-04-23 08:37:38,965 - DEBUG - Finding primers for slice 11 to 430
+2022-04-23 08:37:38,970 - DEBUG - Stepping right to 22
+2022-04-23 08:37:38,970 - DEBUG - Finding primers for slice 22 to 441
+2022-04-23 08:37:38,981 - DEBUG - Stepping right to 33
+2022-04-23 08:37:38,981 - DEBUG - Finding primers for slice 33 to 452
+2022-04-23 08:37:38,991 - DEBUG - Stepping right to 44
+2022-04-23 08:37:38,992 - DEBUG - Finding primers for slice 44 to 463
+2022-04-23 08:37:39,003 - DEBUG - Stepping right to 55
+2022-04-23 08:37:39,003 - DEBUG - Finding primers for slice 55 to 474
+2022-04-23 08:37:39,044 - DEBUG - Stepping right to 66
+2022-04-23 08:37:39,044 - DEBUG - Finding primers for slice 66 to 485
+2022-04-23 08:37:39,099 - DEBUG - Stepping right to 77
+2022-04-23 08:37:39,099 - DEBUG - Finding primers for slice 77 to 496
+2022-04-23 08:37:39,142 - DEBUG - Stepping right to 88
+2022-04-23 08:37:39,142 - DEBUG - Finding primers for slice 88 to 507
+2022-04-23 08:37:39,187 - DEBUG - Stepping right to 99
+2022-04-23 08:37:39,187 - DEBUG - Finding primers for slice 99 to 518
+2022-04-23 08:37:39,234 - DEBUG - Stepping right to 110
+2022-04-23 08:37:39,234 - DEBUG - Finding primers for slice 110 to 529
+2022-04-23 08:37:39,281 - DEBUG - Stepping right to 121
+2022-04-23 08:37:39,281 - DEBUG - Finding primers for slice 121 to 540
+2022-04-23 08:37:39,331 - DEBUG - Stepping right to 132
+2022-04-23 08:37:39,331 - DEBUG - Finding primers for slice 132 to 551
+2022-04-23 08:37:39,380 - DEBUG - Stepping right to 143
+2022-04-23 08:37:39,381 - DEBUG - Finding primers for slice 143 to 562
+2022-04-23 08:37:39,428 - INFO - Excluding reference DQ873391.1: unable to align.
+2022-04-23 08:37:39,429 - DEBUG - Window: left_limit 0, slice_start 0, right_limit 5268
+2022-04-23 08:37:39,429 - DEBUG - Region 1, pool 1
+2022-04-23 08:37:39,429 - DEBUG - Finding primers for slice 0 to 419
+2022-04-23 08:37:39,439 - DEBUG - Left limit reached
+2022-04-23 08:37:39,439 - DEBUG - Finding primers for slice 0 to 419
+2022-04-23 08:37:39,450 - DEBUG - Stepping right to 11
+2022-04-23 08:37:39,450 - DEBUG - Finding primers for slice 11 to 430
+2022-04-23 08:37:39,455 - DEBUG - Stepping right to 22
+2022-04-23 08:37:39,455 - DEBUG - Finding primers for slice 22 to 441
+2022-04-23 08:37:39,466 - DEBUG - Stepping right to 33
+2022-04-23 08:37:39,466 - DEBUG - Finding primers for slice 33 to 452
+2022-04-23 08:37:39,476 - DEBUG - Stepping right to 44
+2022-04-23 08:37:39,477 - DEBUG - Finding primers for slice 44 to 463
+2022-04-23 08:37:39,488 - DEBUG - Stepping right to 55
+2022-04-23 08:37:39,488 - DEBUG - Finding primers for slice 55 to 474
+2022-04-23 08:37:39,530 - DEBUG - Stepping right to 66
+2022-04-23 08:37:39,530 - DEBUG - Finding primers for slice 66 to 485
+2022-04-23 08:37:39,585 - DEBUG - Stepping right to 77
+2022-04-23 08:37:39,585 - DEBUG - Finding primers for slice 77 to 496
+2022-04-23 08:37:39,628 - DEBUG - Stepping right to 88
+2022-04-23 08:37:39,628 - DEBUG - Finding primers for slice 88 to 507
+2022-04-23 08:37:39,673 - DEBUG - Stepping right to 99
+2022-04-23 08:37:39,673 - DEBUG - Finding primers for slice 99 to 518
+2022-04-23 08:37:40,346 - DEBUG - Left region flank MSA: Alphabet() alignment with 12 rows and 54 columns
+AACTTCCGGCCACGTCAACTTCCGGTGACGTATTTCCGCTTCCG...GAA NC_007018.1
+AACTTCCGGCCACGTCAACTTCCGGTGACGTATTTCCGCTTCCG...GAA KM390024.1
+AACTTCCGGCCACGTCAACTTCCGGTGACGTATTTCCGCTTCCG...GAA AY622943.1
+AACTTCCGGCCACGTCAACTTCCGGTGACGTATTTCCGCTTCCG...GAA EU546204.1
+AACTTCCGGCCACGTCAACTTCCGGTGACGTATTTCCGCTTCCG...GAA EU546210.1
+AACTTCCGGCCACGTCAACTTCCGGTGACGTATTTCCGCTTCCG...GAA EU175856.1
+AACTTCCGGCCACGTCAACTTCCGGTGACGTATTTCCGCTTCCG...GAA EU546205.1
+AACTTCCGGCCACGTCAACTTCCGGTGACGTATTTCCGCTTCCG...GAA EU546206.1
+AACTTCCGGCCACGTCAACTTCCGGTGACGTATTTCCGCTTCCG...GAA EU546207.1
+AACTTCCGGCCACGTCAGCTTCCGGTGACGTATTTCCGCTTCCG...GAA HQ593530.1
+AACTTCCGGCCACGTCAACTTCCGGTGACGTATTTCCGCTTCCG...GAA EU546211.1
+AACTTCCGGCCACGTGAACTTCCGGTGACGTATTTCCGCTTCCG...GAA EU175855.1
+2022-04-23 08:37:40,346 - DEBUG - Picked primer LEFT:ACTTCCGGCCACGTCAACTT:100
+2022-04-23 08:37:40,346 - DEBUG - Picked MSA slice: Alphabet() alignment with 13 rows and 20 columns
+ACTTCCGGCCACGTCAACTT NC_007018.1
+ACTTCCGGCCACGTCAACTT KM390024.1
+ACTTCCGGCCACGTCAACTT AY622943.1
+ACTTCCGGCCACGTCAACTT EU546204.1
+ACTTCCGGCCACGTCAACTT EU546210.1
+ACTTCCGGCCACGTCAACTT EU175856.1
+ACTTCCGGCCACGTCAACTT EU546205.1
+ACTTCCGGCCACGTCAACTT EU546206.1
+ACTTCCGGCCACGTCAACTT EU546207.1
+ACTTCCGGCCACGTCAGCTT HQ593530.1
+ACTTCCGGCCACGTCAACTT EU546211.1
+ACTTCCGGCCACGTGAACTT EU175855.1
+************** * *** Cigar
+2022-04-23 08:37:40,347 - DEBUG - LEFT candidate 0: base pen 3.337, combined pen 5.337, 1 max mismatch, 2 total mismatches.
+2022-04-23 08:37:40,347 - DEBUG - LEFT candidate 1: base pen 3.337, combined pen 5.337, 1 max mismatch, 2 total mismatches.
+2022-04-23 08:37:40,348 - DEBUG - LEFT candidate 2: base pen 3.337, combined pen 15.337, 2 max mismatches, 12 total mismatches.
+2022-04-23 08:37:40,348 - DEBUG - LEFT candidate 3: base pen 3.337, combined pen 15.337, 2 max mismatches, 12 total mismatches.
+2022-04-23 08:37:40,348 - DEBUG - Right region flank MSA: Alphabet() alignment with 12 rows and 54 columns
+CTTCACTCTGCATGGCAGAGTAACAGCATGCGAGGCAAACAGCT...TAT NC_007018.1
+TTTTACTCTGCATGGCAGAGTGACAGCATGAGATGCGAACAGCT...TAT KM390024.1
+CTTCACTCTGCATGGCAGAGTAACAGCATGCGAGGCAAACAGCT...TAT AY622943.1
+CTTCACTCTGCATGGCAGAGTAACAGCATGCGAGGCAAACAGCT...TAT EU546204.1
+CTTCACTCTGCATGGCAGAGTAACAGCATGCGAGGCAAACAGCT...TAT EU546210.1
+CTTCACTCTGCATGGCAGAGTAACAGCATGCGAGGCAAACAGCT...TAT EU175856.1
+CTTTACTCTGCATGGCAGAGTGACAGCATGAGATGCAAACAGCT...GAT EU546205.1
+CTTTACTCTGCATGGCAGAGTGACAGCATGAGATGCAAACAGCT...GAT EU546206.1
+CTTTACTCTGCATGGCAGAGTGACAGCATGAGATGCAAACAGCT...GAT EU546207.1
+CTTCACTCTGCATGGCAGAGTGACAGCATGAGATGCAAACAGCT...GAT HQ593530.1
+CTTCACTCTGCATGGCAGAGTAACAGCATGCGAGGCAAACAGCT...TGT EU546211.1
+CTTCACTCTGCATGGCAGAGTGACAGCATGAGATGCAAACAGCT...GAT EU175855.1
+2022-04-23 08:37:40,348 - DEBUG - Picked primer RIGHT:TGCATGGCAGAGTAACAGCATG:510
+2022-04-23 08:37:40,349 - DEBUG - Picked MSA slice: Alphabet() alignment with 13 rows and 22 columns
+TGCATGGCAGAGTAACAGCATG NC_007018.1
+TGCATGGCAGAGTGACAGCATG KM390024.1
+TGCATGGCAGAGTAACAGCATG AY622943.1
+TGCATGGCAGAGTAACAGCATG EU546204.1
+TGCATGGCAGAGTAACAGCATG EU546210.1
+TGCATGGCAGAGTAACAGCATG EU175856.1
+TGCATGGCAGAGTGACAGCATG EU546205.1
+TGCATGGCAGAGTGACAGCATG EU546206.1
+TGCATGGCAGAGTGACAGCATG EU546207.1
+TGCATGGCAGAGTGACAGCATG HQ593530.1
+TGCATGGCAGAGTAACAGCATG EU546211.1
+TGCATGGCAGAGTGACAGCATG EU175855.1
+************* ******** Cigar
+2022-04-23 08:37:40,349 - DEBUG - RIGHT candidate 0: base pen 0.698, combined pen 6.698, 1 max mismatch, 6 total mismatches.
+2022-04-23 08:37:40,350 - DEBUG - RIGHT candidate 1: base pen 1.556, combined pen 7.556, 1 max mismatch, 6 total mismatches.
+2022-04-23 08:37:40,350 - DEBUG - RIGHT candidate 2: base pen 1.965, combined pen 7.965, 1 max mismatch, 6 total mismatches.
+2022-04-23 08:37:40,351 - DEBUG - RIGHT candidate 3: base pen 2.047, combined pen 8.047, 1 max mismatch, 6 total mismatches.
+2022-04-23 08:37:40,351 - DEBUG - RIGHT candidate 4: base pen 3.020, combined pen 9.020, 1 max mismatch, 6 total mismatches.
+2022-04-23 08:37:40,352 - DEBUG - RIGHT candidate 5: base pen 3.417, combined pen 9.417, 1 max mismatch, 6 total mismatches.
+2022-04-23 08:37:40,352 - DEBUG - RIGHT candidate 6: base pen 0.750, combined pen 12.750, 2 max mismatches, 12 total mismatches.
+2022-04-23 08:37:40,353 - DEBUG - RIGHT candidate 7: base pen 0.926, combined pen 12.926, 2 max mismatches, 12 total mismatches.
+2022-04-23 08:37:40,353 - DEBUG - RIGHT candidate 8: base pen 1.446, combined pen 13.446, 2 max mismatches, 12 total mismatches.
+2022-04-23 08:37:40,354 - DEBUG - RIGHT candidate 9: base pen 1.490, combined pen 13.490, 2 max mismatches, 12 total mismatches.
+2022-04-23 08:37:40,356 - DEBUG - Window: left_limit 120, slice_start 414, right_limit 5268
+2022-04-23 08:37:40,356 - DEBUG - Region 2, pool 2
+2022-04-23 08:37:40,356 - DEBUG - Finding primers for slice 414 to 833
+2022-04-23 08:37:40,982 - DEBUG - Left region flank MSA: Alphabet() alignment with 12 rows and 54 columns
+CTCCGTGAGTCTGTTCCATTTTTTGACCATGCTGTTAATTTAGG...ATA NC_007018.1
+CTGCGTGAGTCCGTTCCACTTTTTGATCACGCTGTTAATTTAGG...ATA KM390024.1
+CTCCGTGAGTCTGTTCCATTTTTTGACCATGCTGTTAATTTAGG...ATA AY622943.1
+CTCCGTGAGTCTGTTCCATTTTTTGACCATGCTGTTAATTTAGG...ATA EU546204.1
+CTCCGTGAGTCTGTTCCATTTTTTGACCATGCTGTTAATTTAGG...ATA EU546210.1
+CTCCGTGAGTCTGTTCCATTTTTTGACCATGCTGTTAATTTAGG...ATA EU175856.1
+CTGCGTGAGTCCGTTCCACTTTTTGATCATGCTGTTAATTTAGG...ATC EU546205.1
+CTGCGTGAGTCCGTTCCACTTTTTGATCATGCTGTTAATTTAGG...ATC EU546206.1
+CTGCGTGAGTCCGTTCCACTTTTTGATCATGCTGTTAATTTAGG...ATC EU546207.1
+CTGCGTGAGTCCGTTCCACTTTTTGATCACGCTGTTAATTTAGG...ATC HQ593530.1
+CTCCGTGAGTCTGTTCCATTTTTTGACCATGCTGTTAATTTAGG...ACA EU546211.1
+CTGCGTGAGTCCGTTCCACTTTTTGATCACGCTGTTAATTTAGG...ATC EU175855.1
+2022-04-23 08:37:40,982 - DEBUG - Picked primer LEFT:CGTGAGTCCGTTCCACTTTTTG:417
+2022-04-23 08:37:40,982 - DEBUG - Picked MSA slice: Alphabet() alignment with 13 rows and 22 columns
+CGTGAGTCTGTTCCATTTTTTG NC_007018.1
+CGTGAGTCCGTTCCACTTTTTG KM390024.1
+CGTGAGTCTGTTCCATTTTTTG AY622943.1
+CGTGAGTCTGTTCCATTTTTTG EU546204.1
+CGTGAGTCTGTTCCATTTTTTG EU546210.1
+CGTGAGTCTGTTCCATTTTTTG EU175856.1
+CGTGAGTCCGTTCCACTTTTTG EU546205.1
+CGTGAGTCCGTTCCACTTTTTG EU546206.1
+CGTGAGTCCGTTCCACTTTTTG EU546207.1
+CGTGAGTCCGTTCCACTTTTTG HQ593530.1
+CGTGAGTCTGTTCCATTTTTTG EU546211.1
+CGTGAGTCCGTTCCACTTTTTG EU175855.1
+******** ****** ****** Cigar
+2022-04-23 08:37:40,983 - DEBUG - LEFT candidate 0: base pen 0.538, combined pen 12.538, 2 max mismatches, 12 total mismatches.
+2022-04-23 08:37:40,983 - DEBUG - LEFT candidate 1: base pen 1.781, combined pen 13.781, 2 max mismatches, 12 total mismatches.
+2022-04-23 08:37:40,984 - DEBUG - LEFT candidate 2: base pen 5.489, combined pen 20.489, 2 max mismatches, 15 total mismatches.
+2022-04-23 08:37:40,985 - DEBUG - LEFT candidate 3: base pen 6.112, combined pen 21.112, 2 max mismatches, 15 total mismatches.
+2022-04-23 08:37:40,985 - DEBUG - Right region flank MSA: Alphabet() alignment with 12 rows and 54 columns
+CACGCTCAGTACAGCTGCTTCAAACCTGTCTATATTAGTCCATG...GCA NC_007018.1
+CACGCTTAGTACAGCTGCTTCAAATCTATCTATGTTAGTCCATG...ACA KM390024.1
+CACGCTCAGTACAGCTGCTTCAAACCTGTCTATATTAGTCCATG...GCA AY622943.1
+CACGCTCAGTACAGCTGCTTCAAACCTGTCTATATTAGTCCATG...GCA EU546204.1
+CACGCTCAGTACAGCTGCTTCAAACCTGTCTATATTAGTCCATG...GCA EU546210.1
+CACGCTCAGTACAGCTGCTTCAAACCTGTCTATATTAGTCCATG...GCA EU175856.1
+CACGCTCAGAACAGCTGCTTCAAATCTATCTATGTTAGTCCATG...ACA EU546205.1
+CACGCTCAGAACAGCTGCTTCAAATCTATCTATGTTAGTCCATG...ACA EU546206.1
+CACGCTCAGAACAGCTGCTTCAAATCTATCTATGTTAGTCCATG...ACA EU546207.1
+CACGCTCAGTACAGCTGCTTCAAATCTATCTATGTTAGTCCATG...ACA HQ593530.1
+CACGCTCAGTACAGCTGCTTCAAACCTGTCTATATTAGTCCATG...GCA EU546211.1
+CACGCTCAGTACAGCTGCTTCAAATCTATCTATGTTAGTCCATG...ACA EU175855.1
+2022-04-23 08:37:40,985 - DEBUG - Picked primer RIGHT:CGCTCAGTACAGCTGCTTCAAA:831
+2022-04-23 08:37:40,985 - DEBUG - Picked MSA slice: Alphabet() alignment with 13 rows and 22 columns
+CGCTCAGTACAGCTGCTTCAAA NC_007018.1
+CGCTTAGTACAGCTGCTTCAAA KM390024.1
+CGCTCAGTACAGCTGCTTCAAA AY622943.1
+CGCTCAGTACAGCTGCTTCAAA EU546204.1
+CGCTCAGTACAGCTGCTTCAAA EU546210.1
+CGCTCAGTACAGCTGCTTCAAA EU175856.1
+CGCTCAGAACAGCTGCTTCAAA EU546205.1
+CGCTCAGAACAGCTGCTTCAAA EU546206.1
+CGCTCAGAACAGCTGCTTCAAA EU546207.1
+CGCTCAGTACAGCTGCTTCAAA HQ593530.1
+CGCTCAGTACAGCTGCTTCAAA EU546211.1
+CGCTCAGTACAGCTGCTTCAAA EU175855.1
+**** ** ************** Cigar
+2022-04-23 08:37:40,986 - DEBUG - RIGHT candidate 0: base pen 0.614, combined pen 4.614, 1 max mismatch, 4 total mismatches.
+2022-04-23 08:37:40,986 - DEBUG - RIGHT candidate 1: base pen 1.037, combined pen 5.037, 1 max mismatch, 4 total mismatches.
+2022-04-23 08:37:40,987 - DEBUG - RIGHT candidate 2: base pen 2.132, combined pen 6.132, 1 max mismatch, 4 total mismatches.
+2022-04-23 08:37:40,987 - DEBUG - RIGHT candidate 3: base pen 2.315, combined pen 6.315, 1 max mismatch, 4 total mismatches.
+2022-04-23 08:37:40,988 - DEBUG - RIGHT candidate 4: base pen 2.595, combined pen 6.595, 1 max mismatch, 4 total mismatches.
+2022-04-23 08:37:40,988 - DEBUG - RIGHT candidate 5: base pen 2.595, combined pen 6.595, 1 max mismatch, 4 total mismatches.
+2022-04-23 08:37:40,988 - DEBUG - RIGHT candidate 6: base pen 0.922, combined pen 10.922, 2 max mismatches, 10 total mismatches.
+2022-04-23 08:37:40,989 - DEBUG - RIGHT candidate 7: base pen 1.058, combined pen 11.058, 2 max mismatches, 10 total mismatches.
+2022-04-23 08:37:40,989 - DEBUG - RIGHT candidate 8: base pen 1.123, combined pen 11.123, 2 max mismatches, 10 total mismatches.
+2022-04-23 08:37:40,990 - DEBUG - RIGHT candidate 9: base pen 1.304, combined pen 11.304, 2 max mismatches, 10 total mismatches.
+2022-04-23 08:37:40,994 - DEBUG - Window: left_limit 511, slice_start 735, right_limit 5268
+2022-04-23 08:37:40,994 - DEBUG - Region 3, pool 1
+2022-04-23 08:37:40,994 - DEBUG - Finding primers for slice 735 to 1154
+2022-04-23 08:37:41,968 - DEBUG - Stepping left to 724
+2022-04-23 08:37:41,971 - DEBUG - Finding primers for slice 724 to 1143
+2022-04-23 08:37:42,792 - DEBUG - Stepping left to 713
+2022-04-23 08:37:42,794 - DEBUG - Finding primers for slice 713 to 1132
+2022-04-23 08:37:42,796 - DEBUG - Stepping left to 702
+2022-04-23 08:37:42,797 - DEBUG - Finding primers for slice 702 to 1121
+2022-04-23 08:37:43,486 - DEBUG - Left region flank MSA: Alphabet() alignment with 12 rows and 54 columns
+ACCCGTCAAGGGCGACTATATCAGGCTGATATGAGTTTTGTGAA...CTG NC_007018.1
+ACCCGTCAAGGTCGACTATATCAAGCTGATATGAGTTTTGTTAA...TTG KM390024.1
+ACCCGTCAAGGGCGACTATATCAGGCTGATATGAGTTTTGTGAA...CTG AY622943.1
+ACCCGTCAAGGGCGACTATATCAGGCTGATATGAGTTTTGTGAA...CTG EU546204.1
+ACCCGTCAAGGGCGACTATATCAGGCTGATATGAGTTTTGTGAA...CTG EU546210.1
+ACCCGTCAAGGGCGACTATATCAGGCTGATATGAGTTTTGTGAA...CTG EU175856.1
+ACCCGTCAAGGGCGCCTCTACCAAGCTGATATGAGTTTTGTGAA...CTG EU546205.1
+ACCCGTCAAGGGCGCCTCTACCAAGCTGATATGAGTTTTGTGAA...CTG EU546206.1
+ACCCGTCAAGGGCGCCTCTACCAAGCTGATATGAGTTTTGTGAA...CTG EU546207.1
+ACCCGTCAAGGGCGACTCTATCAAGCTGATATGAGTTTTGTTAA...TTG HQ593530.1
+ACCCGTCAAGGGCGACTATATCAGGCTGATATGAGTTTTGTGAA...CTG EU546211.1
+ACCCGTCAAGGGCGACTATATCAAGCTGATATGAGTTTTGTTAA...TTG EU175855.1
+2022-04-23 08:37:43,486 - DEBUG - Picked primer LEFT:CGTCAAGGGCGACTCTATCAAG:705
+2022-04-23 08:37:43,486 - DEBUG - Picked MSA slice: Alphabet() alignment with 13 rows and 22 columns
+CGTCAAGGGCGACTATATCAGG NC_007018.1
+CGTCAAGGTCGACTATATCAAG KM390024.1
+CGTCAAGGGCGACTATATCAGG AY622943.1
+CGTCAAGGGCGACTATATCAGG EU546204.1
+CGTCAAGGGCGACTATATCAGG EU546210.1
+CGTCAAGGGCGACTATATCAGG EU175856.1
+CGTCAAGGGCGCCTCTACCAAG EU546205.1
+CGTCAAGGGCGCCTCTACCAAG EU546206.1
+CGTCAAGGGCGCCTCTACCAAG EU546207.1
+CGTCAAGGGCGACTCTATCAAG HQ593530.1
+CGTCAAGGGCGACTATATCAGG EU546211.1
+CGTCAAGGGCGACTATATCAAG EU175855.1
+******** ** ** ** ** * Cigar
+2022-04-23 08:37:43,487 - DEBUG - LEFT candidate 0: base pen 0.026, combined pen 21.026, 2 max mismatches, 21 total mismatches.
+2022-04-23 08:37:43,487 - DEBUG - LEFT candidate 1: base pen 0.203, combined pen 21.203, 2 max mismatches, 21 total mismatches.
+2022-04-23 08:37:43,488 - DEBUG - LEFT candidate 2: base pen 0.234, combined pen 21.234, 2 max mismatches, 21 total mismatches.
+2022-04-23 08:37:43,489 - DEBUG - LEFT candidate 3: base pen 0.236, combined pen 21.236, 2 max mismatches, 21 total mismatches.
+2022-04-23 08:37:43,489 - DEBUG - LEFT candidate 4: base pen 0.398, combined pen 21.398, 2 max mismatches, 21 total mismatches.
+2022-04-23 08:37:43,490 - DEBUG - LEFT candidate 5: base pen 0.398, combined pen 21.398, 2 max mismatches, 21 total mismatches.
+2022-04-23 08:37:43,490 - DEBUG - LEFT candidate 6: base pen 1.009, combined pen 22.009, 2 max mismatches, 21 total mismatches.
+2022-04-23 08:37:43,491 - DEBUG - LEFT candidate 7: base pen 1.209, combined pen 22.209, 2 max mismatches, 21 total mismatches.
+2022-04-23 08:37:43,491 - DEBUG - LEFT candidate 8: base pen 1.378, combined pen 22.378, 2 max mismatches, 21 total mismatches.
+2022-04-23 08:37:43,492 - DEBUG - LEFT candidate 9: base pen 1.768, combined pen 22.768, 2 max mismatches, 21 total mismatches.
+2022-04-23 08:37:43,492 - DEBUG - Right region flank MSA: Alphabet() alignment with 12 rows and 54 columns
+AGGGTGGGCTAAAACCATTTCTCTTTTAGCTATTTGTAGTGCAT...TTG NC_007018.1
+AGGATGAGCTAAAACCATTTCTCTTTTAGCTATCTGCAATGCGT...TTG KM390024.1
+AGGGTGGGCTAAAACCATTTCTCTTTTAGCTATTTGTAGTGCAT...TTG AY622943.1
+AGGGTGGGCTAAAACCATTTCTCTTTTAGCTATTTGTAGTGCAT...TTG EU546204.1
+AGGGTGGGCTAAAACCATTTCTCTTTTAGCTATTTGTAGTGCAT...TTG EU546210.1
+AGGGTGGGCTAAAACCATTTCTCTTTTAGCTATTTGTAGTGCAT...TTG EU175856.1
+AGGATGAGCTAAAACCATTTCTCTTTTAGCTATCTGCAATGCAT...TTG EU546205.1
+AGGATGAGCTAAAACCATTTCTCTTTTAGCTATCTGCAATGCAT...TTG EU546206.1
+AGGATGAGCTAAAACCATTTCTCTTTTAGCTATCTGCAATGCAT...TTG EU546207.1
+AGGATGAGCTAAAACCATTTCTCTTTTAGCTATCTGCAATGCGT...TTG HQ593530.1
+AGGGTGGGCTAAAACCATTTCTCTTTTAGCTATTTGTAGTGCAT...TTG EU546211.1
+AGGATGAGCTAAAACCATTTCTCTTTTAGCTATCTGCAATGCAT...TTG EU175855.1
+2022-04-23 08:37:43,492 - DEBUG - Picked primer RIGHT:AGGGTGGGCTAAAACCATTTCT:1121
+2022-04-23 08:37:43,492 - DEBUG - Picked MSA slice: Alphabet() alignment with 13 rows and 22 columns
+AGGGTGGGCTAAAACCATTTCT NC_007018.1
+AGGATGAGCTAAAACCATTTCT KM390024.1
+AGGGTGGGCTAAAACCATTTCT AY622943.1
+AGGGTGGGCTAAAACCATTTCT EU546204.1
+AGGGTGGGCTAAAACCATTTCT EU546210.1
+AGGGTGGGCTAAAACCATTTCT EU175856.1
+AGGATGAGCTAAAACCATTTCT EU546205.1
+AGGATGAGCTAAAACCATTTCT EU546206.1
+AGGATGAGCTAAAACCATTTCT EU546207.1
+AGGATGAGCTAAAACCATTTCT HQ593530.1
+AGGGTGGGCTAAAACCATTTCT EU546211.1
+AGGATGAGCTAAAACCATTTCT EU175855.1
+*** ** *************** Cigar
+2022-04-23 08:37:43,493 - DEBUG - RIGHT candidate 0: base pen 0.925, combined pen 12.925, 2 max mismatches, 12 total mismatches.
+2022-04-23 08:37:43,493 - DEBUG - RIGHT candidate 1: base pen 1.076, combined pen 13.076, 2 max mismatches, 12 total mismatches.
+2022-04-23 08:37:43,494 - DEBUG - RIGHT candidate 2: base pen 1.076, combined pen 13.076, 2 max mismatches, 12 total mismatches.
+2022-04-23 08:37:43,494 - DEBUG - RIGHT candidate 3: base pen 1.315, combined pen 13.315, 2 max mismatches, 12 total mismatches.
+2022-04-23 08:37:43,495 - DEBUG - RIGHT candidate 4: base pen 8.030, combined pen 14.030, 1 max mismatch, 6 total mismatches.
+2022-04-23 08:37:43,495 - DEBUG - RIGHT candidate 5: base pen 2.626, combined pen 14.626, 2 max mismatches, 12 total mismatches.
+2022-04-23 08:37:43,496 - DEBUG - RIGHT candidate 6: base pen 2.961, combined pen 14.961, 2 max mismatches, 12 total mismatches.
+2022-04-23 08:37:43,497 - DEBUG - RIGHT candidate 7: base pen 3.391, combined pen 15.391, 2 max mismatches, 12 total mismatches.
+2022-04-23 08:37:43,497 - DEBUG - RIGHT candidate 8: base pen 3.394, combined pen 15.394, 2 max mismatches, 12 total mismatches.
+2022-04-23 08:37:43,498 - DEBUG - RIGHT candidate 9: base pen 4.132, combined pen 16.132, 2 max mismatches, 12 total mismatches.
+2022-04-23 08:37:43,501 - DEBUG - Window: left_limit 832, slice_start 1025, right_limit 5268
+2022-04-23 08:37:43,501 - DEBUG - Region 4, pool 2
+2022-04-23 08:37:43,501 - DEBUG - Finding primers for slice 1025 to 1444
+2022-04-23 08:37:43,504 - DEBUG - Stepping left to 1014
+2022-04-23 08:37:43,504 - DEBUG - Finding primers for slice 1014 to 1433
+2022-04-23 08:37:44,296 - DEBUG - Left region flank MSA: Alphabet() alignment with 12 rows and 54 columns
+TCAGTGAATAAACTCAGCTACAGGTCCTTTCTAGGAAGCAGTGG...CTT NC_007018.1
+TCAGTCAATAAGCTCAGCTATAGGTCCTTTCTGGGAAGCAGCGG...CTT KM390024.1
+TCAGTGAATAAACTCAGCTACAGGTCCTTTCTAGGAAGCAGTGG...CTT AY622943.1
+TCAGTGAATAAACTCAGCTACAGGTCCTTTCTAGGAAGCAGTGG...CTT EU546204.1
+TCAGTGAATAAACTCAGCTACAGGTCCTTTCTAGGAAGCAGTGG...CTT EU546210.1
+TCAGTGAATAAACTCAGCTACAGGTCCTTTCTAGGAAGCAGTGG...CTT EU175856.1
+TCAGTCAATAAGCTCAGTTACAGGTCCTTTCTGGGAAGCAGCGG...CTT EU546205.1
+TCAGTCAATAAGCTCAGTTACAGGTCCTTTCTGGGAAGCAGCGG...CTT EU546206.1
+TCAGTCAATAAGCTCAGTTACAGGTCCTTTCTGGGAAGCAGCGG...CTT EU546207.1
+TCAGTCAATAAGCTCAGCTATAGGTCTTTTCTGGGAAGCAGCGG...CTT HQ593530.1
+TCAGTGAATAAACTCAGCTACAGGTCCTTTCTAGGAAGCAGTGG...CTT EU546211.1
+TCAGTCAATAAGCTCAGCTATAGGTCCTTTCTGGGAAGCAGCGG...CTT EU175855.1
+2022-04-23 08:37:44,296 - DEBUG - Picked primer LEFT:ACAGGTCCTTTCTGGGAAGC:1033
+2022-04-23 08:37:44,298 - DEBUG - Picked MSA slice: Alphabet() alignment with 13 rows and 20 columns
+ACAGGTCCTTTCTAGGAAGC NC_007018.1
+ATAGGTCCTTTCTGGGAAGC KM390024.1
+ACAGGTCCTTTCTAGGAAGC AY622943.1
+ACAGGTCCTTTCTAGGAAGC EU546204.1
+ACAGGTCCTTTCTAGGAAGC EU546210.1
+ACAGGTCCTTTCTAGGAAGC EU175856.1
+ACAGGTCCTTTCTGGGAAGC EU546205.1
+ACAGGTCCTTTCTGGGAAGC EU546206.1
+ACAGGTCCTTTCTGGGAAGC EU546207.1
+ATAGGTCTTTTCTGGGAAGC HQ593530.1
+ACAGGTCCTTTCTAGGAAGC EU546211.1
+ATAGGTCCTTTCTGGGAAGC EU175855.1
+* ***** ***** ****** Cigar
+2022-04-23 08:37:44,299 - DEBUG - LEFT candidate 0: base pen 3.385, combined pen 13.385, 2 max mismatches, 10 total mismatches.
+2022-04-23 08:37:44,299 - DEBUG - LEFT candidate 1: base pen 1.250, combined pen 20.250, 2 max mismatches, 19 total mismatches.
+2022-04-23 08:37:44,300 - DEBUG - LEFT candidate 2: base pen 1.686, combined pen 20.686, 2 max mismatches, 19 total mismatches.
+2022-04-23 08:37:44,300 - DEBUG - LEFT candidate 3: base pen 2.068, combined pen 21.068, 2 max mismatches, 19 total mismatches.
+2022-04-23 08:37:44,301 - DEBUG - LEFT candidate 4: base pen 2.096, combined pen 21.096, 2 max mismatches, 19 total mismatches.
+2022-04-23 08:37:44,301 - DEBUG - LEFT candidate 5: base pen 2.264, combined pen 21.264, 2 max mismatches, 19 total mismatches.
+2022-04-23 08:37:44,302 - DEBUG - LEFT candidate 6: base pen 2.454, combined pen 21.454, 2 max mismatches, 19 total mismatches.
+2022-04-23 08:37:44,302 - DEBUG - LEFT candidate 7: base pen 2.476, combined pen 21.476, 2 max mismatches, 19 total mismatches.
+2022-04-23 08:37:44,303 - DEBUG - LEFT candidate 8: base pen 3.056, combined pen 22.056, 2 max mismatches, 19 total mismatches.
+2022-04-23 08:37:44,303 - DEBUG - LEFT candidate 9: base pen 3.787, combined pen 22.787, 2 max mismatches, 19 total mismatches.
+2022-04-23 08:37:44,304 - DEBUG - Right region flank MSA: Alphabet() alignment with 12 rows and 54 columns
+CTCTGTCATTCTGCCTTCTTCCCACCACACTAAGCTTTGACAGT...ATT NC_007018.1
+TTCTGTCATTCTACCTTCTTCCCACCATACTAGGCTTTGACAAT...ATT KM390024.1
+CTCTGTCATTCTGCCTTCTTCCCACCACACTAAGCTTTGACAGT...ATT AY622943.1
+CTCTGTCATTCTGCCTTCTTCCCACCACACTAAGCTTTGACAGT...ATT EU546204.1
+CTCTGTCATTCTGCCTTCTTCCCACCACACTAAGCTTTGACAGT...ATT EU546210.1
+CTCTGTCATTCTCCCTTCTTCCCACCACACTAAGCTTTGACAGT...ATT EU175856.1
+TTCTGTCATTCTACCTTCTTCCCACCATACTAGACTTTGACAAT...ATT EU546205.1
+TTCTGTCATTCTACCTTCTTCCCACCATACTAGACTTTGACAAT...ATT EU546206.1
+TTCTGTCATTCTACCTTCTTCCCACCATACTAGACTTTGACAAT...ATT EU546207.1
+TTCTGTCATTCTACCTTCTTCCCACCATACTAGGCTTTGACAAT...GTT HQ593530.1
+CTCTGTCATTCTGCCTTCTTCCCACCACACTAAGCTTTGACAGT...ATT EU546211.1
+TTCTGTCATTCTACCTTCTTCCCACCATACTAGGCTTTGACAAT...ATT EU175855.1
+2022-04-23 08:37:44,304 - DEBUG - Picked primer RIGHT:TGTCATTCTGCCTTCTTCCCAC:1430
+2022-04-23 08:37:44,304 - DEBUG - Picked MSA slice: Alphabet() alignment with 13 rows and 22 columns
+TGTCATTCTGCCTTCTTCCCAC NC_007018.1
+TGTCATTCTACCTTCTTCCCAC KM390024.1
+TGTCATTCTGCCTTCTTCCCAC AY622943.1
+TGTCATTCTGCCTTCTTCCCAC EU546204.1
+TGTCATTCTGCCTTCTTCCCAC EU546210.1
+TGTCATTCTCCCTTCTTCCCAC EU175856.1
+TGTCATTCTACCTTCTTCCCAC EU546205.1
+TGTCATTCTACCTTCTTCCCAC EU546206.1
+TGTCATTCTACCTTCTTCCCAC EU546207.1
+TGTCATTCTACCTTCTTCCCAC HQ593530.1
+TGTCATTCTGCCTTCTTCCCAC EU546211.1
+TGTCATTCTACCTTCTTCCCAC EU175855.1
+********* ************ Cigar
+2022-04-23 08:37:44,305 - DEBUG - RIGHT candidate 0: base pen 0.264, combined pen 7.264, 1 max mismatch, 7 total mismatches.
+2022-04-23 08:37:44,305 - DEBUG - RIGHT candidate 1: base pen 0.383, combined pen 7.383, 1 max mismatch, 7 total mismatches.
+2022-04-23 08:37:44,306 - DEBUG - RIGHT candidate 2: base pen 0.526, combined pen 7.526, 1 max mismatch, 7 total mismatches.
+2022-04-23 08:37:44,306 - DEBUG - RIGHT candidate 3: base pen 0.790, combined pen 7.790, 1 max mismatch, 7 total mismatches.
+2022-04-23 08:37:44,307 - DEBUG - RIGHT candidate 4: base pen 0.818, combined pen 7.818, 1 max mismatch, 7 total mismatches.
+2022-04-23 08:37:44,307 - DEBUG - RIGHT candidate 5: base pen 2.006, combined pen 8.006, 1 max mismatch, 6 total mismatches.
+2022-04-23 08:37:44,308 - DEBUG - RIGHT candidate 6: base pen 2.006, combined pen 8.006, 1 max mismatch, 6 total mismatches.
+2022-04-23 08:37:44,308 - DEBUG - RIGHT candidate 7: base pen 2.055, combined pen 8.055, 1 max mismatch, 6 total mismatches.
+2022-04-23 08:37:44,309 - DEBUG - RIGHT candidate 8: base pen 2.579, combined pen 8.579, 1 max mismatch, 6 total mismatches.
+2022-04-23 08:37:44,309 - DEBUG - RIGHT candidate 9: base pen 1.624, combined pen 8.624, 1 max mismatch, 7 total mismatches.
+2022-04-23 08:37:44,314 - DEBUG - Window: left_limit 1122, slice_start 1334, right_limit 5268
+2022-04-23 08:37:44,314 - DEBUG - Region 5, pool 1
+2022-04-23 08:37:44,314 - DEBUG - Finding primers for slice 1334 to 1753
+2022-04-23 08:37:45,131 - DEBUG - Left region flank MSA: Alphabet() alignment with 12 rows and 54 columns
+TCCATCTTACGGTTGTGTGAATTGGACAAACCAAAATTTCCCAT...CTG NC_007018.1
+TCCATCTTATGGTTGTGTTAACTGGACAAACCAAAATTTTCCAT...CTG KM390024.1
+TCCATCTTACGGTTGTGTGAATTGGACAAACCAAAATTTCCCAT...CTG AY622943.1
+TCCATCTTACGGTTGTGTGAATTGGACAAACCAAAATTTCCCAT...CTG EU546204.1
+TCCATCTTACGGTTGTGTGAATTGGACAAACCAAAATTTCCCAT...CTG EU546210.1
+TCCATCTTACGGTTGTGTGAATTGGACAAACCAAAATTTCCCAT...CTG EU175856.1
+TCCATCTTATGGTTGTGTCAACTGGACAAACCAAAATTTTCCAT...CTG EU546205.1
+TCCATCTTATGGTTGTGTCAACTGGACAAACCAAAATTTTCCAT...CTG EU546206.1
+TCCATCTTATGGTTGTGTCAACTGGACAAACCAAAATTTTCCAT...CTG EU546207.1
+TCCATCTTATGGTTGTGTTAACTGGACAAACCAAAATTTTCCAT...CTG HQ593530.1
+TCCATCTTACGGTTGTGTGAATTGGACAAACCAAAATTTCCCAT...CTG EU546211.1
+TCCATCTTATGGTTGTGTTAACTGGACAAACCAAAATTTTCCAT...CTG EU175855.1
+2022-04-23 08:37:45,131 - DEBUG - Picked primer LEFT:GGTTGTGTGAATTGGACAAACCA:1344
+2022-04-23 08:37:45,132 - DEBUG - Picked MSA slice: Alphabet() alignment with 13 rows and 23 columns
+GGTTGTGTGAATTGGACAAACCA NC_007018.1
+GGTTGTGTTAACTGGACAAACCA KM390024.1
+GGTTGTGTGAATTGGACAAACCA AY622943.1
+GGTTGTGTGAATTGGACAAACCA EU546204.1
+GGTTGTGTGAATTGGACAAACCA EU546210.1
+GGTTGTGTGAATTGGACAAACCA EU175856.1
+GGTTGTGTCAACTGGACAAACCA EU546205.1
+GGTTGTGTCAACTGGACAAACCA EU546206.1
+GGTTGTGTCAACTGGACAAACCA EU546207.1
+GGTTGTGTTAACTGGACAAACCA HQ593530.1
+GGTTGTGTGAATTGGACAAACCA EU546211.1
+GGTTGTGTTAACTGGACAAACCA EU175855.1
+******** ** *********** Cigar
+2022-04-23 08:37:45,132 - DEBUG - LEFT candidate 0: base pen 1.628, combined pen 13.628, 2 max mismatches, 12 total mismatches.
+2022-04-23 08:37:45,133 - DEBUG - LEFT candidate 1: base pen 2.191, combined pen 17.191, 2 max mismatches, 15 total mismatches.
+2022-04-23 08:37:45,133 - DEBUG - Right region flank MSA: Alphabet() alignment with 12 rows and 54 columns
+CTTGGCACTCTAAATTCTTCTGGAGGTGTGCCTTTCATATTCAG...TCA NC_007018.1
+CTTGGCACTCTAAACTCCTCTGGAGGTGTTCCTTTCATATTCAG...TCA KM390024.1
+CTTGGCACTCTAAATTCTTCTGGAGGTGTGCCTTTCATATTCAG...TCA AY622943.1
+CTTGGCACTCTAAATTCTTCTGGAGGTGTGCCTTTCATATTCAG...TCA EU546204.1
+CTTGGCACTCTAAATTCTTCTGGAGGTGTGCCTTTCATATTCAG...TCA EU546210.1
+CTTGGCACTCTAAATTCTTCTGGAGGTGTGCCTTTCATATTCAG...TCA EU175856.1
+CTTGGCACTCTAAACTCTTCTGGAGGTGTGCCTTTCATATTCAG...TCA EU546205.1
+CTTGGCACTCTAAACTCTTCTGGAGGTGTGCCTTTCATATTCAG...TCA EU546206.1
+CTTGGCACTCTAAACTCTTCTGGAGGTGTGCCTTTCATATTCAG...TCA EU546207.1
+CTTGGCACTCTAAACTCCTCTGGAGGTGTACCTTTCATATTCAG...TCA HQ593530.1
+CTTGGCACTCTAAATTCTTCTGGAGGTGTGCCTTTCATATTCAG...TCA EU546211.1
+CTTGGCACTTTAAACTCCTCTGGAGGTGTACCTTTCATATTCAG...TCA EU175855.1
+2022-04-23 08:37:45,133 - DEBUG - Picked primer RIGHT:CTTCTGGAGGTGTGCCTTTCAT:1737
+2022-04-23 08:37:45,134 - DEBUG - Picked MSA slice: Alphabet() alignment with 13 rows and 22 columns
+CTTCTGGAGGTGTGCCTTTCAT NC_007018.1
+CCTCTGGAGGTGTTCCTTTCAT KM390024.1
+CTTCTGGAGGTGTGCCTTTCAT AY622943.1
+CTTCTGGAGGTGTGCCTTTCAT EU546204.1
+CTTCTGGAGGTGTGCCTTTCAT EU546210.1
+CTTCTGGAGGTGTGCCTTTCAT EU175856.1
+CTTCTGGAGGTGTGCCTTTCAT EU546205.1
+CTTCTGGAGGTGTGCCTTTCAT EU546206.1
+CTTCTGGAGGTGTGCCTTTCAT EU546207.1
+CCTCTGGAGGTGTACCTTTCAT HQ593530.1
+CTTCTGGAGGTGTGCCTTTCAT EU546211.1
+CCTCTGGAGGTGTACCTTTCAT EU175855.1
+* *********** ******** Cigar
+2022-04-23 08:37:45,134 - DEBUG - RIGHT candidate 0: base pen 0.263, combined pen 6.263, 2 max mismatches, 6 total mismatches.
+2022-04-23 08:37:45,135 - DEBUG - RIGHT candidate 1: base pen 0.741, combined pen 6.741, 2 max mismatches, 6 total mismatches.
+2022-04-23 08:37:45,135 - DEBUG - RIGHT candidate 2: base pen 1.437, combined pen 7.437, 2 max mismatches, 6 total mismatches.
+2022-04-23 08:37:45,136 - DEBUG - RIGHT candidate 3: base pen 1.457, combined pen 7.457, 2 max mismatches, 6 total mismatches.
+2022-04-23 08:37:45,136 - DEBUG - RIGHT candidate 4: base pen 1.694, combined pen 7.694, 2 max mismatches, 6 total mismatches.
+2022-04-23 08:37:45,137 - DEBUG - RIGHT candidate 5: base pen 1.969, combined pen 7.969, 2 max mismatches, 6 total mismatches.
+2022-04-23 08:37:45,137 - DEBUG - RIGHT candidate 6: base pen 2.101, combined pen 8.101, 2 max mismatches, 6 total mismatches.
+2022-04-23 08:37:45,138 - DEBUG - RIGHT candidate 7: base pen 2.320, combined pen 8.320, 2 max mismatches, 6 total mismatches.
+2022-04-23 08:37:45,138 - DEBUG - RIGHT candidate 8: base pen 2.878, combined pen 8.878, 2 max mismatches, 6 total mismatches.
+2022-04-23 08:37:45,139 - DEBUG - RIGHT candidate 9: base pen 1.378, combined pen 11.378, 2 max mismatches, 10 total mismatches.
+2022-04-23 08:37:45,142 - DEBUG - Window: left_limit 1431, slice_start 1641, right_limit 5268
+2022-04-23 08:37:45,142 - DEBUG - Region 6, pool 2
+2022-04-23 08:37:45,142 - DEBUG - Finding primers for slice 1641 to 2060
+2022-04-23 08:37:46,379 - DEBUG - Left region flank MSA: Alphabet() alignment with 12 rows and 54 columns
+GTTCCGGATGGCTTAGCTCCACTTCCTGAAGAGGAAGTGAGAAG...AAG NC_007018.1
+GTTCCCGATGGCTTAGCCCCTCTTCCTGAAGAGGAAGTGAGAAG...AAG KM390024.1
+GTTCCGGATGGCTTAGCTCCACTTCCTGAAGAGGAAGTGAGAAG...AAG AY622943.1
+GTTCCGGATGGCTTAGCTCCACTTCCTGAAGAGGAAGTGAGAAG...AAG EU546204.1
+GTTCCGGATGGCTTAGCTCCACTTCCTGAAGAGGAAGTGAGAAG...AAG EU546210.1
+GTTCCGGATGGCTTAGCACCACTTCCTGAAGAGGAAGTGAGAAG...AAG EU175856.1
+GTTCCCGATGGCTTAGCCCCTCTCCCTGAAGAGGAAGTGAGAAG...AAG EU546205.1
+GTTCCCGATGGCTTAGCCCCTCTCCCTGAAGAGGAAGTGAGAAG...AAG EU546206.1
+GTTCCCGATGGCTTAGCCCCTCTCCCTGAAGAGGAAGTGAGAAG...AAG EU546207.1
+GTTCCCGATGGGTTAGCCCCTCTTCCTGAAGAGGAAGTGAGAAG...AAG HQ593530.1
+GTTCCGGATGGCTTAGCTCCACTTCCTGAAGAGGAAGTGAGAAG...AAG EU546211.1
+GTTCCCGATGGGCTAGCCCCTCTTCCTGAAGAGGAAGTGAGAAG...AAG EU175855.1
+2022-04-23 08:37:46,379 - DEBUG - Picked primer LEFT:GCTTAGCCCCTCTTCCTGAAGA:1651
+2022-04-23 08:37:46,380 - DEBUG - Picked MSA slice: Alphabet() alignment with 13 rows and 22 columns
+GCTTAGCTCCACTTCCTGAAGA NC_007018.1
+GCTTAGCCCCTCTTCCTGAAGA KM390024.1
+GCTTAGCTCCACTTCCTGAAGA AY622943.1
+GCTTAGCTCCACTTCCTGAAGA EU546204.1
+GCTTAGCTCCACTTCCTGAAGA EU546210.1
+GCTTAGCACCACTTCCTGAAGA EU175856.1
+GCTTAGCCCCTCTCCCTGAAGA EU546205.1
+GCTTAGCCCCTCTCCCTGAAGA EU546206.1
+GCTTAGCCCCTCTCCCTGAAGA EU546207.1
+GGTTAGCCCCTCTTCCTGAAGA HQ593530.1
+GCTTAGCTCCACTTCCTGAAGA EU546211.1
+GGCTAGCCCCTCTTCCTGAAGA EU175855.1
+*  **** ** ** ******** Cigar
+2022-04-23 08:37:46,380 - DEBUG - LEFT candidate 0: base pen 0.670, combined pen 18.670, 2 max mismatches, 18 total mismatches.
+2022-04-23 08:37:46,380 - DEBUG - Right region flank MSA: Alphabet() alignment with 12 rows and 54 columns
+CCTTTCAGCAGTTTCGTCAGGAAATGGTGCAGAAACAATCTGGC...AGT NC_007018.1
+CCTTTCAGCAGTTTCTTCAGGGAACGGTGCAGACACAATCTGGC...AGT KM390024.1
+CCTTTCAGCAGTTTCGTCAGGAAATGGTGCAGAAACAATCTGGC...AGT AY622943.1
+CCTTTCAGCAGTTTCTTCAGGAAATGGTGCAGAAACAATCTGGC...AGT EU546204.1
+CCTTTCAGCAGTTTCTTCAGGAAATGGTGCAGAAACAATCTGGC...AGT EU546210.1
+CCTTTCAGCAGTTTCTTCAGGAAATGGTGCAGAAACAATCTGGC...AGT EU175856.1
+CCTTTCAGCAGTTTCTTCAGGGAACGGTGCAGACACAATCTGGC...AGT EU546205.1
+CCTTTCAGCAGTTTCTTCAGGGAACGGTGCAGACACAATCTGGC...AGT EU546206.1
+CCTTTCAGCAGTTTCTTCAGGGAACGGTGCAGACACAATCTGGC...AGT EU546207.1
+CCTTTCAGCAGTTTCTTCAGGGAACGGTGCAGACACAATCTGGC...AGT HQ593530.1
+CCTTTCAGCAGTTTCTTCAGGAAATGGTGCAGAAACAATCTGGC...AGT EU546211.1
+CCTTTCAGCAGTTTCTTCAGGGAACGGTGCAGACACAATCTGGC...AGT EU175855.1
+2022-04-23 08:37:46,380 - DEBUG - Picked primer RIGHT:CCTTTCAGCAGTTTCTTCAGGGA:2060
+2022-04-23 08:37:46,381 - DEBUG - Picked MSA slice: Alphabet() alignment with 13 rows and 23 columns
+CCTTTCAGCAGTTTCGTCAGGAA NC_007018.1
+CCTTTCAGCAGTTTCTTCAGGGA KM390024.1
+CCTTTCAGCAGTTTCGTCAGGAA AY622943.1
+CCTTTCAGCAGTTTCTTCAGGAA EU546204.1
+CCTTTCAGCAGTTTCTTCAGGAA EU546210.1
+CCTTTCAGCAGTTTCTTCAGGAA EU175856.1
+CCTTTCAGCAGTTTCTTCAGGGA EU546205.1
+CCTTTCAGCAGTTTCTTCAGGGA EU546206.1
+CCTTTCAGCAGTTTCTTCAGGGA EU546207.1
+CCTTTCAGCAGTTTCTTCAGGGA HQ593530.1
+CCTTTCAGCAGTTTCTTCAGGAA EU546211.1
+CCTTTCAGCAGTTTCTTCAGGGA EU175855.1
+*************** ***** * Cigar
+2022-04-23 08:37:46,382 - DEBUG - RIGHT candidate 0: base pen 1.004, combined pen 9.004, 2 max mismatches, 8 total mismatches.
+2022-04-23 08:37:46,382 - DEBUG - RIGHT candidate 1: base pen 2.552, combined pen 10.552, 2 max mismatches, 8 total mismatches.
+2022-04-23 08:37:46,383 - DEBUG - RIGHT candidate 2: base pen 3.019, combined pen 11.019, 1 max mismatch, 8 total mismatches.
+2022-04-23 08:37:46,383 - DEBUG - RIGHT candidate 3: base pen 2.433, combined pen 12.433, 1 max mismatch, 10 total mismatches.
+2022-04-23 08:37:46,384 - DEBUG - RIGHT candidate 4: base pen 1.108, combined pen 15.108, 2 max mismatches, 14 total mismatches.
+2022-04-23 08:37:46,384 - DEBUG - RIGHT candidate 5: base pen 1.376, combined pen 15.376, 2 max mismatches, 8 total mismatches.
+2022-04-23 08:37:46,385 - DEBUG - RIGHT candidate 6: base pen 2.014, combined pen 16.014, 2 max mismatches, 14 total mismatches.
+2022-04-23 08:37:46,386 - DEBUG - RIGHT candidate 7: base pen 2.014, combined pen 16.014, 2 max mismatches, 14 total mismatches.
+2022-04-23 08:37:46,386 - DEBUG - RIGHT candidate 8: base pen 2.066, combined pen 16.066, 2 max mismatches, 14 total mismatches.
+2022-04-23 08:37:46,387 - DEBUG - RIGHT candidate 9: base pen 2.126, combined pen 16.126, 2 max mismatches, 14 total mismatches.
+2022-04-23 08:37:46,391 - DEBUG - Window: left_limit 1738, slice_start 1963, right_limit 5268
+2022-04-23 08:37:46,391 - DEBUG - Region 7, pool 1
+2022-04-23 08:37:46,391 - DEBUG - Finding primers for slice 1963 to 2382
+2022-04-23 08:37:47,291 - DEBUG - Stepping left to 1952
+2022-04-23 08:37:47,293 - DEBUG - Finding primers for slice 1952 to 2371
+2022-04-23 08:37:48,053 - DEBUG - Stepping left to 1941
+2022-04-23 08:37:48,054 - DEBUG - Finding primers for slice 1941 to 2360
+2022-04-23 08:37:48,709 - DEBUG - Stepping left to 1930
+2022-04-23 08:37:48,710 - DEBUG - Finding primers for slice 1930 to 2349
+2022-04-23 08:37:48,747 - DEBUG - Stepping left to 1919
+2022-04-23 08:37:48,747 - DEBUG - Finding primers for slice 1919 to 2338
+2022-04-23 08:37:48,773 - DEBUG - Stepping left to 1908
+2022-04-23 08:37:48,773 - DEBUG - Finding primers for slice 1908 to 2327
+2022-04-23 08:37:48,800 - DEBUG - Stepping left to 1897
+2022-04-23 08:37:48,800 - DEBUG - Finding primers for slice 1897 to 2316
+2022-04-23 08:37:48,803 - DEBUG - Stepping left to 1886
+2022-04-23 08:37:48,803 - DEBUG - Finding primers for slice 1886 to 2305
+2022-04-23 08:37:48,842 - DEBUG - Stepping left to 1875
+2022-04-23 08:37:48,842 - DEBUG - Finding primers for slice 1875 to 2294
+2022-04-23 08:37:48,847 - DEBUG - Stepping left to 1864
+2022-04-23 08:37:48,847 - DEBUG - Finding primers for slice 1864 to 2283
+2022-04-23 08:37:48,874 - DEBUG - Stepping left to 1853
+2022-04-23 08:37:48,874 - DEBUG - Finding primers for slice 1853 to 2272
+2022-04-23 08:37:49,400 - DEBUG - Left region flank MSA: Alphabet() alignment with 12 rows and 54 columns
+TTGGTTTCCACCACCCACTCAGAAGAAAAGGCGGGAACTTCAAG...TCC NC_007018.1
+TTGGTTTCCACCACCCACTCAGAAGAAAAGGCGGGCAGTTCAAG...TCC KM390024.1
+TTGGTTTCCACCACCCACTCAGAAGAAAAGGCGGGAACTTCAAG...TCC AY622943.1
+TTGGTTTCCACCACCCACTCAGAAGAAAAGGCGGGAACTTCAAG...TCC EU546204.1
+TTGGTTTCCACCACCCACTCAGAAGAAAAGGCGGGAACTTCAAG...TCC EU546210.1
+TTGGTTTCCACCACCCACTCAGAAGAAAAGGCGGGAACTTCAAG...TCC EU175856.1
+TTGGTTTCCACCACCCACTCAGAAGAAAAGGCGGGCAGTTCAAG...CCC EU546205.1
+TTGGTTTCCACCACCCACTCAGAAGAAAAGGCGGGCAGTTCAAG...CCC EU546206.1
+TTGGTTTCCACCACCCACTCAGAAGAAAAGGCGGGCAGTTCAAG...CCC EU546207.1
+TTGGTTTCCGCCACCCACTCAAAAGAGAAGGCGGGCAGTTCAAG...CCC HQ593530.1
+TTGGTTTCCACCACCCACTCAGAAGAAAAGGCGGGAACTTCAAG...TCC EU546211.1
+TTGGTTTCCACCACCCACTCAGAAGAAAAGGCGGGCAGTTCAAG...CCC EU175855.1
+2022-04-23 08:37:49,400 - DEBUG - Picked primer LEFT:GTTTCCACCACCCACTCAGAAG:1856
+2022-04-23 08:37:49,401 - DEBUG - Picked MSA slice: Alphabet() alignment with 13 rows and 22 columns
+GTTTCCACCACCCACTCAGAAG NC_007018.1
+GTTTCCACCACCCACTCAGAAG KM390024.1
+GTTTCCACCACCCACTCAGAAG AY622943.1
+GTTTCCACCACCCACTCAGAAG EU546204.1
+GTTTCCACCACCCACTCAGAAG EU546210.1
+GTTTCCACCACCCACTCAGAAG EU175856.1
+GTTTCCACCACCCACTCAGAAG EU546205.1
+GTTTCCACCACCCACTCAGAAG EU546206.1
+GTTTCCACCACCCACTCAGAAG EU546207.1
+GTTTCCGCCACCCACTCAAAAG HQ593530.1
+GTTTCCACCACCCACTCAGAAG EU546211.1
+GTTTCCACCACCCACTCAGAAG EU175855.1
+****** *********** *** Cigar
+2022-04-23 08:37:49,402 - DEBUG - LEFT candidate 0: base pen 0.252, combined pen 2.252, 2 max mismatches, 2 total mismatches.
+2022-04-23 08:37:49,402 - DEBUG - LEFT candidate 1: base pen 0.416, combined pen 2.416, 2 max mismatches, 2 total mismatches.
+2022-04-23 08:37:49,403 - DEBUG - LEFT candidate 2: base pen 0.577, combined pen 2.577, 2 max mismatches, 2 total mismatches.
+2022-04-23 08:37:49,403 - DEBUG - LEFT candidate 3: base pen 0.879, combined pen 2.879, 2 max mismatches, 2 total mismatches.
+2022-04-23 08:37:49,404 - DEBUG - LEFT candidate 4: base pen 1.200, combined pen 3.200, 2 max mismatches, 2 total mismatches.
+2022-04-23 08:37:49,404 - DEBUG - LEFT candidate 5: base pen 2.300, combined pen 3.300, 1 max mismatch, 1 total mismatch.
+2022-04-23 08:37:49,404 - DEBUG - LEFT candidate 6: base pen 1.354, combined pen 3.354, 2 max mismatches, 2 total mismatches.
+2022-04-23 08:37:49,405 - DEBUG - LEFT candidate 7: base pen 1.762, combined pen 3.762, 2 max mismatches, 2 total mismatches.
+2022-04-23 08:37:49,405 - DEBUG - LEFT candidate 8: base pen 2.039, combined pen 4.039, 2 max mismatches, 2 total mismatches.
+2022-04-23 08:37:49,406 - DEBUG - LEFT candidate 9: base pen 2.878, combined pen 4.878, 2 max mismatches, 2 total mismatches.
+2022-04-23 08:37:49,406 - DEBUG - Right region flank MSA: Alphabet() alignment with 12 rows and 54 columns
+TACCACCAAGCCCAAATAAATCTTCTATTTATCAAATGAGCCTC...CTC NC_007018.1
+TACCACCAAGCCCAAATAAATCTTCTATTAACCAAGTGAGCCTC...CTC KM390024.1
+TACCACCAAGCCCAAATAAATCTTCTATTTATCAAATGAGCCTC...CTC AY622943.1
+TACCACCAAGCCCAAATAAATCTTCTATTTATCAAATGAGCCTC...CTC EU546204.1
+TACCACCAAGCCCAAATAAATCTTCTATTTATCAAATGAGCCTC...CTC EU546210.1
+TACCACCAAGCCCAAATAAATCTTCTATTTATCAAATGAGCCTC...CTC EU175856.1
+TACCACCAAGCCCAAATAAATCTTCTATTAATCAAGTGAGCCTC...CTC EU546205.1
+TACCACCAAGCCCAAATAAATCTTCTATTAATCAAGTGAGCCTC...CTC EU546206.1
+TACCACCAAGCCCAAATAAATCTTCTATTAATCAAGTGAGCCTC...CTC EU546207.1
+TACCACCAAGCCCAAATAAATCTTCTATTAACCAAGTGAGCCTC...CTC HQ593530.1
+TACCACCAAGCCCAAATAAATCTTCTATTTATCAAATGAGCCTC...CTC EU546211.1
+TACCACCAAGCCCAAATAAATCTTCTATTAACCAAGTGAGCCTC...CTC EU175855.1
+2022-04-23 08:37:49,406 - DEBUG - Picked primer RIGHT:ACCACCAAGCCCAAATAAATCTTC:2271
+2022-04-23 08:37:49,407 - DEBUG - Picked MSA slice: Alphabet() alignment with 13 rows and 24 columns
+ACCACCAAGCCCAAATAAATCTTC NC_007018.1
+ACCACCAAGCCCAAATAAATCTTC KM390024.1
+ACCACCAAGCCCAAATAAATCTTC AY622943.1
+ACCACCAAGCCCAAATAAATCTTC EU546204.1
+ACCACCAAGCCCAAATAAATCTTC EU546210.1
+ACCACCAAGCCCAAATAAATCTTC EU175856.1
+ACCACCAAGCCCAAATAAATCTTC EU546205.1
+ACCACCAAGCCCAAATAAATCTTC EU546206.1
+ACCACCAAGCCCAAATAAATCTTC EU546207.1
+ACCACCAAGCCCAAATAAATCTTC HQ593530.1
+ACCACCAAGCCCAAATAAATCTTC EU546211.1
+ACCACCAAGCCCAAATAAATCTTC EU175855.1
+************************ Cigar
+2022-04-23 08:37:49,407 - DEBUG - RIGHT candidate 0: base pen 2.900, combined pen 2.900, 0 max mismatches, 0 total mismatches.
+2022-04-23 08:37:49,408 - DEBUG - RIGHT candidate 1: base pen 3.144, combined pen 3.144, 0 max mismatches, 0 total mismatches.
+2022-04-23 08:37:49,408 - DEBUG - RIGHT candidate 2: base pen 3.382, combined pen 3.382, 0 max mismatches, 0 total mismatches.
+2022-04-23 08:37:49,409 - DEBUG - RIGHT candidate 3: base pen 4.036, combined pen 4.036, 0 max mismatches, 0 total mismatches.
+2022-04-23 08:37:49,409 - DEBUG - RIGHT candidate 4: base pen 4.202, combined pen 4.202, 0 max mismatches, 0 total mismatches.
+2022-04-23 08:37:49,410 - DEBUG - RIGHT candidate 5: base pen 4.202, combined pen 4.202, 0 max mismatches, 0 total mismatches.
+2022-04-23 08:37:49,410 - DEBUG - RIGHT candidate 6: base pen 4.271, combined pen 4.271, 0 max mismatches, 0 total mismatches.
+2022-04-23 08:37:49,411 - DEBUG - RIGHT candidate 7: base pen 4.881, combined pen 4.881, 0 max mismatches, 0 total mismatches.
+2022-04-23 08:37:49,411 - DEBUG - RIGHT candidate 8: base pen 5.034, combined pen 5.034, 0 max mismatches, 0 total mismatches.
+2022-04-23 08:37:49,412 - DEBUG - RIGHT candidate 9: base pen 5.355, combined pen 5.355, 0 max mismatches, 0 total mismatches.
+2022-04-23 08:37:49,414 - DEBUG - Window: left_limit 2061, slice_start 2173, right_limit 5268
+2022-04-23 08:37:49,415 - DEBUG - Region 8, pool 2
+2022-04-23 08:37:49,415 - DEBUG - Finding primers for slice 2173 to 2592
+2022-04-23 08:37:49,419 - DEBUG - Stepping left to 2162
+2022-04-23 08:37:49,419 - DEBUG - Finding primers for slice 2162 to 2581
+2022-04-23 08:37:49,424 - DEBUG - Stepping left to 2151
+2022-04-23 08:37:49,424 - DEBUG - Finding primers for slice 2151 to 2570
+2022-04-23 08:37:50,053 - DEBUG - Stepping left to 2140
+2022-04-23 08:37:50,053 - DEBUG - Finding primers for slice 2140 to 2559
+2022-04-23 08:37:50,616 - DEBUG - Left region flank MSA: Alphabet() alignment with 12 rows and 54 columns
+CCCCAGGTGGTCCTAAACCTTACGGACTTTTTTGGACTTACTTA...GAG NC_007018.1
+CCCCAGGTGGTCCTAGACCTTACGGACTTTTTTGGACTTACTTG...GAG KM390024.1
+CCCCAGGTGGTCCTAAACCTTACGGACTTTTTTGGACTTACTTA...GAG AY622943.1
+CCCCAGGTGGTCCTAAACCTTACGGACTTTTTTGGACTTACTTA...GAG EU546204.1
+CCCCAGGTGGTCCTAAACCTTACGGACTTTTTTGGACTTACTTA...GAG EU546210.1
+CCCCAGGTGGTCCTAAACCTTACGGACTTTTTTGGACTTACTTA...GAG EU175856.1
+CCCCAGGTGGTCCTAGACCTTACGGACTTTTTTGGACTTACTTA...GAG EU546205.1
+CCCCAGGTGGTCCTAGACCTTACGGACTTTTTTGGACTTACTTA...GAG EU546206.1
+CCCCAGGTGGTCCTAGACCTTACGGACTTTTTTGGACTTACTTA...GAG EU546207.1
+CCCCAGGTGGTCCTAGACCTTACGGACTTTTTTGGACTTACTTG...GAG HQ593530.1
+CCCCAGGTGGTCCTAAACCTTACGGACTTTTTTGGACTTACTTA...GAG EU546211.1
+CCCCAGGTGGTCCTAGACCTTACGGACTTTTTTGGACTTATTTG...GAG EU175855.1
+2022-04-23 08:37:50,616 - DEBUG - Picked primer LEFT:GGTCCTAGACCTTACGGACTTTT:2148
+2022-04-23 08:37:50,617 - DEBUG - Picked MSA slice: Alphabet() alignment with 13 rows and 23 columns
+GGTCCTAAACCTTACGGACTTTT NC_007018.1
+GGTCCTAGACCTTACGGACTTTT KM390024.1
+GGTCCTAAACCTTACGGACTTTT AY622943.1
+GGTCCTAAACCTTACGGACTTTT EU546204.1
+GGTCCTAAACCTTACGGACTTTT EU546210.1
+GGTCCTAAACCTTACGGACTTTT EU175856.1
+GGTCCTAGACCTTACGGACTTTT EU546205.1
+GGTCCTAGACCTTACGGACTTTT EU546206.1
+GGTCCTAGACCTTACGGACTTTT EU546207.1
+GGTCCTAGACCTTACGGACTTTT HQ593530.1
+GGTCCTAAACCTTACGGACTTTT EU546211.1
+GGTCCTAGACCTTACGGACTTTT EU175855.1
+******* *************** Cigar
+2022-04-23 08:37:50,617 - DEBUG - LEFT candidate 0: base pen 2.258, combined pen 8.258, 1 max mismatch, 6 total mismatches.
+2022-04-23 08:37:50,618 - DEBUG - LEFT candidate 1: base pen 2.657, combined pen 8.657, 1 max mismatch, 6 total mismatches.
+2022-04-23 08:37:50,618 - DEBUG - Right region flank MSA: Alphabet() alignment with 12 rows and 54 columns
+AAGCAAGCCTTGGAAAGCCTTGGAGTACATTATTCCTATAGCAA...TTG NC_007018.1
+AAGCAAGCCTTGGAAAGCCTTTGAATACATGATTCCTATAGCAA...TTG KM390024.1
+AAGCAAGCCTTGGAAAGCCTTGGAGTACATTATTCCTATAGCAA...TTG AY622943.1
+AAGCAAGCCTTGGAAAGCCTTGGAGTACATTATTCCTATAGCAA...TTG EU546204.1
+AAGCAAGCCTTGGAAAGCCTTGGAGTACATTATTCCTATAGCAA...TTG EU546210.1
+AAGCAAGCCTTGGAAAGCCTTGGAGTACATTATTCCTATAGCAA...TTG EU175856.1
+AAGCAAGCCTTGGAAAGCCTTTGAATACATGATTCCTATAGCAA...TTG EU546205.1
+AAGCAAGCCTTGGAAAGCCTTTGAATACATGATTCCTATAGCAA...TTG EU546206.1
+AAGCAAGCCTTGGAAAGCCTTTGAATACATGATTCCTATAGCAA...TTG EU546207.1
+AAGCAAGCCTTGGAAAGCCTTGGAATACATGATTCCTATAGCAA...TTG HQ593530.1
+AAGCAAGCCTTGGAAAGCCTTGGAGTACATTATTCCTATAGCAA...TTG EU546211.1
+AAGCAAGCCTTGGAAAGCCTTTGAATACATGATTCCTATAGCAA...TTG EU175855.1
+2022-04-23 08:37:50,618 - DEBUG - Picked primer RIGHT:AAGCAAGCCTTGGAAAGCCTT:2559
+2022-04-23 08:37:50,618 - DEBUG - Picked MSA slice: Alphabet() alignment with 13 rows and 21 columns
+AAGCAAGCCTTGGAAAGCCTT NC_007018.1
+AAGCAAGCCTTGGAAAGCCTT KM390024.1
+AAGCAAGCCTTGGAAAGCCTT AY622943.1
+AAGCAAGCCTTGGAAAGCCTT EU546204.1
+AAGCAAGCCTTGGAAAGCCTT EU546210.1
+AAGCAAGCCTTGGAAAGCCTT EU175856.1
+AAGCAAGCCTTGGAAAGCCTT EU546205.1
+AAGCAAGCCTTGGAAAGCCTT EU546206.1
+AAGCAAGCCTTGGAAAGCCTT EU546207.1
+AAGCAAGCCTTGGAAAGCCTT HQ593530.1
+AAGCAAGCCTTGGAAAGCCTT EU546211.1
+AAGCAAGCCTTGGAAAGCCTT EU175855.1
+********************* Cigar
+2022-04-23 08:37:50,619 - DEBUG - RIGHT candidate 0: base pen 1.141, combined pen 1.141, 0 max mismatches, 0 total mismatches.
+2022-04-23 08:37:50,619 - DEBUG - RIGHT candidate 1: base pen 2.512, combined pen 2.512, 0 max mismatches, 0 total mismatches.
+2022-04-23 08:37:50,620 - DEBUG - RIGHT candidate 2: base pen 2.512, combined pen 2.512, 0 max mismatches, 0 total mismatches.
+2022-04-23 08:37:50,620 - DEBUG - RIGHT candidate 3: base pen 4.234, combined pen 4.234, 0 max mismatches, 0 total mismatches.
+2022-04-23 08:37:50,621 - DEBUG - RIGHT candidate 4: base pen 1.023, combined pen 8.023, 1 max mismatch, 7 total mismatches.
+2022-04-23 08:37:50,621 - DEBUG - RIGHT candidate 5: base pen 3.171, combined pen 8.171, 1 max mismatch, 5 total mismatches.
+2022-04-23 08:37:50,622 - DEBUG - RIGHT candidate 6: base pen 1.362, combined pen 8.362, 1 max mismatch, 7 total mismatches.
+2022-04-23 08:37:50,622 - DEBUG - RIGHT candidate 7: base pen 1.367, combined pen 8.367, 1 max mismatch, 7 total mismatches.
+2022-04-23 08:37:50,623 - DEBUG - RIGHT candidate 8: base pen 0.053, combined pen 11.053, 1 max mismatch, 11 total mismatches.
+2022-04-23 08:37:50,623 - DEBUG - RIGHT candidate 9: base pen 0.592, combined pen 11.592, 2 max mismatches, 11 total mismatches.
+2022-04-23 08:37:50,626 - DEBUG - Window: left_limit 2272, slice_start 2464, right_limit 5268
+2022-04-23 08:37:50,626 - DEBUG - Region 9, pool 1
+2022-04-23 08:37:50,626 - DEBUG - Finding primers for slice 2464 to 2883
+2022-04-23 08:37:51,524 - DEBUG - Left region flank MSA: Alphabet() alignment with 12 rows and 54 columns
+CCGGAACCTTCAAGTCAAGCCAACCGCGGAGGGGGGCCATATCA...TTT NC_007018.1
+CCGGAACCTTCAAGTCCAGCGAACCGCGGAGGGGGGCCATATCA...TTT KM390024.1
+CCGGAACCTTCAAGTCAAGCCAACCGCGGAGGGGGGCCATATCA...TTT AY622943.1
+CCGGAACCTTCAAGTCAAGCCAACCGCGGAGGGGGGCCATATCA...TTT EU546204.1
+CCGGAACCTTCAAGTCAAGCCAACCGCGGAGGGGGGCCATATCA...TTT EU546210.1
+CCGGAACCTTCAAGTCAAGCCAACCGCGGAGGGGGGCCATATCA...TTT EU175856.1
+CCGGAACCTTCAAGTCCAGCCAACCGCGGAGGGGGGCCATATCA...TTT EU546205.1
+CCGGAACCTTCAAGTCCAGCCAACCGCGGAGGGGGGCCATATCA...TTT EU546206.1
+CCGGAACCTTCAAGTCCAGCCAACCGCGGAGGGGGGCCATATCA...TTT EU546207.1
+CCGGAACCTTCAAGTCCAGCGAACCGCGGAGGGGGGCCATATCA...TTT HQ593530.1
+CCGGAACCTTCAAGTCAAGCCAACCGCGGAGGGGGGCCATATCA...TTT EU546211.1
+CCGGAACCTTCAAGTCCAGCGAACCGCGGAGGGGGGCCATATCA...TTT EU175855.1
+2022-04-23 08:37:51,524 - DEBUG - Picked primer LEFT:CGGAACCTTCAAGTCAAGCCAA:2465
+2022-04-23 08:37:51,525 - DEBUG - Picked MSA slice: Alphabet() alignment with 13 rows and 22 columns
+CGGAACCTTCAAGTCAAGCCAA NC_007018.1
+CGGAACCTTCAAGTCCAGCGAA KM390024.1
+CGGAACCTTCAAGTCAAGCCAA AY622943.1
+CGGAACCTTCAAGTCAAGCCAA EU546204.1
+CGGAACCTTCAAGTCAAGCCAA EU546210.1
+CGGAACCTTCAAGTCAAGCCAA EU175856.1
+CGGAACCTTCAAGTCCAGCCAA EU546205.1
+CGGAACCTTCAAGTCCAGCCAA EU546206.1
+CGGAACCTTCAAGTCCAGCCAA EU546207.1
+CGGAACCTTCAAGTCCAGCGAA HQ593530.1
+CGGAACCTTCAAGTCAAGCCAA EU546211.1
+CGGAACCTTCAAGTCCAGCGAA EU175855.1
+*************** *** ** Cigar
+2022-04-23 08:37:51,525 - DEBUG - LEFT candidate 0: base pen 0.508, combined pen 9.508, 2 max mismatches, 9 total mismatches.
+2022-04-23 08:37:51,526 - DEBUG - LEFT candidate 1: base pen 0.767, combined pen 9.767, 2 max mismatches, 9 total mismatches.
+2022-04-23 08:37:51,526 - DEBUG - LEFT candidate 2: base pen 0.833, combined pen 9.833, 1 max mismatch, 9 total mismatches.
+2022-04-23 08:37:51,527 - DEBUG - LEFT candidate 3: base pen 0.833, combined pen 9.833, 1 max mismatch, 9 total mismatches.
+2022-04-23 08:37:51,527 - DEBUG - LEFT candidate 4: base pen 0.855, combined pen 9.855, 2 max mismatches, 9 total mismatches.
+2022-04-23 08:37:51,528 - DEBUG - LEFT candidate 5: base pen 0.855, combined pen 9.855, 2 max mismatches, 9 total mismatches.
+2022-04-23 08:37:51,528 - DEBUG - LEFT candidate 6: base pen 1.084, combined pen 10.084, 2 max mismatches, 9 total mismatches.
+2022-04-23 08:37:51,529 - DEBUG - LEFT candidate 7: base pen 1.142, combined pen 10.142, 1 max mismatch, 9 total mismatches.
+2022-04-23 08:37:51,529 - DEBUG - LEFT candidate 8: base pen 1.188, combined pen 10.188, 2 max mismatches, 9 total mismatches.
+2022-04-23 08:37:51,530 - DEBUG - LEFT candidate 9: base pen 1.418, combined pen 10.418, 1 max mismatch, 9 total mismatches.
+2022-04-23 08:37:51,530 - DEBUG - Right region flank MSA: Alphabet() alignment with 12 rows and 54 columns
+TAAGTCTTCTTTGGCAAAGTTCGTTAGCGAGTCTTCAAAAAATC...ATT NC_007018.1
+TAAGTCTTCTTTGCCAAAATTTGTTAGCGAGTCTTCAAAAAATC...GTT KM390024.1
+TAAGTCTTCTTTGGCAAAGTTCGTTAGCGAGTCTTCAAAAAATC...ATT AY622943.1
+TAAGTCTTCTTTGGCAAAGTTCGTTAGCGAGTCTTCAAAAAATC...ATT EU546204.1
+TAAGTCTTCTTTGGCAAAGTTCGTTAGCGAGTCTTCAAAAAATC...ATT EU546210.1
+TAAGTCTTCTTTGGCAAAGTTCGTTAGCGAGTCTTCAAAAAATC...ATT EU175856.1
+TAAATCTTCTTTGGCAAAGTTTGTTAGTGAGTCTTCAAAAAATC...GTT EU546205.1
+TAAATCTTCTTTGGCAAAGTTTGTTAGTGAGTCTTCAAAAAATC...GTT EU546206.1
+TAAATCTTCTTTGGCAAAGTTTGTTAGTGAGTCTTCAAAAAATC...GTT EU546207.1
+TAAGTCTTCTTTGGCAAAATTTGTTAGCGAGTCTTCAAAAAATC...GTT HQ593530.1
+TAAGTCTTCTTTGGCAAAGTTCGTTAGCGAGTCTTCAAAAAATC...ATT EU546211.1
+TAAGTCTTCTTTGGCAAAATTGGTTAGAGAGTCTTCAAAAAATC...GTT EU175855.1
+2022-04-23 08:37:51,530 - DEBUG - Picked primer RIGHT:TGGCAAAATTTGTTAGCGAGTCT:2872
+2022-04-23 08:37:51,531 - DEBUG - Picked MSA slice: Alphabet() alignment with 13 rows and 23 columns
+TGGCAAAGTTCGTTAGCGAGTCT NC_007018.1
+TGCCAAAATTTGTTAGCGAGTCT KM390024.1
+TGGCAAAGTTCGTTAGCGAGTCT AY622943.1
+TGGCAAAGTTCGTTAGCGAGTCT EU546204.1
+TGGCAAAGTTCGTTAGCGAGTCT EU546210.1
+TGGCAAAGTTCGTTAGCGAGTCT EU175856.1
+TGGCAAAGTTTGTTAGTGAGTCT EU546205.1
+TGGCAAAGTTTGTTAGTGAGTCT EU546206.1
+TGGCAAAGTTTGTTAGTGAGTCT EU546207.1
+TGGCAAAATTTGTTAGCGAGTCT HQ593530.1
+TGGCAAAGTTCGTTAGCGAGTCT EU546211.1
+TGGCAAAATTGGTTAGAGAGTCT EU175855.1
+** **** ** ***** ****** Cigar
+2022-04-23 08:37:51,531 - DEBUG - RIGHT candidate 0: base pen 2.316, combined pen 23.316, 2 max mismatches, 21 total mismatches.
+2022-04-23 08:37:51,532 - DEBUG - RIGHT candidate 1: base pen 2.719, combined pen 23.719, 2 max mismatches, 21 total mismatches.
+2022-04-23 08:37:51,532 - DEBUG - RIGHT candidate 2: base pen 2.719, combined pen 23.719, 2 max mismatches, 21 total mismatches.
+2022-04-23 08:37:51,533 - DEBUG - RIGHT candidate 3: base pen 3.165, combined pen 24.165, 2 max mismatches, 21 total mismatches.
+2022-04-23 08:37:51,533 - DEBUG - RIGHT candidate 4: base pen 3.165, combined pen 24.165, 2 max mismatches, 21 total mismatches.
+2022-04-23 08:37:51,534 - DEBUG - RIGHT candidate 5: base pen 3.169, combined pen 24.169, 2 max mismatches, 21 total mismatches.
+2022-04-23 08:37:51,534 - DEBUG - RIGHT candidate 6: base pen 3.169, combined pen 24.169, 2 max mismatches, 21 total mismatches.
+2022-04-23 08:37:51,535 - DEBUG - RIGHT candidate 7: base pen 3.169, combined pen 24.169, 2 max mismatches, 21 total mismatches.
+2022-04-23 08:37:51,535 - DEBUG - RIGHT candidate 8: base pen 3.307, combined pen 24.307, 2 max mismatches, 21 total mismatches.
+2022-04-23 08:37:51,536 - DEBUG - RIGHT candidate 9: base pen 3.429, combined pen 24.429, 2 max mismatches, 21 total mismatches.
+2022-04-23 08:37:51,541 - DEBUG - Window: left_limit 2560, slice_start 2775, right_limit 5268
+2022-04-23 08:37:51,541 - DEBUG - Region 10, pool 2
+2022-04-23 08:37:51,541 - DEBUG - Finding primers for slice 2775 to 3194
+2022-04-23 08:37:51,543 - DEBUG - Stepping left to 2764
+2022-04-23 08:37:51,544 - DEBUG - Finding primers for slice 2764 to 3183
+2022-04-23 08:37:52,091 - DEBUG - Left region flank MSA: Alphabet() alignment with 12 rows and 54 columns
+CCCAATGCTGAAAGCCTGAGAGGCATTGTGCGGTTCGCAGCTGC...GTA NC_007018.1
+CCAAATGCTGAAACTCTGCGAGGCATTGTGCGATTTGCAGCTGC...GTG KM390024.1
+CCCAATGCTGAAAGCCTGAGAGGCATTGTGCGGTTCGCAGCTGC...GTA AY622943.1
+CCCAATGCTGAAAGCCTGAGAGGCATTGTGCGGTTCGCAGCTGC...GTA EU546204.1
+CCCAATGCTGAAAGCCTGAGAGGCATTGTGCGGTTCGCAGCTGC...GTA EU546210.1
+CCCAATGCTGAAAGCCTGAGAGGCATTGTGCGGTTCGCAGCTGC...GTA EU175856.1
+CCAAATGCTGAAAGTCTGCGAGGCATTGTGCGATTTGCAGCTGC...GTA EU546205.1
+CCAAATGCTGAAAGTCTGCGAGGCATTGTGCGATTTGCAGCTGC...GTA EU546206.1
+CCAAATGCTGAAAGTCTGCGAGGCATTGTGCGATTTGCAGCTGC...GTA EU546207.1
+CCAAATGCTGAAACTCTGCGAGGCATTGTGCGATTTGCAGCTGC...GTA HQ593530.1
+CCCAATGCTGAAAGCCTGAGAGGCATTGTGCGGTTCGCAGCTGC...GTA EU546211.1
+CCAAATGCTGAAAGTCTGCGAGGCATTGTGCGATTTGCAGCTGC...GTA EU175855.1
+2022-04-23 08:37:52,092 - DEBUG - Picked primer LEFT:CTGAGAGGCATTGTGCGGTT:2779
+2022-04-23 08:37:52,092 - DEBUG - Picked MSA slice: Alphabet() alignment with 13 rows and 20 columns
+CTGAGAGGCATTGTGCGGTT NC_007018.1
+CTGCGAGGCATTGTGCGATT KM390024.1
+CTGAGAGGCATTGTGCGGTT AY622943.1
+CTGAGAGGCATTGTGCGGTT EU546204.1
+CTGAGAGGCATTGTGCGGTT EU546210.1
+CTGAGAGGCATTGTGCGGTT EU175856.1
+CTGCGAGGCATTGTGCGATT EU546205.1
+CTGCGAGGCATTGTGCGATT EU546206.1
+CTGCGAGGCATTGTGCGATT EU546207.1
+CTGCGAGGCATTGTGCGATT HQ593530.1
+CTGAGAGGCATTGTGCGGTT EU546211.1
+CTGCGAGGCATTGTGCGATT EU175855.1
+*** ************* ** Cigar
+2022-04-23 08:37:52,093 - DEBUG - LEFT candidate 0: base pen 2.026, combined pen 14.026, 2 max mismatches, 12 total mismatches.
+2022-04-23 08:37:52,093 - DEBUG - LEFT candidate 1: base pen 0.626, combined pen 14.626, 2 max mismatches, 14 total mismatches.
+2022-04-23 08:37:52,094 - DEBUG - LEFT candidate 2: base pen 0.878, combined pen 14.878, 2 max mismatches, 14 total mismatches.
+2022-04-23 08:37:52,094 - DEBUG - LEFT candidate 3: base pen 3.002, combined pen 15.002, 2 max mismatches, 12 total mismatches.
+2022-04-23 08:37:52,095 - DEBUG - LEFT candidate 4: base pen 3.037, combined pen 15.037, 2 max mismatches, 12 total mismatches.
+2022-04-23 08:37:52,095 - DEBUG - LEFT candidate 5: base pen 1.354, combined pen 15.354, 2 max mismatches, 14 total mismatches.
+2022-04-23 08:37:52,096 - DEBUG - LEFT candidate 6: base pen 1.646, combined pen 15.646, 2 max mismatches, 14 total mismatches.
+2022-04-23 08:37:52,096 - DEBUG - LEFT candidate 7: base pen 1.646, combined pen 15.646, 2 max mismatches, 14 total mismatches.
+2022-04-23 08:37:52,097 - DEBUG - LEFT candidate 8: base pen 1.764, combined pen 15.764, 2 max mismatches, 14 total mismatches.
+2022-04-23 08:37:52,097 - DEBUG - LEFT candidate 9: base pen 2.030, combined pen 16.030, 2 max mismatches, 14 total mismatches.
+2022-04-23 08:37:52,097 - DEBUG - Right region flank MSA: Alphabet() alignment with 12 rows and 54 columns
+GTCAGCGCCGTGACCATGTAAATAAGGGATGTCCCCATGCTCAA...TGC NC_007018.1
+GTCAGCGCCGTGACCGTGTAAATAAGGTATGTCCCCATGCTCAA...TGC KM390024.1
+GTCAGCGCCGTGACCATGTAAATAAGGGATGTCCCCATGCTCAA...TGC AY622943.1
+GTCAGCGCCGTGACCATGTAAATAAGGGATGTCCCCATGCTCAA...TGC EU546204.1
+GTCAGCGCCGTGACCATGTAAATAAGGGATGTCCCCATGCTCAA...TGC EU546210.1
+GTCAGCGCCGTGACCATGTAAATAAGGGATGTCCCCATGCTCAA...TGC EU175856.1
+GTCAGCGCCGTGACCATGTAAATAAGGGATGTCCCCATGCTCAA...TGC EU546205.1
+GTCAGCGCCGTGACCATGTAAATAAGGGATGTCCCCATGCTCAA...TGC EU546206.1
+GTCAGCGCCGTGACCATGTAAATAAGGGATGTCCCCATGCTCAA...TGC EU546207.1
+GTCAGCGCCGTGACCATGTAAATAAGGGATGTCCCCATGCTCAA...TGC HQ593530.1
+GTCAGCGCCGTGACCATGTAAATAAGGGATGTCCCCATGCTCAA...TGC EU546211.1
+GTCAGCGCCGTGACCATGTAAATAAGGGATGTCCCCATGCTCAA...TGC EU175855.1
+2022-04-23 08:37:52,097 - DEBUG - Picked primer RIGHT:AGCGCCGTGACCATGTAAATAA:3180
+2022-04-23 08:37:52,098 - DEBUG - Picked MSA slice: Alphabet() alignment with 13 rows and 22 columns
+AGCGCCGTGACCATGTAAATAA NC_007018.1
+AGCGCCGTGACCGTGTAAATAA KM390024.1
+AGCGCCGTGACCATGTAAATAA AY622943.1
+AGCGCCGTGACCATGTAAATAA EU546204.1
+AGCGCCGTGACCATGTAAATAA EU546210.1
+AGCGCCGTGACCATGTAAATAA EU175856.1
+AGCGCCGTGACCATGTAAATAA EU546205.1
+AGCGCCGTGACCATGTAAATAA EU546206.1
+AGCGCCGTGACCATGTAAATAA EU546207.1
+AGCGCCGTGACCATGTAAATAA HQ593530.1
+AGCGCCGTGACCATGTAAATAA EU546211.1
+AGCGCCGTGACCATGTAAATAA EU175855.1
+************ ********* Cigar
+2022-04-23 08:37:52,098 - DEBUG - RIGHT candidate 0: base pen 0.141, combined pen 1.141, 1 max mismatch, 1 total mismatch.
+2022-04-23 08:37:52,099 - DEBUG - RIGHT candidate 1: base pen 0.490, combined pen 1.490, 1 max mismatch, 1 total mismatch.
+2022-04-23 08:37:52,099 - DEBUG - RIGHT candidate 2: base pen 0.538, combined pen 1.538, 1 max mismatch, 1 total mismatch.
+2022-04-23 08:37:52,100 - DEBUG - RIGHT candidate 3: base pen 1.110, combined pen 2.110, 1 max mismatch, 1 total mismatch.
+2022-04-23 08:37:52,100 - DEBUG - RIGHT candidate 4: base pen 1.706, combined pen 2.706, 1 max mismatch, 1 total mismatch.
+2022-04-23 08:37:52,101 - DEBUG - RIGHT candidate 5: base pen 1.763, combined pen 2.763, 1 max mismatch, 1 total mismatch.
+2022-04-23 08:37:52,101 - DEBUG - RIGHT candidate 6: base pen 1.785, combined pen 2.785, 1 max mismatch, 1 total mismatch.
+2022-04-23 08:37:52,102 - DEBUG - RIGHT candidate 7: base pen 2.025, combined pen 3.025, 1 max mismatch, 1 total mismatch.
+2022-04-23 08:37:52,102 - DEBUG - RIGHT candidate 8: base pen 1.062, combined pen 3.062, 2 max mismatches, 2 total mismatches.
+2022-04-23 08:37:52,103 - DEBUG - RIGHT candidate 9: base pen 2.312, combined pen 3.312, 1 max mismatch, 1 total mismatch.
+2022-04-23 08:37:52,105 - DEBUG - Window: left_limit 2873, slice_start 3084, right_limit 5268
+2022-04-23 08:37:52,105 - DEBUG - Region 11, pool 1
+2022-04-23 08:37:52,105 - DEBUG - Finding primers for slice 3084 to 3503
+2022-04-23 08:37:52,526 - DEBUG - Primer interaction between TTAACTCCACCTCCTCCTCCAG and CTTCTGGAGGTGTGCCTTTCAT predicted with a ∆G of -2.83 kcal/mol
+2022-04-23 08:37:52,529 - DEBUG - Left region flank MSA: Alphabet() alignment with 12 rows and 54 columns
+TCAGGGACCAGTGGATGAGGCAGCAAAACATCATGATGAACGGT...GAT NC_007018.1
+TCAGGGACCAGTGGATGAGGCAGCAAAACATCATGATGAACGGT...GAT KM390024.1
+TCAGGGACCAGTGGATGAGGCAGCAAAACATCATGATGAACGGT...GAT AY622943.1
+TCAGGGACCAGTGGATGAGGCAGCAAAACATCATGATGAACGGT...GAT EU546204.1
+TCAGGGACCAGTGGATGAGGCAGCAAAACATCATGATGAACGGT...GAT EU546210.1
+TCAGGGACCAGTGGATGAGGCAGCAAAACATCATGATGAACGGT...GAT EU175856.1
+TCAGGGACCAGTGGATGAGGCAGCAAAACATCATGATGAACGGT...GAT EU546205.1
+TCAGGGACCAGTGGATGAGGCAGCAAAACATCATGATGAACGGT...GAT EU546206.1
+TCAGGGACCAGTGGATGAGACAGCAAAACATCATGATGAACGGT...GAT EU546207.1
+TCAGGGACCAGTGGATGAGGCAGCAAAACATCATGATGAACGGT...GAT HQ593530.1
+TCAGGGACCAGTGGATGAGGCAGCAAAACATCATGATGAACGGT...GAT EU546211.1
+TCAGGGACCAGTGGATGAGGCAGCAAAACATCATGATGAACGGT...GAT EU175855.1
+2022-04-23 08:37:52,529 - DEBUG - Picked primer LEFT:TGGATGAGGCAGCAAAACATCA:3095
+2022-04-23 08:37:52,530 - DEBUG - Picked MSA slice: Alphabet() alignment with 13 rows and 22 columns
+TGGATGAGGCAGCAAAACATCA NC_007018.1
+TGGATGAGGCAGCAAAACATCA KM390024.1
+TGGATGAGGCAGCAAAACATCA AY622943.1
+TGGATGAGGCAGCAAAACATCA EU546204.1
+TGGATGAGGCAGCAAAACATCA EU546210.1
+TGGATGAGGCAGCAAAACATCA EU175856.1
+TGGATGAGGCAGCAAAACATCA EU546205.1
+TGGATGAGGCAGCAAAACATCA EU546206.1
+TGGATGAGACAGCAAAACATCA EU546207.1
+TGGATGAGGCAGCAAAACATCA HQ593530.1
+TGGATGAGGCAGCAAAACATCA EU546211.1
+TGGATGAGGCAGCAAAACATCA EU175855.1
+******** ************* Cigar
+2022-04-23 08:37:52,531 - DEBUG - LEFT candidate 0: base pen 0.002, combined pen 1.002, 1 max mismatch, 1 total mismatch.
+2022-04-23 08:37:52,531 - DEBUG - LEFT candidate 1: base pen 0.005, combined pen 1.005, 1 max mismatch, 1 total mismatch.
+2022-04-23 08:37:52,531 - DEBUG - LEFT candidate 2: base pen 0.405, combined pen 1.405, 1 max mismatch, 1 total mismatch.
+2022-04-23 08:37:52,532 - DEBUG - LEFT candidate 3: base pen 0.835, combined pen 1.835, 1 max mismatch, 1 total mismatch.
+2022-04-23 08:37:52,533 - DEBUG - LEFT candidate 4: base pen 1.013, combined pen 2.013, 1 max mismatch, 1 total mismatch.
+2022-04-23 08:37:52,533 - DEBUG - LEFT candidate 5: base pen 1.248, combined pen 2.248, 1 max mismatch, 1 total mismatch.
+2022-04-23 08:37:52,533 - DEBUG - LEFT candidate 6: base pen 1.264, combined pen 2.264, 1 max mismatch, 1 total mismatch.
+2022-04-23 08:37:52,534 - DEBUG - LEFT candidate 7: base pen 1.389, combined pen 2.389, 1 max mismatch, 1 total mismatch.
+2022-04-23 08:37:52,534 - DEBUG - LEFT candidate 8: base pen 1.417, combined pen 2.417, 1 max mismatch, 1 total mismatch.
+2022-04-23 08:37:52,535 - DEBUG - LEFT candidate 9: base pen 1.467, combined pen 2.467, 1 max mismatch, 1 total mismatch.
+2022-04-23 08:37:52,535 - DEBUG - Right region flank MSA: Alphabet() alignment with 12 rows and 54 columns
+ACTTTAACTCCACCTCCTCCTCCAGCTGGTTCCACGGACATTGT...TGA NC_007018.1
+ACTTTAACTCCACCTCCTCCTCCAGCTGGTTCCACGGACATTGT...TCA KM390024.1
+ACTTTAACTCCACCTCCTCCTCCAGCTGGTTCCACGGACATTGT...TGA AY622943.1
+ACTTTAACTCCACCTCCTCCTCCAGCTGGTTCCACGGACATTGT...TGA EU546204.1
+ACTTTAACTCCACCTCCTCCTCCAGCTGGTTCCACGGACATTGT...TGA EU546210.1
+ACTTTAACTCCACCTCCTCCTCCAGCTGGTTCCACGGACATTGT...TGA EU175856.1
+ACTTTAAGTCCACCTCCTCCTCCAGCTGGTTCCACGGACATTGT...TCA EU546205.1
+ACTTTAAGTCCACCTCCTCCTCCAGCTGGTTCCACGGACATTGT...TCA EU546206.1
+ACTTTAACTCCACCTCCTCCTCCAGCTGGTTCCACGGACATTGT...TTA EU546207.1
+ACTTTAACTCCACCTCCTCCTCCAGCTGGTTCCACGGACATTGT...TCA HQ593530.1
+ACTTTAACTCCACCTCCTCCTCCAGCTGGTTCCACGGACATTGT...TGA EU546211.1
+ACTTTAACTCCACCTCCTCCTCCAGCTGGTTCCACGGACATTGT...TCA EU175855.1
+2022-04-23 08:37:52,535 - DEBUG - Picked primer RIGHT:TTTAACTCCACCTCCTCCTCCA:3501
+2022-04-23 08:37:52,536 - DEBUG - Picked MSA slice: Alphabet() alignment with 13 rows and 22 columns
+TTTAACTCCACCTCCTCCTCCA NC_007018.1
+TTTAACTCCACCTCCTCCTCCA KM390024.1
+TTTAACTCCACCTCCTCCTCCA AY622943.1
+TTTAACTCCACCTCCTCCTCCA EU546204.1
+TTTAACTCCACCTCCTCCTCCA EU546210.1
+TTTAACTCCACCTCCTCCTCCA EU175856.1
+TTTAAGTCCACCTCCTCCTCCA EU546205.1
+TTTAAGTCCACCTCCTCCTCCA EU546206.1
+TTTAACTCCACCTCCTCCTCCA EU546207.1
+TTTAACTCCACCTCCTCCTCCA HQ593530.1
+TTTAACTCCACCTCCTCCTCCA EU546211.1
+TTTAACTCCACCTCCTCCTCCA EU175855.1
+***** **************** Cigar
+2022-04-23 08:37:52,536 - DEBUG - RIGHT candidate 0: *interaction, base pen 0.254, combined pen 2.254, 1 max mismatch, 2 total mismatches.
+2022-04-23 08:37:52,537 - DEBUG - RIGHT candidate 1: base pen 0.654, combined pen 2.654, 1 max mismatch, 2 total mismatches.
+2022-04-23 08:37:52,537 - DEBUG - RIGHT candidate 2: base pen 1.319, combined pen 3.319, 1 max mismatch, 2 total mismatches.
+2022-04-23 08:37:52,538 - DEBUG - RIGHT candidate 3: base pen 1.337, combined pen 3.337, 1 max mismatch, 2 total mismatches.
+2022-04-23 08:37:52,538 - DEBUG - RIGHT candidate 4: base pen 1.337, combined pen 3.337, 1 max mismatch, 2 total mismatches.
+2022-04-23 08:37:52,539 - DEBUG - RIGHT candidate 5: base pen 1.338, combined pen 3.338, 1 max mismatch, 2 total mismatches.
+2022-04-23 08:37:52,539 - DEBUG - RIGHT candidate 6: base pen 2.329, combined pen 4.329, 1 max mismatch, 2 total mismatches.
+2022-04-23 08:37:52,540 - DEBUG - RIGHT candidate 7: base pen 3.226, combined pen 5.226, 1 max mismatch, 2 total mismatches.
+2022-04-23 08:37:52,540 - DEBUG - RIGHT candidate 8: base pen 0.254, combined pen 10.254, 1 max mismatch, 10 total mismatches.
+2022-04-23 08:37:52,541 - DEBUG - RIGHT candidate 9: base pen 0.654, combined pen 10.654, 1 max mismatch, 10 total mismatches.
+2022-04-23 08:37:52,543 - DEBUG - Window: left_limit 3181, slice_start 3405, right_limit 5268
+2022-04-23 08:37:52,543 - DEBUG - Region 12, pool 2
+2022-04-23 08:37:52,543 - DEBUG - Finding primers for slice 3405 to 3824
+2022-04-23 08:37:53,255 - DEBUG - Left region flank MSA: Alphabet() alignment with 12 rows and 54 columns
+GATTGGTACCCCTGACGAGTCTGACCCGGCCTTGCTTCTGCAGC...CAA NC_007018.1
+GATTGGTACCCCTGAGGAGTCTGAACCAACCTTGCCTGTGCAGT...CAA KM390024.1
+GATTGGTACCCCTGACGAGTCTGACCCGGCCTTGCTTCTGCAGC...CAA AY622943.1
+GATTGGTACCCCTGACGAGTCTGACCCGGCCTTGCTTCTGCAGC...CAA EU546204.1
+GATTGGTACCCCTGACGAGTCTGACCCGGCCTTGCTTCTGCAGC...CAA EU546210.1
+GATTGGTACCCCTGACGAGTCTGACCCGGCCTTGCTTCTGCAGC...CAA EU175856.1
+GATTGGTACCCCTGAGGAGTCTGAACCAACCTTGCTTCTGCAAT...CCA EU546205.1
+GATTGGTACCCCTGAGGAGTCTGAACCAACCTTGCTTCTGCAGT...CCA EU546206.1
+GATTGGTACCCCTGAGGAGTCTGAACCAACCTTGCTTCTGCAGT...CGA EU546207.1
+GATTGGTACCCCTGAGGAGTCTGAACCAACCTTGCCTGTGCAGT...CAA HQ593530.1
+GATTGGTACCCCTGACGAGTCTGACCCGGCCTTGCTTCTGCAGC...CAA EU546211.1
+GATTGGTACCCCTGAGGAGTCTGAACCAACCTTGCTTCTGCAGT...CCA EU175855.1
+2022-04-23 08:37:53,255 - DEBUG - Picked primer LEFT:ATTGGTACCCCTGAGGAGTCTG:3406
+2022-04-23 08:37:53,255 - DEBUG - Picked MSA slice: Alphabet() alignment with 13 rows and 22 columns
+ATTGGTACCCCTGACGAGTCTG NC_007018.1
+ATTGGTACCCCTGAGGAGTCTG KM390024.1
+ATTGGTACCCCTGACGAGTCTG AY622943.1
+ATTGGTACCCCTGACGAGTCTG EU546204.1
+ATTGGTACCCCTGACGAGTCTG EU546210.1
+ATTGGTACCCCTGACGAGTCTG EU175856.1
+ATTGGTACCCCTGAGGAGTCTG EU546205.1
+ATTGGTACCCCTGAGGAGTCTG EU546206.1
+ATTGGTACCCCTGAGGAGTCTG EU546207.1
+ATTGGTACCCCTGAGGAGTCTG HQ593530.1
+ATTGGTACCCCTGACGAGTCTG EU546211.1
+ATTGGTACCCCTGAGGAGTCTG EU175855.1
+************** ******* Cigar
+2022-04-23 08:37:53,256 - DEBUG - LEFT candidate 0: base pen 0.081, combined pen 6.081, 1 max mismatch, 6 total mismatches.
+2022-04-23 08:37:53,256 - DEBUG - LEFT candidate 1: base pen 0.187, combined pen 6.187, 1 max mismatch, 6 total mismatches.
+2022-04-23 08:37:53,257 - DEBUG - LEFT candidate 2: base pen 0.395, combined pen 6.395, 1 max mismatch, 6 total mismatches.
+2022-04-23 08:37:53,257 - DEBUG - LEFT candidate 3: base pen 0.657, combined pen 6.657, 1 max mismatch, 6 total mismatches.
+2022-04-23 08:37:53,258 - DEBUG - LEFT candidate 4: base pen 1.105, combined pen 7.105, 1 max mismatch, 6 total mismatches.
+2022-04-23 08:37:53,258 - DEBUG - LEFT candidate 5: base pen 1.622, combined pen 7.622, 1 max mismatch, 6 total mismatches.
+2022-04-23 08:37:53,259 - DEBUG - LEFT candidate 6: base pen 2.259, combined pen 8.259, 1 max mismatch, 6 total mismatches.
+2022-04-23 08:37:53,259 - DEBUG - LEFT candidate 7: base pen 2.456, combined pen 8.456, 1 max mismatch, 6 total mismatches.
+2022-04-23 08:37:53,260 - DEBUG - LEFT candidate 8: base pen 3.097, combined pen 9.097, 1 max mismatch, 6 total mismatches.
+2022-04-23 08:37:53,260 - DEBUG - LEFT candidate 9: base pen 1.105, combined pen 19.105, 2 max mismatches, 12 total mismatches.
+2022-04-23 08:37:53,260 - DEBUG - Right region flank MSA: Alphabet() alignment with 12 rows and 54 columns
+ACAGTAGTACCTGTTTGATTGGTTGCAACATCCTTAATTACAAT...ATT NC_007018.1
+ACAGTGGTGCCTGTCTGATTAGTTGCAACATCCTTGATTACAAT...ATT KM390024.1
+ACAGTAGTACCTGTTTGATTGGTTGCAACATCCTTAATTACAAT...ATT AY622943.1
+ACAGTAGTACCTGTTTGATTGGTTGCAACATCCTTAATTACAAT...ATT EU546204.1
+ACATTAGTACCTGTTTGATTGGTTGCAACATCCTTAATTACAAT...ATT EU546210.1
+ACAGTAGTACCTGTTTGATTGGTTGCAACATCCTTAATTACAAT...ATT EU175856.1
+ACAGTGGTACCTGTCTGATTAGTTGCAACATCCTTAATTACAAT...ATT EU546205.1
+ACAGTGGTACCTGTCTGATTAGTTGCAACATCCTTAATTACAAT...ATT EU546206.1
+ACAGTGGTACCTGTCTGATTAGTTGCAACATCCTTAATTACAAT...ATT EU546207.1
+ACATTGGTGCCTGTCTGATTAGTTGCAACATCCTTGATTACAAT...ATT HQ593530.1
+ACATTAGTACCTGTTTGATTGGTTGCAACATCCTTAATTACAAT...ATT EU546211.1
+ACAGTGGTGCCTGTCTGATTAGTTGCAACATCCTTGATTACAAT...ATT EU175855.1
+2022-04-23 08:37:53,260 - DEBUG - Picked primer RIGHT:TGTTTGATTGGTTGCAACATCCT:3813
+2022-04-23 08:37:53,261 - DEBUG - Picked MSA slice: Alphabet() alignment with 13 rows and 23 columns
+TGTTTGATTGGTTGCAACATCCT NC_007018.1
+TGTCTGATTAGTTGCAACATCCT KM390024.1
+TGTTTGATTGGTTGCAACATCCT AY622943.1
+TGTTTGATTGGTTGCAACATCCT EU546204.1
+TGTTTGATTGGTTGCAACATCCT EU546210.1
+TGTTTGATTGGTTGCAACATCCT EU175856.1
+TGTCTGATTAGTTGCAACATCCT EU546205.1
+TGTCTGATTAGTTGCAACATCCT EU546206.1
+TGTCTGATTAGTTGCAACATCCT EU546207.1
+TGTCTGATTAGTTGCAACATCCT HQ593530.1
+TGTTTGATTGGTTGCAACATCCT EU546211.1
+TGTCTGATTAGTTGCAACATCCT EU175855.1
+*** ***** ************* Cigar
+2022-04-23 08:37:53,261 - DEBUG - RIGHT candidate 0: base pen 2.132, combined pen 14.132, 2 max mismatches, 12 total mismatches.
+2022-04-23 08:37:53,262 - DEBUG - RIGHT candidate 1: base pen 2.179, combined pen 14.179, 2 max mismatches, 12 total mismatches.
+2022-04-23 08:37:53,262 - DEBUG - RIGHT candidate 2: base pen 2.494, combined pen 14.494, 2 max mismatches, 12 total mismatches.
+2022-04-23 08:37:53,263 - DEBUG - RIGHT candidate 3: base pen 2.494, combined pen 14.494, 2 max mismatches, 12 total mismatches.
+2022-04-23 08:37:53,263 - DEBUG - RIGHT candidate 4: base pen 2.536, combined pen 14.536, 2 max mismatches, 12 total mismatches.
+2022-04-23 08:37:53,264 - DEBUG - RIGHT candidate 5: base pen 2.646, combined pen 14.646, 2 max mismatches, 12 total mismatches.
+2022-04-23 08:37:53,265 - DEBUG - RIGHT candidate 6: base pen 2.779, combined pen 14.779, 2 max mismatches, 12 total mismatches.
+2022-04-23 08:37:53,265 - DEBUG - RIGHT candidate 7: base pen 3.351, combined pen 15.351, 2 max mismatches, 12 total mismatches.
+2022-04-23 08:37:53,266 - DEBUG - RIGHT candidate 8: base pen 3.474, combined pen 15.474, 2 max mismatches, 12 total mismatches.
+2022-04-23 08:37:53,266 - DEBUG - RIGHT candidate 9: base pen 4.034, combined pen 16.034, 2 max mismatches, 12 total mismatches.
+2022-04-23 08:37:53,270 - DEBUG - Window: left_limit 3502, slice_start 3716, right_limit 5268
+2022-04-23 08:37:53,270 - DEBUG - Region 13, pool 1
+2022-04-23 08:37:53,270 - DEBUG - Finding primers for slice 3716 to 4135
+2022-04-23 08:37:54,061 - DEBUG - Stepping left to 3705
+2022-04-23 08:37:54,063 - DEBUG - Finding primers for slice 3705 to 4124
+2022-04-23 08:37:54,900 - DEBUG - Stepping left to 3694
+2022-04-23 08:37:54,902 - DEBUG - Finding primers for slice 3694 to 4113
+2022-04-23 08:37:54,928 - DEBUG - Stepping left to 3683
+2022-04-23 08:37:54,928 - DEBUG - Finding primers for slice 3683 to 4102
+2022-04-23 08:37:55,558 - DEBUG - Left region flank MSA: Alphabet() alignment with 12 rows and 54 columns
+ATGCTTTATCTGCTCATTTTACTCCTAGAGACTTTCAGCAACTG...AAT NC_007018.1
+ATGCTTTATCAGCTCATTTTACTCCCAGAGATTTTCAACAATTA...AAT KM390024.1
+ATGCTTTATCTGCTCATTTTACTCCTAGAGACTTTCAGCAACTG...AAT AY622943.1
+ATGCTTTATCTGCTCATTTTACTCCTAGAGACTTTCAGCAACTG...AAT EU546204.1
+ATGCTTTATCTGCTCATTTTACTCCTAGAGACTTTCAGCAACTG...AAT EU546210.1
+ATGCTTTATCTGCTCATTTTACTCCTAGAGACTTTCAGCAACTG...AAT EU175856.1
+ATGCTTTATCAGCTCATTTTACTCCCAGAGATTTTCAGCAATTA...AAT EU546205.1
+ATGCTTTATCAGCTCATTTTACTCCCAGAGATTTTCAGCAGTTA...AAT EU546206.1
+ATGCTTTATCAGCTCATTTTACTCCCAGAGATTTTCAACAATTA...AAT EU546207.1
+ATGCTTTATCAGCTCATTTTACTCCCAGAGATTTTCAACAATTA...AAT HQ593530.1
+ATGCTTTATCTGCTCATTTTACTCCTAGAGACTTTCAGCAACTG...AAT EU546211.1
+ATGCTTTATCAGCTCATTTTACTCCCAGAGATTTTCAACAATTA...AAT EU175855.1
+2022-04-23 08:37:55,558 - DEBUG - Picked primer LEFT:ATCAGCTCATTTTACTCCCAGAGA:3690
+2022-04-23 08:37:55,559 - DEBUG - Picked MSA slice: Alphabet() alignment with 13 rows and 24 columns
+ATCTGCTCATTTTACTCCTAGAGA NC_007018.1
+ATCAGCTCATTTTACTCCCAGAGA KM390024.1
+ATCTGCTCATTTTACTCCTAGAGA AY622943.1
+ATCTGCTCATTTTACTCCTAGAGA EU546204.1
+ATCTGCTCATTTTACTCCTAGAGA EU546210.1
+ATCTGCTCATTTTACTCCTAGAGA EU175856.1
+ATCAGCTCATTTTACTCCCAGAGA EU546205.1
+ATCAGCTCATTTTACTCCCAGAGA EU546206.1
+ATCAGCTCATTTTACTCCCAGAGA EU546207.1
+ATCAGCTCATTTTACTCCCAGAGA HQ593530.1
+ATCTGCTCATTTTACTCCTAGAGA EU546211.1
+ATCAGCTCATTTTACTCCCAGAGA EU175855.1
+*** ************** ***** Cigar
+2022-04-23 08:37:55,559 - DEBUG - LEFT candidate 0: base pen 3.393, combined pen 15.393, 2 max mismatches, 12 total mismatches.
+2022-04-23 08:37:55,560 - DEBUG - LEFT candidate 1: base pen 4.209, combined pen 16.209, 2 max mismatches, 12 total mismatches.
+2022-04-23 08:37:55,561 - DEBUG - LEFT candidate 2: base pen 4.327, combined pen 16.327, 2 max mismatches, 12 total mismatches.
+2022-04-23 08:37:55,561 - DEBUG - LEFT candidate 3: base pen 4.936, combined pen 16.936, 2 max mismatches, 12 total mismatches.
+2022-04-23 08:37:55,562 - DEBUG - LEFT candidate 4: base pen 4.938, combined pen 16.938, 2 max mismatches, 12 total mismatches.
+2022-04-23 08:37:55,562 - DEBUG - LEFT candidate 5: base pen 5.408, combined pen 17.408, 2 max mismatches, 12 total mismatches.
+2022-04-23 08:37:55,563 - DEBUG - LEFT candidate 6: base pen 5.738, combined pen 17.738, 2 max mismatches, 12 total mismatches.
+2022-04-23 08:37:55,563 - DEBUG - LEFT candidate 7: base pen 5.826, combined pen 17.826, 2 max mismatches, 12 total mismatches.
+2022-04-23 08:37:55,564 - DEBUG - LEFT candidate 8: base pen 6.077, combined pen 18.077, 2 max mismatches, 12 total mismatches.
+2022-04-23 08:37:55,565 - DEBUG - LEFT candidate 9: base pen 6.222, combined pen 18.222, 2 max mismatches, 12 total mismatches.
+2022-04-23 08:37:55,565 - DEBUG - Right region flank MSA: Alphabet() alignment with 12 rows and 54 columns
+CTGGAAACTCATAGTGATGAGACCAGTGATCTCCTGTACCCAAA...CAT NC_007018.1
+CTGGAAATTCATAATGATGAGACCAGTGATCTCCTGTTCCTAAA...CAT KM390024.1
+CTGGAAACTCATAGTGATGAGACCAGTGATCTCCTGTACCCAAA...CAT AY622943.1
+CTGGAAACTCATAGTGATGAGACCAGTGATCTCCTGTACCCAAA...CAT EU546204.1
+CTGGAAACTCATAGTGATGAGACCAGTGATCTCCTGTACCCAAA...CAT EU546210.1
+CTGGAAACTCATAGTGATGAGACCAGTGATCTCCTGTACCCAAA...CAT EU175856.1
+CTGGAAACTCATAATGATGAGACCAGTGATCTCCTGTTCCTAAG...CAT EU546205.1
+CTGGAAACTCATAATGATGAGACCAGTGATCTCCTGTTCCTAAG...CAT EU546206.1
+CTGGAAACTCATAATGATGAGACCAGTGATCTCCTGTTCCTAAG...CAT EU546207.1
+CTGGAAATTCATAATGATGAGACCAGTGATCTCCTGTTCCTAAA...CAT HQ593530.1
+CTGGAAACTCATAGTGATGAGACCAGTGATCTCCTGTACCCAAA...CAT EU546211.1
+CTGGAAATTCATAATGATGAGACCAGTGATCCCCTGTTCCTAAA...CAT EU175855.1
+2022-04-23 08:37:55,565 - DEBUG - Picked primer RIGHT:TGATGAGACCAGTGATCTCCTGT:4088
+2022-04-23 08:37:55,565 - DEBUG - Picked MSA slice: Alphabet() alignment with 13 rows and 23 columns
+TGATGAGACCAGTGATCTCCTGT NC_007018.1
+TGATGAGACCAGTGATCTCCTGT KM390024.1
+TGATGAGACCAGTGATCTCCTGT AY622943.1
+TGATGAGACCAGTGATCTCCTGT EU546204.1
+TGATGAGACCAGTGATCTCCTGT EU546210.1
+TGATGAGACCAGTGATCTCCTGT EU175856.1
+TGATGAGACCAGTGATCTCCTGT EU546205.1
+TGATGAGACCAGTGATCTCCTGT EU546206.1
+TGATGAGACCAGTGATCTCCTGT EU546207.1
+TGATGAGACCAGTGATCTCCTGT HQ593530.1
+TGATGAGACCAGTGATCTCCTGT EU546211.1
+TGATGAGACCAGTGATCCCCTGT EU175855.1
+***************** ***** Cigar
+2022-04-23 08:37:55,566 - DEBUG - RIGHT candidate 0: base pen 1.175, combined pen 2.175, 1 max mismatch, 1 total mismatch.
+2022-04-23 08:37:55,566 - DEBUG - RIGHT candidate 1: base pen 1.430, combined pen 8.430, 2 max mismatches, 7 total mismatches.
+2022-04-23 08:37:55,567 - DEBUG - RIGHT candidate 2: base pen 1.566, combined pen 8.566, 2 max mismatches, 7 total mismatches.
+2022-04-23 08:37:55,567 - DEBUG - RIGHT candidate 3: base pen 2.195, combined pen 9.195, 1 max mismatch, 7 total mismatches.
+2022-04-23 08:37:55,568 - DEBUG - RIGHT candidate 4: base pen 2.207, combined pen 9.207, 1 max mismatch, 7 total mismatches.
+2022-04-23 08:37:55,568 - DEBUG - RIGHT candidate 5: base pen 2.240, combined pen 9.240, 1 max mismatch, 7 total mismatches.
+2022-04-23 08:37:55,569 - DEBUG - RIGHT candidate 6: base pen 2.386, combined pen 9.386, 1 max mismatch, 7 total mismatches.
+2022-04-23 08:37:55,569 - DEBUG - RIGHT candidate 7: base pen 2.593, combined pen 9.593, 2 max mismatches, 7 total mismatches.
+2022-04-23 08:37:55,570 - DEBUG - RIGHT candidate 8: base pen 2.719, combined pen 9.719, 2 max mismatches, 7 total mismatches.
+2022-04-23 08:37:55,570 - DEBUG - RIGHT candidate 9: base pen 2.739, combined pen 9.739, 2 max mismatches, 7 total mismatches.
+2022-04-23 08:37:55,573 - DEBUG - Window: left_limit 3814, slice_start 3991, right_limit 5268
+2022-04-23 08:37:55,574 - DEBUG - Region 14, pool 2
+2022-04-23 08:37:55,574 - DEBUG - Finding primers for slice 3991 to 4410
+2022-04-23 08:37:56,191 - DEBUG - Left region flank MSA: Alphabet() alignment with 12 rows and 54 columns
+AACAGCATTGTAGCTATTAGTGATCATAAGACAGAACTGTTTTT...CAC NC_007018.1
+AATAGCATTGTGGCCATCAGTGATCATAAAACAGAACTATTTTT...CAC KM390024.1
+AACAGCATTGTAGCTATTAGTGATCATAAGACAGAACTGTTTTT...CAC AY622943.1
+AACAGCATTGTAGCTATTAGTGATCATAAGACAGAACTGTTTTT...CAC EU546204.1
+AACAGCATTGTAGCTATTAGTGATCATAAGACAGAACTGTTTTT...CAC EU546210.1
+AACAGCATTGTAGCTATTAGTGATCATAAGACAGAACTGTTTTT...CAC EU175856.1
+AACAGCATTGTGGCTATCAGTGATCATAAAACAGAACTATTTTT...CAC EU546205.1
+AACAGCATTGTGGCTATCAGTGATCATAAAACAGAACTATTTTT...CAC EU546206.1
+AACAGCATTGTGGCTATCAGTGATCATAAAACAGAACTATTTTT...CAC EU546207.1
+AACAGCATTGTGGCCATCAGTGATCATAAAACAGAACTATTTTT...CAC HQ593530.1
+AACAGCATTGTAGCTATTAGTGATCATAAGACAGAACTGTTTTT...CAC EU546211.1
+AACAGCATTGTGGCTATCAGTGATCATAAAACAGAACTATTTTT...CAC EU175855.1
+2022-04-23 08:37:56,191 - DEBUG - Picked primer LEFT:AGCATTGTGGCTATCAGTGATCA:3994
+2022-04-23 08:37:56,192 - DEBUG - Picked MSA slice: Alphabet() alignment with 13 rows and 23 columns
+AGCATTGTAGCTATTAGTGATCA NC_007018.1
+AGCATTGTGGCCATCAGTGATCA KM390024.1
+AGCATTGTAGCTATTAGTGATCA AY622943.1
+AGCATTGTAGCTATTAGTGATCA EU546204.1
+AGCATTGTAGCTATTAGTGATCA EU546210.1
+AGCATTGTAGCTATTAGTGATCA EU175856.1
+AGCATTGTGGCTATCAGTGATCA EU546205.1
+AGCATTGTGGCTATCAGTGATCA EU546206.1
+AGCATTGTGGCTATCAGTGATCA EU546207.1
+AGCATTGTGGCCATCAGTGATCA HQ593530.1
+AGCATTGTAGCTATTAGTGATCA EU546211.1
+AGCATTGTGGCTATCAGTGATCA EU175855.1
+******** ** ** ******** Cigar
+2022-04-23 08:37:56,192 - DEBUG - LEFT candidate 0: base pen 1.626, combined pen 15.626, 2 max mismatches, 14 total mismatches.
+2022-04-23 08:37:56,193 - DEBUG - LEFT candidate 1: base pen 0.790, combined pen 15.790, 2 max mismatches, 15 total mismatches.
+2022-04-23 08:37:56,193 - DEBUG - LEFT candidate 2: base pen 1.185, combined pen 16.185, 2 max mismatches, 15 total mismatches.
+2022-04-23 08:37:56,194 - DEBUG - LEFT candidate 3: base pen 2.230, combined pen 16.230, 2 max mismatches, 14 total mismatches.
+2022-04-23 08:37:56,194 - DEBUG - LEFT candidate 4: base pen 1.372, combined pen 16.372, 2 max mismatches, 15 total mismatches.
+2022-04-23 08:37:56,195 - DEBUG - LEFT candidate 5: base pen 2.001, combined pen 17.001, 2 max mismatches, 15 total mismatches.
+2022-04-23 08:37:56,195 - DEBUG - LEFT candidate 6: base pen 2.193, combined pen 17.193, 2 max mismatches, 15 total mismatches.
+2022-04-23 08:37:56,196 - DEBUG - LEFT candidate 7: base pen 3.392, combined pen 17.392, 2 max mismatches, 14 total mismatches.
+2022-04-23 08:37:56,196 - DEBUG - LEFT candidate 8: base pen 2.539, combined pen 17.539, 2 max mismatches, 15 total mismatches.
+2022-04-23 08:37:56,197 - DEBUG - LEFT candidate 9: base pen 2.540, combined pen 17.540, 2 max mismatches, 15 total mismatches.
+2022-04-23 08:37:56,197 - DEBUG - Right region flank MSA: Alphabet() alignment with 12 rows and 54 columns
+ACGGACAGACCATGGTTGATGGACTAAAGGAGCTACACTATACC...TGT NC_007018.1
+GCGAACAGACCATGGCTGATGAACTAATGGAGCTACACTGTATC...TGT KM390024.1
+ACGGACAGACCATGGTTGATGGACTAAAGGAGCTACACTATACC...TGT AY622943.1
+ACGGACAGACCATGGTTGATGGACTAAAGGAGCTACACTATACC...TGT EU546204.1
+ACGGACAGACCATGGTTGATGGACTAAAGGAGCTACACTATACC...TGT EU546210.1
+ACGGACAGACCATGGTTGATGGACTAAAGGAGCTACACTATACC...TGT EU175856.1
+ACGAACAGACCATGGCTGATGAACTAATGGAGCTACACTATACC...TGT EU546205.1
+ACGAACAGACCATGGCTGATGAACTAATGGAGCTACACTATACC...TGT EU546206.1
+ACGAACAGACCATGGCTGATGAACTAATGGAGCTACACTATACC...TGT EU546207.1
+GCGAACAGACCATGGCTGATGAACTAATGGAGCTACACTGTACC...TGT HQ593530.1
+ACGGACAGACCATGGTTGATGGACTAAAGGAGCTACACTATACC...TGT EU546211.1
+ACGAACAGACCATGGCTGATGAACTAATGGAGCTACACTATACC...TGT EU175855.1
+2022-04-23 08:37:56,197 - DEBUG - Picked primer RIGHT:ACAGACCATGGCTGATGAACTAA:4406
+2022-04-23 08:37:56,198 - DEBUG - Picked MSA slice: Alphabet() alignment with 13 rows and 23 columns
+ACAGACCATGGTTGATGGACTAA NC_007018.1
+ACAGACCATGGCTGATGAACTAA KM390024.1
+ACAGACCATGGTTGATGGACTAA AY622943.1
+ACAGACCATGGTTGATGGACTAA EU546204.1
+ACAGACCATGGTTGATGGACTAA EU546210.1
+ACAGACCATGGTTGATGGACTAA EU175856.1
+ACAGACCATGGCTGATGAACTAA EU546205.1
+ACAGACCATGGCTGATGAACTAA EU546206.1
+ACAGACCATGGCTGATGAACTAA EU546207.1
+ACAGACCATGGCTGATGAACTAA HQ593530.1
+ACAGACCATGGTTGATGGACTAA EU546211.1
+ACAGACCATGGCTGATGAACTAA EU175855.1
+*********** ***** ***** Cigar
+2022-04-23 08:37:56,198 - DEBUG - RIGHT candidate 0: base pen 2.007, combined pen 14.007, 2 max mismatches, 12 total mismatches.
+2022-04-23 08:37:56,199 - DEBUG - RIGHT candidate 1: base pen 1.221, combined pen 15.221, 2 max mismatches, 14 total mismatches.
+2022-04-23 08:37:56,202 - DEBUG - Window: left_limit 4089, slice_start 4309, right_limit 5268
+2022-04-23 08:37:56,202 - DEBUG - Region 15, pool 1
+2022-04-23 08:37:56,203 - DEBUG - Finding primers for slice 4309 to 4728
+2022-04-23 08:37:56,898 - DEBUG - Left region flank MSA: Alphabet() alignment with 12 rows and 54 columns
+ATTAGAAACACAACTTTCAGAGATCCTGTGGCTATTGGAAATCC...AGT NC_007018.1
+ATTAGAAACACAACTTTTAGGGATCCTGTTGCTATTGGAAATCC...AGT KM390024.1
+ATTAGAAACACAACTTTCAGAGATCCTGTGGCTATTGGAAATCC...AGT AY622943.1
+ATTAGAAACACAACTTTCAGAGATCCTGTGGCTATTGGAAATCC...AGT EU546204.1
+ATTAGAAACACAACTTTCAGAGATCCTGTGGCTATTGGAAATCC...AGT EU546210.1
+ATTAGAAACACAACTTTCAGAGATCCTGTGGCTATTGGAAATCC...AGT EU175856.1
+ATTAGAAACACAACTTTTAGGGATCCTGTAGCTATTGGAAATCC...AGT EU546205.1
+ATTAGAAACACAACTTTTAGGGATCCTGTAGCTATTGGAAATCC...AGT EU546206.1
+ATTAGAAACACAACTTTTAGGGATCCTGTAGCTATTGGAAATCC...AGT EU546207.1
+ATTAGAAACACAACTTTCAGGGATCCTGTTGCTATTGGAAATCC...AGT HQ593530.1
+ATTAGAAACACAACTTTCAGAGATCCTGTGGCTATTGGAAATCC...AGT EU546211.1
+ATTAGAAACACAACTTTTAGGGATCCTGTTGCTATTGGAAACCC...AGT EU175855.1
+2022-04-23 08:37:56,898 - DEBUG - Picked primer LEFT:AGAAACACAACTTTCAGGGATCCT:4312
+2022-04-23 08:37:56,899 - DEBUG - Picked MSA slice: Alphabet() alignment with 13 rows and 24 columns
+AGAAACACAACTTTCAGAGATCCT NC_007018.1
+AGAAACACAACTTTTAGGGATCCT KM390024.1
+AGAAACACAACTTTCAGAGATCCT AY622943.1
+AGAAACACAACTTTCAGAGATCCT EU546204.1
+AGAAACACAACTTTCAGAGATCCT EU546210.1
+AGAAACACAACTTTCAGAGATCCT EU175856.1
+AGAAACACAACTTTTAGGGATCCT EU546205.1
+AGAAACACAACTTTTAGGGATCCT EU546206.1
+AGAAACACAACTTTTAGGGATCCT EU546207.1
+AGAAACACAACTTTCAGGGATCCT HQ593530.1
+AGAAACACAACTTTCAGAGATCCT EU546211.1
+AGAAACACAACTTTTAGGGATCCT EU175855.1
+************** ** ****** Cigar
+2022-04-23 08:37:56,899 - DEBUG - LEFT candidate 0: base pen 2.532, combined pen 13.532, 1 max mismatch, 11 total mismatches.
+2022-04-23 08:37:56,900 - DEBUG - LEFT candidate 1: base pen 3.684, combined pen 14.684, 1 max mismatch, 11 total mismatches.
+2022-04-23 08:37:56,900 - DEBUG - LEFT candidate 2: base pen 4.077, combined pen 15.077, 2 max mismatches, 11 total mismatches.
+2022-04-23 08:37:56,901 - DEBUG - LEFT candidate 3: base pen 4.143, combined pen 15.143, 1 max mismatch, 11 total mismatches.
+2022-04-23 08:37:56,901 - DEBUG - LEFT candidate 4: base pen 4.149, combined pen 15.149, 2 max mismatches, 11 total mismatches.
+2022-04-23 08:37:56,902 - DEBUG - LEFT candidate 5: base pen 4.382, combined pen 15.382, 2 max mismatches, 11 total mismatches.
+2022-04-23 08:37:56,902 - DEBUG - LEFT candidate 6: base pen 4.385, combined pen 15.385, 1 max mismatch, 11 total mismatches.
+2022-04-23 08:37:56,903 - DEBUG - LEFT candidate 7: base pen 4.993, combined pen 15.993, 1 max mismatch, 11 total mismatches.
+2022-04-23 08:37:56,904 - DEBUG - LEFT candidate 8: base pen 5.084, combined pen 16.084, 2 max mismatches, 11 total mismatches.
+2022-04-23 08:37:56,904 - DEBUG - LEFT candidate 9: base pen 5.197, combined pen 16.197, 1 max mismatch, 11 total mismatches.
+2022-04-23 08:37:56,904 - DEBUG - Right region flank MSA: Alphabet() alignment with 12 rows and 54 columns
+ATATGATAAAGGATTTGGGTTCCAAACAGCACCAGGAAACAAAG...AGG NC_007018.1
+GTATGATAAAGGATTTGGGTTCCAAACAGCACCAGGAAACAAGG...AGG KM390024.1
+ATATGATAAAGGATTTGGGTTCCAAACAGCACCAGGAAACAAAG...AGG AY622943.1
+ATATGATAAAGGATTTGGGTTCCAAACAGCACCAGGAAACAAAG...AGG EU546204.1
+ATATGATAAAGGATTTGGGTTCCAAACAGCACCAGGAAACAAAG...AGG EU546210.1
+ATATGATAAAGGATTTGGGTTCCAAACAGCACCAGGAAACAAAG...AGG EU175856.1
+ATATGACAAAGGATTTGGGTTCCAAACAGCACCAGGAAACAAGG...AGG EU546205.1
+ATATGACAAAGGATTTGGGTTCCAAACAGCACCAGGAAACAAGG...AGG EU546206.1
+ATATGACAAAGGATTTGGGTTCCAAACAGCACCAGGAAACAAGG...GGG EU546207.1
+ATATGATAAAGGATTTGGGTTCCAAACAGCACCAGGAAACAGGG...AGG HQ593530.1
+ATATGATAAAGGATTTGGGTTCCAAACAGCACCAGGAAACAAAG...AGG EU546211.1
+ATATGATAAAGGATTTGGGTTCCAAACAGCACCAGGAAACAATG...AGG EU175855.1
+2022-04-23 08:37:56,904 - DEBUG - Picked primer RIGHT:GGTTCCAAACAGCACCAGGAAA:4711
+2022-04-23 08:37:56,905 - DEBUG - Picked MSA slice: Alphabet() alignment with 13 rows and 22 columns
+GGTTCCAAACAGCACCAGGAAA NC_007018.1
+GGTTCCAAACAGCACCAGGAAA KM390024.1
+GGTTCCAAACAGCACCAGGAAA AY622943.1
+GGTTCCAAACAGCACCAGGAAA EU546204.1
+GGTTCCAAACAGCACCAGGAAA EU546210.1
+GGTTCCAAACAGCACCAGGAAA EU175856.1
+GGTTCCAAACAGCACCAGGAAA EU546205.1
+GGTTCCAAACAGCACCAGGAAA EU546206.1
+GGTTCCAAACAGCACCAGGAAA EU546207.1
+GGTTCCAAACAGCACCAGGAAA HQ593530.1
+GGTTCCAAACAGCACCAGGAAA EU546211.1
+GGTTCCAAACAGCACCAGGAAA EU175855.1
+********************** Cigar
+2022-04-23 08:37:56,905 - DEBUG - RIGHT candidate 0: base pen 0.719, combined pen 0.719, 0 max mismatches, 0 total mismatches.
+2022-04-23 08:37:56,906 - DEBUG - RIGHT candidate 1: base pen 0.980, combined pen 0.980, 0 max mismatches, 0 total mismatches.
+2022-04-23 08:37:56,906 - DEBUG - RIGHT candidate 2: base pen 1.002, combined pen 1.002, 0 max mismatches, 0 total mismatches.
+2022-04-23 08:37:56,907 - DEBUG - RIGHT candidate 3: base pen 1.130, combined pen 1.130, 0 max mismatches, 0 total mismatches.
+2022-04-23 08:37:56,907 - DEBUG - RIGHT candidate 4: base pen 1.404, combined pen 1.404, 0 max mismatches, 0 total mismatches.
+2022-04-23 08:37:56,908 - DEBUG - RIGHT candidate 5: base pen 2.228, combined pen 2.228, 0 max mismatches, 0 total mismatches.
+2022-04-23 08:37:56,908 - DEBUG - RIGHT candidate 6: base pen 2.516, combined pen 2.516, 0 max mismatches, 0 total mismatches.
+2022-04-23 08:37:56,909 - DEBUG - RIGHT candidate 7: base pen 2.658, combined pen 2.658, 0 max mismatches, 0 total mismatches.
+2022-04-23 08:37:56,909 - DEBUG - RIGHT candidate 8: base pen 4.388, combined pen 4.388, 0 max mismatches, 0 total mismatches.
+2022-04-23 08:37:56,912 - DEBUG - Window: left_limit 4407, slice_start 4615, right_limit 5268
+2022-04-23 08:37:56,912 - DEBUG - Region 16, pool 2
+2022-04-23 08:37:56,912 - DEBUG - Finding primers for slice 4615 to 5034
+2022-04-23 08:37:56,917 - DEBUG - Stepping left to 4604
+2022-04-23 08:37:56,918 - DEBUG - Finding primers for slice 4604 to 5023
+2022-04-23 08:37:56,922 - DEBUG - Stepping left to 4593
+2022-04-23 08:37:56,922 - DEBUG - Finding primers for slice 4593 to 5012
+2022-04-23 08:37:56,927 - DEBUG - Stepping left to 4582
+2022-04-23 08:37:56,927 - DEBUG - Finding primers for slice 4582 to 5001
+2022-04-23 08:37:56,932 - DEBUG - Stepping left to 4571
+2022-04-23 08:37:56,932 - DEBUG - Finding primers for slice 4571 to 4990
+2022-04-23 08:37:57,756 - DEBUG - Stepping left to 4560
+2022-04-23 08:37:57,757 - DEBUG - Finding primers for slice 4560 to 4979
+2022-04-23 08:37:58,461 - DEBUG - Stepping left to 4549
+2022-04-23 08:37:58,462 - DEBUG - Finding primers for slice 4549 to 4968
+2022-04-23 08:37:58,465 - DEBUG - Stepping left to 4538
+2022-04-23 08:37:58,465 - DEBUG - Finding primers for slice 4538 to 4957
+2022-04-23 08:37:58,500 - DEBUG - Stepping left to 4527
+2022-04-23 08:37:58,500 - DEBUG - Finding primers for slice 4527 to 4946
+2022-04-23 08:37:59,326 - DEBUG - Left region flank MSA: Alphabet() alignment with 12 rows and 54 columns
+TGGTAGAGTTACTAACCCATCCAGAGTTGTTCAGATAGATGGTG...AGC NC_007018.1
+TGGCAGAGTTAGTAATCCATCTAGAGTTGTTCAGATAGATGGTG...TGC KM390024.1
+TGGTAGAGTTACTAACCCATCCAGAGTTGTTCAGATAGATGGTG...AGC AY622943.1
+TGGTAGAGTTACTAACCCATCCAGAGTTGTTCAGATAGATGGTG...AGC EU546204.1
+TGGTAGAGTTACTAACCCATCCAGAGTTGTTCAGATAGATGGTG...AGC EU546210.1
+TGGTAGAGTTACTAACCCATCCAGAGTTGTTCAGATAGATGGTG...AGC EU175856.1
+TGGCAGAGTTACTAACCCATCTAGAGTTGTTCAGATAGATGGTG...AGC EU546205.1
+TGGCAGAGTTACTAACCCATCTAGAGTTGTTCAGATAGATGGTG...AGC EU546206.1
+TGGCAGAGTTACTAACCCATCTAGAGTTGTTCAGATAGATGGTG...AGC EU546207.1
+TGGCAGAGTTAGTAATCCATCTAGAGTTGTTCAGATAGATGGTG...TGC HQ593530.1
+TGGTAGAGTTACTAACCCATCCAGAGTTGTTCAGATAGATGGTG...AGC EU546211.1
+CGGCAGAGTTACTAATCCATCTAGAGTTGTTCAGATAGATGGTG...TGC EU175855.1
+2022-04-23 08:37:59,326 - DEBUG - Picked primer LEFT:AACCCATCCAGAGTTGTTCAGAT:4540
+2022-04-23 08:37:59,326 - DEBUG - Picked MSA slice: Alphabet() alignment with 13 rows and 23 columns
+AACCCATCCAGAGTTGTTCAGAT NC_007018.1
+AATCCATCTAGAGTTGTTCAGAT KM390024.1
+AACCCATCCAGAGTTGTTCAGAT AY622943.1
+AACCCATCCAGAGTTGTTCAGAT EU546204.1
+AACCCATCCAGAGTTGTTCAGAT EU546210.1
+AACCCATCCAGAGTTGTTCAGAT EU175856.1
+AACCCATCTAGAGTTGTTCAGAT EU546205.1
+AACCCATCTAGAGTTGTTCAGAT EU546206.1
+AACCCATCTAGAGTTGTTCAGAT EU546207.1
+AATCCATCTAGAGTTGTTCAGAT HQ593530.1
+AACCCATCCAGAGTTGTTCAGAT EU546211.1
+AATCCATCTAGAGTTGTTCAGAT EU175855.1
+** ***** ************** Cigar
+2022-04-23 08:37:59,327 - DEBUG - LEFT candidate 0: base pen 2.072, combined pen 11.072, 2 max mismatches, 9 total mismatches.
+2022-04-23 08:37:59,327 - DEBUG - LEFT candidate 1: base pen 2.839, combined pen 11.839, 2 max mismatches, 9 total mismatches.
+2022-04-23 08:37:59,328 - DEBUG - LEFT candidate 2: base pen 3.083, combined pen 12.083, 2 max mismatches, 9 total mismatches.
+2022-04-23 08:37:59,329 - DEBUG - LEFT candidate 3: base pen 3.209, combined pen 12.209, 2 max mismatches, 9 total mismatches.
+2022-04-23 08:37:59,329 - DEBUG - LEFT candidate 4: base pen 3.209, combined pen 12.209, 2 max mismatches, 9 total mismatches.
+2022-04-23 08:37:59,330 - DEBUG - LEFT candidate 5: base pen 3.275, combined pen 12.275, 2 max mismatches, 9 total mismatches.
+2022-04-23 08:37:59,330 - DEBUG - LEFT candidate 6: base pen 3.442, combined pen 12.442, 2 max mismatches, 9 total mismatches.
+2022-04-23 08:37:59,331 - DEBUG - LEFT candidate 7: base pen 4.335, combined pen 13.335, 2 max mismatches, 9 total mismatches.
+2022-04-23 08:37:59,331 - DEBUG - LEFT candidate 8: base pen 4.430, combined pen 13.430, 2 max mismatches, 9 total mismatches.
+2022-04-23 08:37:59,332 - DEBUG - LEFT candidate 9: base pen 4.941, combined pen 13.941, 2 max mismatches, 9 total mismatches.
+2022-04-23 08:37:59,332 - DEBUG - Right region flank MSA: Alphabet() alignment with 12 rows and 54 columns
+ACTAAAAACTGCATACTATAATGCAAGTGAAAAATTGCATACTG...TTA NC_007018.1
+ACTAGAAACTGCATGCTATAGTGCAAGTGAAAAATGGCATACTG...TTA KM390024.1
+ACTAAAAACTGCATACTATAATGCAAGTGAAAAATTGCATACTG...TTA AY622943.1
+ACTAAAAACTGCATACTATAATGCAAGTGAAAAATTGCATACTG...TTA EU546204.1
+ACTAAAAACTGCATACTATAATGCAAGTGAAAAATTGCATACTG...TTA EU546210.1
+ACTAAAAACTGCATACTATAATGCAAGTGAAAAATTGCATACTG...TTA EU175856.1
+ACTAGAAACTGCATGCTATAGTGCAAGTGAAAAATGGCATACTG...TTA EU546205.1
+ACTAGAAACTGCATGCTATAGTGCAAGTGAAAAATGGCATACTG...TTA EU546206.1
+ACTAGAAACTGCATGCTATAGTGCAAGTGAAAAATGGCATACTG...TTA EU546207.1
+ACTAGAAACTGCATGCTATAGTGCAAGTGAAAAATGGCATACTG...TTA HQ593530.1
+ACTAAAAACTGCATACTATAATGCAAGTGAAAAATTGCATACTG...TTA EU546211.1
+ACTAGAAACTGCATGCTATAGTGCAAATGAAAAATGGCATACTG...TTA EU175855.1
+2022-04-23 08:37:59,332 - DEBUG - Picked primer RIGHT:TGCATGCTATAGTGCAAGTGAAAA:4937
+2022-04-23 08:37:59,333 - DEBUG - Picked MSA slice: Alphabet() alignment with 13 rows and 24 columns
+TGCATACTATAATGCAAGTGAAAA NC_007018.1
+TGCATGCTATAGTGCAAGTGAAAA KM390024.1
+TGCATACTATAATGCAAGTGAAAA AY622943.1
+TGCATACTATAATGCAAGTGAAAA EU546204.1
+TGCATACTATAATGCAAGTGAAAA EU546210.1
+TGCATACTATAATGCAAGTGAAAA EU175856.1
+TGCATGCTATAGTGCAAGTGAAAA EU546205.1
+TGCATGCTATAGTGCAAGTGAAAA EU546206.1
+TGCATGCTATAGTGCAAGTGAAAA EU546207.1
+TGCATGCTATAGTGCAAGTGAAAA HQ593530.1
+TGCATACTATAATGCAAGTGAAAA EU546211.1
+TGCATGCTATAGTGCAAATGAAAA EU175855.1
+***** ***** ***** ****** Cigar
+2022-04-23 08:37:59,333 - DEBUG - RIGHT candidate 0: base pen 3.139, combined pen 16.139, 2 max mismatches, 13 total mismatches.
+2022-04-23 08:37:59,334 - DEBUG - RIGHT candidate 1: base pen 3.571, combined pen 16.571, 2 max mismatches, 13 total mismatches.
+2022-04-23 08:37:59,334 - DEBUG - RIGHT candidate 2: base pen 4.211, combined pen 17.211, 2 max mismatches, 13 total mismatches.
+2022-04-23 08:37:59,338 - DEBUG - Window: left_limit 4712, slice_start 4839, right_limit 5268
+2022-04-23 08:37:59,338 - DEBUG - Region 17, pool 1
+2022-04-23 08:37:59,338 - DEBUG - Finding primers for slice 4839 to 5258
+2022-04-23 08:37:59,351 - DEBUG - Stepping left to 4828
+2022-04-23 08:37:59,351 - DEBUG - Finding primers for slice 4828 to 5247
+2022-04-23 08:37:59,364 - DEBUG - Stepping left to 4817
+2022-04-23 08:37:59,364 - DEBUG - Finding primers for slice 4817 to 5236
+2022-04-23 08:37:59,367 - DEBUG - Stepping left to 4806
+2022-04-23 08:37:59,367 - DEBUG - Finding primers for slice 4806 to 5225
+2022-04-23 08:37:59,380 - DEBUG - Stepping left to 4795
+2022-04-23 08:37:59,381 - DEBUG - Finding primers for slice 4795 to 5214
+2022-04-23 08:37:59,395 - DEBUG - Stepping left to 4784
+2022-04-23 08:37:59,395 - DEBUG - Finding primers for slice 4784 to 5203
+2022-04-23 08:37:59,408 - DEBUG - Stepping left to 4773
+2022-04-23 08:37:59,408 - DEBUG - Finding primers for slice 4773 to 5192
+2022-04-23 08:37:59,439 - DEBUG - Stepping left to 4762
+2022-04-23 08:37:59,439 - DEBUG - Finding primers for slice 4762 to 5181
+2022-04-23 08:37:59,456 - DEBUG - Stepping left to 4751
+2022-04-23 08:37:59,456 - DEBUG - Finding primers for slice 4751 to 5170
+2022-04-23 08:37:59,475 - DEBUG - Stepping left to 4740
+2022-04-23 08:37:59,475 - DEBUG - Finding primers for slice 4740 to 5159
+2022-04-23 08:37:59,479 - DEBUG - Stepping left to 4729
+2022-04-23 08:37:59,480 - DEBUG - Finding primers for slice 4729 to 5148
+2022-04-23 08:37:59,497 - DEBUG - Stepping left to 4718
+2022-04-23 08:37:59,497 - DEBUG - Finding primers for slice 4718 to 5137
+2022-04-23 08:37:59,523 - DEBUG - Left limit reached
+2022-04-23 08:37:59,523 - DEBUG - Finding primers for slice 4839 to 5258
+2022-04-23 08:37:59,536 - DEBUG - Right limit reached
+2022-04-23 08:37:59,537 - INFO - Writing /outputs/4cca72383d70477298be47e40a112ee0/Trpv4_v1.primer.bed
+2022-04-23 08:37:59,538 - INFO - Writing /outputs/4cca72383d70477298be47e40a112ee0/Trpv4_v1.insert.bed
+2022-04-23 08:37:59,538 - INFO - Writing /outputs/4cca72383d70477298be47e40a112ee0/Trpv4_v1.primer.tsv
+2022-04-23 08:37:59,538 - INFO - Writing /outputs/4cca72383d70477298be47e40a112ee0/Trpv4_v1.reference.fasta
+2022-04-23 08:37:59,558 - INFO - Writing /outputs/4cca72383d70477298be47e40a112ee0/Trpv4_v1.plot.pdf
+2022-04-23 08:37:59,558 - INFO - Writing /outputs/4cca72383d70477298be47e40a112ee0/Trpv4_v1.plot.svg
+2022-04-23 08:37:59,633 - INFO - Writing /outputs/4cca72383d70477298be47e40a112ee0/Trpv4_v1.report.json

@@ -1,0 +1,114 @@
+DATASET_COLORSTRIP
+#lines starting with a hash are comments and ignored during parsing
+#select the separator which is used to delimit the data below (TAB	SPACE or COMMA).This separator must be used throught this file (except in the SEPARATOR line which uses space).
+
+SEPARATOR TAB
+#SEPARATOR SPACE
+#SEPARATOR COMMA
+
+#label is used in the legend table (can be changed later)
+DATASET_LABEL	Co-infection
+
+#dataset color (can be changed later)
+COLOR	#000000
+
+#optional settings
+
+#all other optional settings can be set or changed later in the web interface (under 'Datasets' tab)
+COLOR_BRANCHES	1
+#maximum width
+STRIP_WIDTH	50
+
+#left margin, used to increase/decrease the spacing to the next dataset. Can be negative,causing datasets to overlap.
+MARGIN	25
+
+#border width; if set above 0, a black border of specified width (in pixels) will be drawn around the color strip 
+BORDER_WIDTH	0
+BORDER_COLOR	#000
+
+#show internal values; if set, values associated to internal nodes will be displayed even if these nodes are not collapsed. It could cause overlapping in the dataset display.
+SHOW_INTERNAL	0
+
+LEGEND_TITLE	Co-infection  
+LEGEND_SHAPES	1	1	1	1	1	1	1	1	1
+LEGEND_COLORS	#8c510a	#bf812d	#dfc27d	#f6e8c3	#c7eae5	#80cdc1	#35978f	#01665e	#003c30
+LEGEND_LABELS	None	Acinetobacter baumanii	B19	Streptococcus pneumoniae	Streptococcus pneumoniae and B19	Acinetobacter sp.	Klebsiella pneumoniae	Escherichia coli	Pseudomonas spp.
+
+
+#In colored strip charts	 each ID is associated to a color. Color can be specified in hexadecimal	 RGB or RGBA notation
+#Internal tree nodes can be specified using IDs directly	 or using the 'last common ancestor' method described in iTOL help pages
+#Actual data follows after the "DATA" keyword
+DATA
+#allele_ID	orga_color
+CHRF_0012	#8c510a
+CHRF_0015	#8c510a
+BD0003	#8c510a
+CSF_0003	#8c510a
+CSF_0004	#8c510a
+CSF_0015	#8c510a
+CSF_0016	#bf812d
+CSF_0017	#8c510a
+CSF_0018	#8c510a
+CSF_0019	#dfc27d
+CSF_0020	#8c510a
+CSF_0022	#f6e8c3
+CSF_0023	#8c510a
+CSF_0024	#8c510a
+CSF_0026	#8c510a
+CSF_0027	#c7eae5
+CSF_0028	#c7eae5
+CSF_0036	#8c510a
+CSF_0037	#8c510a
+CSF_0038	#dfc27d
+CSF_0039	#8c510a
+CSF_0040	#80cdc1
+CSF_0041	#f6e8c3
+CSF_0042	#f6e8c3
+CSF_0043	#35978f
+CSF_0044	#8c510a
+CSF_0045	#8c510a
+CSF_0046	#01665e
+CSF_0047	#8c510a
+CSF_0048	#8c510a
+CSF_0049	#dfc27d
+CSF_0050	#dfc27d
+CSF_0051	#8c510a
+CSF_0052	#8c510a
+CSF_0053	#8c510a
+CSF_0054	#8c510a
+CSF_0055	#8c510a
+CSF_0056	#8c510a
+CSF_0057	#8c510a
+CSF_0058	#c7eae5
+CSF_0059	#8c510a
+CSF_0060	#8c510a
+CSF_0061	#8c510a
+CSF_0062	#003c30
+CSF_0063	#8c510a
+CSF_0064	#dfc27d
+CSF_0065	#dfc27d
+CSF_0066	#8c510a
+CSF_0067	#8c510a
+CSF_0068	#dfc27d
+CSF_0069	#8c510a
+CSF_0070	#dfc27d
+CSF_0071	#8c510a
+CSF_0072	#8c510a
+CSF_0073	#8c510a
+CSF_0074	#8c510a
+CSF_0075	#8c510a
+CSF_0076	#01665e
+CSF_0077	#35978f
+CSF_0090	#f6e8c3
+CSF_0091	#dfc27d
+CSF_0092	#8c510a
+CSF_0093	#8c510a
+CSF_0094	#dfc27d
+CSF_0095	#8c510a
+CSF_0096	#8c510a
+CSF_0097	#8c510a
+CSF_0098	#f6e8c3
+CSF_0099	#8c510a
+CSF_0100	#c7eae5
+CSF_0101	#dfc27d
+

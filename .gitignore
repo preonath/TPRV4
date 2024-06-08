@@ -19,4 +19,7 @@ rad.json
 #License-file
 *.flf
 #Test results file
-TestResults.xml
+TestResults.xmlCHRF_TPRV_Sequencing.zip
+TPRV4_my_work_very_old/CSF_0026/1_RawData/CSF_0026_TP4_L1_208658_reads_nh_R1.fastq
+TPRV4_my_work_very_old/CSF_0026/1_RawData/CSF_0026_TP4_L1_208658_reads_nh_R2.fastq
+TPRV4_my_work_very_old/CSF_0023/1_RawData/CSF_0023_TP4_L1_208666_reads_nh_R2.fastq

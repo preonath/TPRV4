@@ -1,0 +1,911 @@
+2022-04-26 06:23:35,882 - DEBUG - primalscheme version 1.3.2
+2022-04-26 06:23:35,882 - INFO - References:
+ - CHRF_BD0003_CZ
+ - CSF_0017_CZ
+ - CSF_0004_CZ
+ - CSF_0018_CZ
+ - CSF_0019_CZ
+ - CSF_0023_NODE_1_length_4912_cov_9477
+ - CSF_0026_CZ
+2022-04-26 06:23:35,883 - INFO - Primary reference for coordinate system: CHRF_BD0003_CZ
+2022-04-26 06:23:35,883 - INFO - Considering primers from all references
+2022-04-26 06:23:35,883 - DEBUG - MuliplexScheme
+Prefix: Trpv4_v5
+Amplicon size range: 380 - 420
+Target overlap: 0
+Primary only (pinned): False
+References:
+ - CHRF_BD0003_CZ
+ - CSF_0017_CZ
+ - CSF_0004_CZ
+ - CSF_0018_CZ
+ - CSF_0019_CZ
+ - CSF_0023_NODE_1_length_4912_cov_9477
+ - CSF_0026_CZ
+2022-04-26 06:23:35,883 - DEBUG - Window: left_limit 0, slice_start 0, right_limit 4911
+2022-04-26 06:23:35,883 - DEBUG - Region 1, pool 1
+2022-04-26 06:23:35,884 - DEBUG - Finding primers for slice 0 to 419
+2022-04-26 06:23:35,889 - DEBUG - Left limit reached
+2022-04-26 06:23:35,889 - DEBUG - Finding primers for slice 0 to 419
+2022-04-26 06:23:35,892 - DEBUG - Stepping right to 11
+2022-04-26 06:23:35,892 - DEBUG - Finding primers for slice 11 to 430
+2022-04-26 06:23:35,895 - DEBUG - Stepping right to 22
+2022-04-26 06:23:35,896 - DEBUG - Finding primers for slice 22 to 441
+2022-04-26 06:23:36,205 - DEBUG - Stepping right to 33
+2022-04-26 06:23:36,205 - DEBUG - Finding primers for slice 33 to 452
+2022-04-26 06:23:36,455 - DEBUG - Stepping right to 44
+2022-04-26 06:23:36,456 - DEBUG - Finding primers for slice 44 to 463
+2022-04-26 06:23:36,790 - DEBUG - Left region flank MSA: Alphabet() alignment with 7 rows and 54 columns
+GCCCCTGCCTGGATCGCCGTGCTGCAGATTCCTACCGGATTTCT...CCT CHRF_BD0003_CZ
+GCCCCTGCCTGGATCGCCGTGCTGCAAATTCCTACCGGATTTCT...CCT CSF_0017_CZ
+GCCCCTGCCTGGATCGCCGTGCTGCAAATTCCTACCGGATTTCT...CCT CSF_0004_CZ
+GCCCCTGCCTGGATCGCCGTGCTGCAAATTCCTACCGGATTTCT...CCT CSF_0018_CZ
+GCCCCTGCCTGGATCGCCGTGCTGCAGATTCCTACCGGATTTCT...CCT CSF_0019_CZ
+GCCCCTGCCTGGATCGCCGTGCTGCAAATTCCTACCGGATTTCT...CCT CSF_0023_NODE_1_length_4912_cov_9477
+GCCCCTGCCTGGATCGCCGTGCTGCAAATTCCTACCGGATTTCT...CCT CSF_0026_CZ
+2022-04-26 06:23:36,790 - DEBUG - Picked primer LEFT:GTGCTGCAAATTCCTACCGGA:62
+2022-04-26 06:23:36,792 - DEBUG - Picked MSA slice: Alphabet() alignment with 8 rows and 21 columns
+GTGCTGCAGATTCCTACCGGA CHRF_BD0003_CZ
+GTGCTGCAAATTCCTACCGGA CSF_0017_CZ
+GTGCTGCAAATTCCTACCGGA CSF_0004_CZ
+GTGCTGCAAATTCCTACCGGA CSF_0018_CZ
+GTGCTGCAGATTCCTACCGGA CSF_0019_CZ
+GTGCTGCAAATTCCTACCGGA CSF_0023_NODE_1_length_4912_cov_9477
+GTGCTGCAAATTCCTACCGGA CSF_0026_CZ
+******** ************ Cigar
+2022-04-26 06:23:36,792 - DEBUG - LEFT candidate 0: base pen 1.051, combined pen 3.051, 1 max mismatch, 2 total mismatches.
+2022-04-26 06:23:36,792 - DEBUG - LEFT candidate 1: base pen 2.121, combined pen 4.121, 1 max mismatch, 2 total mismatches.
+2022-04-26 06:23:36,793 - DEBUG - LEFT candidate 2: base pen 2.660, combined pen 4.660, 1 max mismatch, 2 total mismatches.
+2022-04-26 06:23:36,793 - DEBUG - LEFT candidate 3: base pen 2.805, combined pen 4.805, 1 max mismatch, 2 total mismatches.
+2022-04-26 06:23:36,793 - DEBUG - LEFT candidate 4: base pen 3.081, combined pen 5.081, 1 max mismatch, 2 total mismatches.
+2022-04-26 06:23:36,794 - DEBUG - LEFT candidate 5: base pen 3.287, combined pen 5.287, 1 max mismatch, 2 total mismatches.
+2022-04-26 06:23:36,794 - DEBUG - LEFT candidate 6: base pen 3.287, combined pen 5.287, 1 max mismatch, 2 total mismatches.
+2022-04-26 06:23:36,794 - DEBUG - LEFT candidate 7: base pen 3.310, combined pen 5.310, 1 max mismatch, 2 total mismatches.
+2022-04-26 06:23:36,795 - DEBUG - LEFT candidate 8: base pen 3.435, combined pen 5.435, 1 max mismatch, 2 total mismatches.
+2022-04-26 06:23:36,795 - DEBUG - LEFT candidate 9: base pen 3.435, combined pen 5.435, 1 max mismatch, 2 total mismatches.
+2022-04-26 06:23:36,795 - DEBUG - Right region flank MSA: Alphabet() alignment with 7 rows and 54 columns
+ACGGGTTTTTCTAATATTCCAACTTAGAGTCCATGTAGGAGCAA...TCC CHRF_BD0003_CZ
+ACGGGTTTTTCTAATATTCCAGCTTAATGTCCATGTAGGAGCAA...TCC CSF_0017_CZ
+ACGGGTTTTTCTAATATTCCAGCTTAATGTCCATGTAGGAGCAA...TCC CSF_0004_CZ
+ACGGGTTTTTCTAATATTCCAGCTTAATGTCCATGTAGGAGCAA...TCC CSF_0018_CZ
+ACGGGTTTTTCTAATATTCCAGCTTAATGTCCATGTAGGAGCAA...TCC CSF_0019_CZ
+ACGGGTTTTTCTAATATTCCAGCTTAATGTCCATGTAGGAGCAA...TCC CSF_0023_NODE_1_length_4912_cov_9477
+ACGGGTTTTTCTAATATTCCAGCTTAATGTCCATGTAGGAGCAA...TCC CSF_0026_CZ
+2022-04-26 06:23:36,795 - DEBUG - Picked primer RIGHT:ACGGGTTTTTCTAATATTCCAGCTTAA:463
+2022-04-26 06:23:36,796 - DEBUG - Picked MSA slice: Alphabet() alignment with 8 rows and 27 columns
+ACGGGTTTTTCTAATATTCCAACTTAG CHRF_BD0003_CZ
+ACGGGTTTTTCTAATATTCCAGCTTAA CSF_0017_CZ
+ACGGGTTTTTCTAATATTCCAGCTTAA CSF_0004_CZ
+ACGGGTTTTTCTAATATTCCAGCTTAA CSF_0018_CZ
+ACGGGTTTTTCTAATATTCCAGCTTAA CSF_0019_CZ
+ACGGGTTTTTCTAATATTCCAGCTTAA CSF_0023_NODE_1_length_4912_cov_9477
+ACGGGTTTTTCTAATATTCCAGCTTAA CSF_0026_CZ
+********************* ****  Cigar
+2022-04-26 06:23:36,796 - DEBUG - RIGHT candidate 0: base pen 6.117, combined pen 9.117, 2 max mismatches, 2 total mismatches.
+2022-04-26 06:23:36,800 - DEBUG - Window: left_limit 83, slice_start 362, right_limit 4911
+2022-04-26 06:23:36,800 - DEBUG - Region 2, pool 2
+2022-04-26 06:23:36,800 - DEBUG - Finding primers for slice 362 to 781
+2022-04-26 06:23:37,187 - DEBUG - Stepping left to 351
+2022-04-26 06:23:37,187 - DEBUG - Finding primers for slice 351 to 770
+2022-04-26 06:23:37,492 - DEBUG - Left region flank MSA: Alphabet() alignment with 7 rows and 54 columns
+CAGACATGGTAGGCAGAGAATGTAGCAACTGGTTGCGTACTTGG...TTA CHRF_BD0003_CZ
+CAGACATGGTAGGCAGAGAATGTAGCAACTGGCTGCGTACTTGG...TTA CSF_0017_CZ
+CAGACATGGTAGGCAGAGAATGTAGCAACTGGCTGCGTACTTGG...TTA CSF_0004_CZ
+CAGACATGGTAGGCAGAGAATGTAGCAACTGGCTGCGTACTTGG...TTA CSF_0018_CZ
+CAGACATGGTAGGCAGAGAATGTAGCAACTGGCTGCGTACTTGG...TTA CSF_0019_CZ
+CAGACATGGTAGGCAGAGAATGTAGCAACTGGCTGCGTACTTGG...TTA CSF_0023_NODE_1_length_4912_cov_9477
+CAGACATGGTAGGCAGAGAATGTAGCAACTGGCTGCGTACTTGG...TTA CSF_0026_CZ
+2022-04-26 06:23:37,492 - DEBUG - Picked primer LEFT:AGGCAGAGAATGTAGCAACTGG:361
+2022-04-26 06:23:37,493 - DEBUG - Picked MSA slice: Alphabet() alignment with 8 rows and 22 columns
+AGGCAGAGAATGTAGCAACTGG CHRF_BD0003_CZ
+AGGCAGAGAATGTAGCAACTGG CSF_0017_CZ
+AGGCAGAGAATGTAGCAACTGG CSF_0004_CZ
+AGGCAGAGAATGTAGCAACTGG CSF_0018_CZ
+AGGCAGAGAATGTAGCAACTGG CSF_0019_CZ
+AGGCAGAGAATGTAGCAACTGG CSF_0023_NODE_1_length_4912_cov_9477
+AGGCAGAGAATGTAGCAACTGG CSF_0026_CZ
+********************** Cigar
+2022-04-26 06:23:37,493 - DEBUG - LEFT candidate 0: base pen 0.462, combined pen 0.462, 0 max mismatches, 0 total mismatches.
+2022-04-26 06:23:37,493 - DEBUG - LEFT candidate 1: base pen 1.377, combined pen 1.377, 0 max mismatches, 0 total mismatches.
+2022-04-26 06:23:37,494 - DEBUG - LEFT candidate 2: base pen 1.564, combined pen 1.564, 0 max mismatches, 0 total mismatches.
+2022-04-26 06:23:37,494 - DEBUG - LEFT candidate 3: base pen 1.564, combined pen 1.564, 0 max mismatches, 0 total mismatches.
+2022-04-26 06:23:37,494 - DEBUG - LEFT candidate 4: base pen 1.627, combined pen 1.627, 0 max mismatches, 0 total mismatches.
+2022-04-26 06:23:37,495 - DEBUG - LEFT candidate 5: base pen 1.627, combined pen 1.627, 0 max mismatches, 0 total mismatches.
+2022-04-26 06:23:37,495 - DEBUG - LEFT candidate 6: base pen 1.627, combined pen 1.627, 0 max mismatches, 0 total mismatches.
+2022-04-26 06:23:37,496 - DEBUG - LEFT candidate 7: base pen 2.005, combined pen 2.005, 0 max mismatches, 0 total mismatches.
+2022-04-26 06:23:37,496 - DEBUG - LEFT candidate 8: base pen 2.006, combined pen 2.006, 0 max mismatches, 0 total mismatches.
+2022-04-26 06:23:37,496 - DEBUG - LEFT candidate 9: base pen 2.198, combined pen 2.198, 0 max mismatches, 0 total mismatches.
+2022-04-26 06:23:37,496 - DEBUG - Right region flank MSA: Alphabet() alignment with 7 rows and 54 columns
+ATAACCATCTTTTTTCTGTGGCTATTCCATTTTCAACTAACCAG...GAT CHRF_BD0003_CZ
+ATAACCACCTTTTTTCTGTGGCTATTCCATTTTCAACTAACCAG...GAT CSF_0017_CZ
+ATAACCACCTTTTTTCTGTGGCTATTCCATTTTCAACTAACCAG...GAT CSF_0004_CZ
+ATAACCATCTTTTTTCTGTTGCTATTCCATTTTCAACTAACCAG...GAT CSF_0018_CZ
+ATAACCACCTTTTTTCTGTGGCTATTCCATTTTCAACTAACCAG...GAT CSF_0019_CZ
+ATAACCATCTTTTTTCTGTTGCTATTCCATTTTCAACTAACCAG...GAT CSF_0023_NODE_1_length_4912_cov_9477
+ATAACCACCTTTTTTCTGTGGCTATTCCATTTTCAACTAACCAG...GAT CSF_0026_CZ
+2022-04-26 06:23:37,497 - DEBUG - Picked primer RIGHT:TTCTGTGGCTATTCCATTTTCAACT:757
+2022-04-26 06:23:37,497 - DEBUG - Picked MSA slice: Alphabet() alignment with 8 rows and 25 columns
+TTCTGTGGCTATTCCATTTTCAACT CHRF_BD0003_CZ
+TTCTGTGGCTATTCCATTTTCAACT CSF_0017_CZ
+TTCTGTGGCTATTCCATTTTCAACT CSF_0004_CZ
+TTCTGTTGCTATTCCATTTTCAACT CSF_0018_CZ
+TTCTGTGGCTATTCCATTTTCAACT CSF_0019_CZ
+TTCTGTTGCTATTCCATTTTCAACT CSF_0023_NODE_1_length_4912_cov_9477
+TTCTGTGGCTATTCCATTTTCAACT CSF_0026_CZ
+****** ****************** Cigar
+2022-04-26 06:23:37,497 - DEBUG - RIGHT candidate 0: base pen 4.389, combined pen 6.389, 1 max mismatch, 2 total mismatches.
+2022-04-26 06:23:37,498 - DEBUG - RIGHT candidate 1: base pen 4.824, combined pen 6.824, 1 max mismatch, 2 total mismatches.
+2022-04-26 06:23:37,498 - DEBUG - RIGHT candidate 2: base pen 5.302, combined pen 7.302, 1 max mismatch, 2 total mismatches.
+2022-04-26 06:23:37,499 - DEBUG - RIGHT candidate 3: base pen 5.492, combined pen 7.492, 1 max mismatch, 2 total mismatches.
+2022-04-26 06:23:37,499 - DEBUG - RIGHT candidate 4: base pen 5.952, combined pen 7.952, 1 max mismatch, 2 total mismatches.
+2022-04-26 06:23:37,499 - DEBUG - RIGHT candidate 5: base pen 5.954, combined pen 7.954, 1 max mismatch, 2 total mismatches.
+2022-04-26 06:23:37,500 - DEBUG - RIGHT candidate 6: base pen 6.184, combined pen 8.184, 1 max mismatch, 2 total mismatches.
+2022-04-26 06:23:37,500 - DEBUG - RIGHT candidate 7: base pen 6.445, combined pen 8.445, 1 max mismatch, 2 total mismatches.
+2022-04-26 06:23:37,501 - DEBUG - RIGHT candidate 8: base pen 7.030, combined pen 9.030, 1 max mismatch, 2 total mismatches.
+2022-04-26 06:23:37,503 - DEBUG - Window: left_limit 464, slice_start 658, right_limit 4911
+2022-04-26 06:23:37,503 - DEBUG - Region 3, pool 1
+2022-04-26 06:23:37,503 - DEBUG - Finding primers for slice 658 to 1077
+2022-04-26 06:23:37,908 - DEBUG - Left region flank MSA: Alphabet() alignment with 7 rows and 54 columns
+ACCGGCATCAGAAGGAGTTCCCCCTACTATGGCAGGAAAAGGAA...ATT CHRF_BD0003_CZ
+ACCGGCAGCAGAAGGAGTCCCCCCTACTATGGCAGGAAAAGGAA...ATT CSF_0017_CZ
+ACCGGCAGCAGAAGGAGTCCCCCCTACTATGGCAGGAAAAGGAA...ATT CSF_0004_CZ
+ACCGGCAGCAGAAGGAGTCCCCCCTACTATGGCAGGAAAAGGAA...ATT CSF_0018_CZ
+ACCGGCAGCAGAAGGAGTCCCCCCTACTATGGCAGGAAAAGGAA...ATT CSF_0019_CZ
+ACCGGCAGCAGAAGGAGTCCCCCCTACTATGGCAGGAAAAGGAA...ATT CSF_0023_NODE_1_length_4912_cov_9477
+ACCGGCAGCAGAAGGAGTTCCCCCTACTATGGCAGGAAAAGGAA...ATT CSF_0026_CZ
+2022-04-26 06:23:37,908 - DEBUG - Picked primer LEFT:AAGGAGTTCCCCCTACTATGGC:669
+2022-04-26 06:23:37,909 - DEBUG - Picked MSA slice: Alphabet() alignment with 8 rows and 22 columns
+AAGGAGTTCCCCCTACTATGGC CHRF_BD0003_CZ
+AAGGAGTCCCCCCTACTATGGC CSF_0017_CZ
+AAGGAGTCCCCCCTACTATGGC CSF_0004_CZ
+AAGGAGTCCCCCCTACTATGGC CSF_0018_CZ
+AAGGAGTCCCCCCTACTATGGC CSF_0019_CZ
+AAGGAGTCCCCCCTACTATGGC CSF_0023_NODE_1_length_4912_cov_9477
+AAGGAGTTCCCCCTACTATGGC CSF_0026_CZ
+******* ************** Cigar
+2022-04-26 06:23:37,909 - DEBUG - LEFT candidate 0: base pen 0.152, combined pen 5.152, 1 max mismatch, 5 total mismatches.
+2022-04-26 06:23:37,909 - DEBUG - LEFT candidate 1: base pen 0.245, combined pen 5.245, 1 max mismatch, 5 total mismatches.
+2022-04-26 06:23:37,910 - DEBUG - LEFT candidate 2: base pen 0.417, combined pen 5.417, 1 max mismatch, 5 total mismatches.
+2022-04-26 06:23:37,910 - DEBUG - LEFT candidate 3: base pen 0.188, combined pen 6.188, 1 max mismatch, 6 total mismatches.
+2022-04-26 06:23:37,911 - DEBUG - LEFT candidate 4: base pen 1.255, combined pen 6.255, 1 max mismatch, 5 total mismatches.
+2022-04-26 06:23:37,911 - DEBUG - LEFT candidate 5: base pen 1.255, combined pen 6.255, 1 max mismatch, 5 total mismatches.
+2022-04-26 06:23:37,911 - DEBUG - LEFT candidate 6: base pen 1.362, combined pen 6.362, 1 max mismatch, 5 total mismatches.
+2022-04-26 06:23:37,912 - DEBUG - LEFT candidate 7: base pen 1.903, combined pen 6.903, 1 max mismatch, 5 total mismatches.
+2022-04-26 06:23:37,912 - DEBUG - LEFT candidate 8: base pen 1.903, combined pen 6.903, 1 max mismatch, 5 total mismatches.
+2022-04-26 06:23:37,912 - DEBUG - LEFT candidate 9: base pen 1.979, combined pen 6.979, 1 max mismatch, 5 total mismatches.
+2022-04-26 06:23:37,913 - DEBUG - Right region flank MSA: Alphabet() alignment with 7 rows and 54 columns
+ATAGCAGCAGCTAACAGAGTTTTGCCAGTGCTAGCCGGTCCCCA...ATG CHRF_BD0003_CZ
+ATAGCAGCAGCTAACAGCGTTTTGCCAGTGCTAGCCGGTCCCCA...ATG CSF_0017_CZ
+ATAGCAGCAGCTAACAGCGTTTTGCCAGTGCTAGCCGGTCCCCA...ATG CSF_0004_CZ
+ATAGCAGCAGCTAACAGAGTTTTGCCAGTGCTAGCCGGTCCCCA...ATG CSF_0018_CZ
+ATAGCAGCAGCTAACAGCGTTTTGCCAGTGCTAGCCGGTCCCCA...ATG CSF_0019_CZ
+ATAGCAGCAGCTAACAGAGTTTTGCCAGTGCTAGCCGGTCCCCA...ATG CSF_0023_NODE_1_length_4912_cov_9477
+ATAGCAGCAGCTAACAGAGTTTTGCCAGTGCTAGCCGGTCCCCA...ATG CSF_0026_CZ
+2022-04-26 06:23:37,913 - DEBUG - Picked primer RIGHT:AGCAGCTAACAGAGTTTTGCCA:1072
+2022-04-26 06:23:37,913 - DEBUG - Picked MSA slice: Alphabet() alignment with 8 rows and 22 columns
+AGCAGCTAACAGAGTTTTGCCA CHRF_BD0003_CZ
+AGCAGCTAACAGCGTTTTGCCA CSF_0017_CZ
+AGCAGCTAACAGCGTTTTGCCA CSF_0004_CZ
+AGCAGCTAACAGAGTTTTGCCA CSF_0018_CZ
+AGCAGCTAACAGCGTTTTGCCA CSF_0019_CZ
+AGCAGCTAACAGAGTTTTGCCA CSF_0023_NODE_1_length_4912_cov_9477
+AGCAGCTAACAGAGTTTTGCCA CSF_0026_CZ
+************ ********* Cigar
+2022-04-26 06:23:37,913 - DEBUG - RIGHT candidate 0: base pen 0.068, combined pen 3.068, 1 max mismatch, 3 total mismatches.
+2022-04-26 06:23:37,914 - DEBUG - RIGHT candidate 1: base pen 0.096, combined pen 3.096, 1 max mismatch, 3 total mismatches.
+2022-04-26 06:23:37,914 - DEBUG - RIGHT candidate 2: base pen 0.217, combined pen 3.217, 1 max mismatch, 3 total mismatches.
+2022-04-26 06:23:37,914 - DEBUG - RIGHT candidate 3: base pen 0.471, combined pen 3.471, 1 max mismatch, 3 total mismatches.
+2022-04-26 06:23:37,915 - DEBUG - RIGHT candidate 4: base pen 0.471, combined pen 3.471, 1 max mismatch, 3 total mismatches.
+2022-04-26 06:23:37,915 - DEBUG - RIGHT candidate 5: base pen 0.569, combined pen 3.569, 1 max mismatch, 3 total mismatches.
+2022-04-26 06:23:37,916 - DEBUG - RIGHT candidate 6: base pen 1.013, combined pen 4.013, 1 max mismatch, 3 total mismatches.
+2022-04-26 06:23:37,916 - DEBUG - RIGHT candidate 7: base pen 1.200, combined pen 4.200, 1 max mismatch, 3 total mismatches.
+2022-04-26 06:23:37,916 - DEBUG - RIGHT candidate 8: base pen 0.246, combined pen 4.246, 1 max mismatch, 4 total mismatches.
+2022-04-26 06:23:37,917 - DEBUG - RIGHT candidate 9: base pen 1.447, combined pen 4.447, 1 max mismatch, 3 total mismatches.
+2022-04-26 06:23:37,919 - DEBUG - Window: left_limit 758, slice_start 976, right_limit 4911
+2022-04-26 06:23:37,919 - DEBUG - Region 4, pool 2
+2022-04-26 06:23:37,919 - DEBUG - Finding primers for slice 976 to 1395
+2022-04-26 06:23:38,090 - DEBUG - Left region flank MSA: Alphabet() alignment with 7 rows and 54 columns
+ATGGTATTTTGCTGCATGGGCAAGAGGAGTGTGGCCGAAAAGAA...ATG CHRF_BD0003_CZ
+ATGGTATTTTGCTGCATGGGCAAGAGGAGTGTGGCCGAAAAGAA...ATG CSF_0017_CZ
+ATGGTATTTTGCTGCATGGGCAAGAGGAGTGTGGCCGAAAAGAA...ATG CSF_0004_CZ
+ATGGTATTTTGCTGCATGGGCAAGAGGAGTGTGGCCGAAAAGAA...ATG CSF_0018_CZ
+ATGGTATTTTGCTGCATGGGCAAGAGGAGTGTGGCCGAAAAGAA...ATG CSF_0019_CZ
+ATGGTATTTTGCTGCATGGGCAAGAGGAGTGTGGCCGAAAAGAA...ATG CSF_0023_NODE_1_length_4912_cov_9477
+ATGGTATTTTGCTGCATGGGCAAGAGGAGTGTGGCCGAAAAGAA...ATG CSF_0026_CZ
+2022-04-26 06:23:38,090 - DEBUG - Picked primer LEFT:ATGGTATTTTGCTGCATGGGC:976
+2022-04-26 06:23:38,091 - DEBUG - Picked MSA slice: Alphabet() alignment with 8 rows and 21 columns
+ATGGTATTTTGCTGCATGGGC CHRF_BD0003_CZ
+ATGGTATTTTGCTGCATGGGC CSF_0017_CZ
+ATGGTATTTTGCTGCATGGGC CSF_0004_CZ
+ATGGTATTTTGCTGCATGGGC CSF_0018_CZ
+ATGGTATTTTGCTGCATGGGC CSF_0019_CZ
+ATGGTATTTTGCTGCATGGGC CSF_0023_NODE_1_length_4912_cov_9477
+ATGGTATTTTGCTGCATGGGC CSF_0026_CZ
+********************* Cigar
+2022-04-26 06:23:38,091 - DEBUG - LEFT candidate 0: base pen 2.037, combined pen 2.037, 0 max mismatches, 0 total mismatches.
+2022-04-26 06:23:38,091 - DEBUG - Right region flank MSA: Alphabet() alignment with 7 rows and 54 columns
+ATTCTCTGAAACTGAAACATGGTTATTCTTGTCTGCAGAGCTTC...TGA CHRF_BD0003_CZ
+ATTCTCTGAAACTGAAACATGGTTATTCTTGTCTGCAGAGCTTC...TGA CSF_0017_CZ
+ATTCTCTGAAACTGAAACATGGTTATTCTTGTCTGCAGAGCTTC...TGA CSF_0004_CZ
+ATTCTCTGAAACTGAAACATGGTTATTCTTGTCTGCAGAGCTTC...TGA CSF_0018_CZ
+ATTCTCTGAAACTGAAACATGGTTATTCTTGTCTGCAGAGCTTC...TGA CSF_0019_CZ
+ATTCTCTGAAACTGAAACATGGTTATTCTTGTCTGCAGAGCTTC...TGA CSF_0023_NODE_1_length_4912_cov_9477
+ATTCTCTGAAACTGAAACATGGTTATTCTTGTCTGCAGAGCTTC...TGA CSF_0026_CZ
+2022-04-26 06:23:38,091 - DEBUG - Picked primer RIGHT:TGAAACATGGTTATTCTTGTCTGCA:1383
+2022-04-26 06:23:38,092 - DEBUG - Picked MSA slice: Alphabet() alignment with 8 rows and 25 columns
+TGAAACATGGTTATTCTTGTCTGCA CHRF_BD0003_CZ
+TGAAACATGGTTATTCTTGTCTGCA CSF_0017_CZ
+TGAAACATGGTTATTCTTGTCTGCA CSF_0004_CZ
+TGAAACATGGTTATTCTTGTCTGCA CSF_0018_CZ
+TGAAACATGGTTATTCTTGTCTGCA CSF_0019_CZ
+TGAAACATGGTTATTCTTGTCTGCA CSF_0023_NODE_1_length_4912_cov_9477
+TGAAACATGGTTATTCTTGTCTGCA CSF_0026_CZ
+************************* Cigar
+2022-04-26 06:23:38,092 - DEBUG - RIGHT candidate 0: base pen 4.152, combined pen 4.152, 0 max mismatches, 0 total mismatches.
+2022-04-26 06:23:38,093 - DEBUG - RIGHT candidate 1: base pen 4.270, combined pen 4.270, 0 max mismatches, 0 total mismatches.
+2022-04-26 06:23:38,093 - DEBUG - RIGHT candidate 2: base pen 4.270, combined pen 4.270, 0 max mismatches, 0 total mismatches.
+2022-04-26 06:23:38,093 - DEBUG - RIGHT candidate 3: base pen 4.270, combined pen 4.270, 0 max mismatches, 0 total mismatches.
+2022-04-26 06:23:38,094 - DEBUG - RIGHT candidate 4: base pen 4.386, combined pen 4.386, 0 max mismatches, 0 total mismatches.
+2022-04-26 06:23:38,094 - DEBUG - RIGHT candidate 5: base pen 4.491, combined pen 4.491, 0 max mismatches, 0 total mismatches.
+2022-04-26 06:23:38,095 - DEBUG - RIGHT candidate 6: base pen 5.224, combined pen 5.224, 0 max mismatches, 0 total mismatches.
+2022-04-26 06:23:38,095 - DEBUG - RIGHT candidate 7: base pen 5.532, combined pen 5.532, 0 max mismatches, 0 total mismatches.
+2022-04-26 06:23:38,095 - DEBUG - RIGHT candidate 8: base pen 5.884, combined pen 5.884, 0 max mismatches, 0 total mismatches.
+2022-04-26 06:23:38,096 - DEBUG - RIGHT candidate 9: base pen 6.099, combined pen 6.099, 0 max mismatches, 0 total mismatches.
+2022-04-26 06:23:38,098 - DEBUG - Window: left_limit 1073, slice_start 1284, right_limit 4911
+2022-04-26 06:23:38,098 - DEBUG - Region 5, pool 1
+2022-04-26 06:23:38,098 - DEBUG - Finding primers for slice 1284 to 1703
+2022-04-26 06:23:38,318 - DEBUG - Left region flank MSA: Alphabet() alignment with 7 rows and 54 columns
+TCATCATCACCTCTAATGGAGATCTTACGGTTACAGTTGATGGT...TCA CHRF_BD0003_CZ
+TCATCATCACCTCTAATGGAGATCTTACGGTTACAGTTGATGGC...TCA CSF_0017_CZ
+TCATCATCACCTCTAATGGAGATCTTACGGTTACAGTTGATGGC...TCA CSF_0004_CZ
+TCATCATCACCTCTAATGGAGATCTTACGGTTACAGTTGATGGC...TCA CSF_0018_CZ
+TCATCATCACCTCTAATGGAGATCTTACGGTTACAGTTGATGGC...TCA CSF_0019_CZ
+TCATCATCACCTCTAATGGAGATCTTACGGTTACAGTTGATGGC...TCA CSF_0023_NODE_1_length_4912_cov_9477
+TCATCATCACCTCTAATGGAGATCTTACGGTTACAGTTGATGGC...TCA CSF_0026_CZ
+2022-04-26 06:23:38,318 - DEBUG - Picked primer LEFT:TCACCTCTAATGGAGATCTTACGGT:1290
+2022-04-26 06:23:38,319 - DEBUG - Picked MSA slice: Alphabet() alignment with 8 rows and 25 columns
+TCACCTCTAATGGAGATCTTACGGT CHRF_BD0003_CZ
+TCACCTCTAATGGAGATCTTACGGT CSF_0017_CZ
+TCACCTCTAATGGAGATCTTACGGT CSF_0004_CZ
+TCACCTCTAATGGAGATCTTACGGT CSF_0018_CZ
+TCACCTCTAATGGAGATCTTACGGT CSF_0019_CZ
+TCACCTCTAATGGAGATCTTACGGT CSF_0023_NODE_1_length_4912_cov_9477
+TCACCTCTAATGGAGATCTTACGGT CSF_0026_CZ
+************************* Cigar
+2022-04-26 06:23:38,319 - DEBUG - LEFT candidate 0: base pen 3.023, combined pen 3.023, 0 max mismatches, 0 total mismatches.
+2022-04-26 06:23:38,319 - DEBUG - LEFT candidate 1: base pen 3.263, combined pen 3.263, 0 max mismatches, 0 total mismatches.
+2022-04-26 06:23:38,320 - DEBUG - LEFT candidate 2: base pen 3.686, combined pen 3.686, 0 max mismatches, 0 total mismatches.
+2022-04-26 06:23:38,320 - DEBUG - LEFT candidate 3: base pen 4.008, combined pen 4.008, 0 max mismatches, 0 total mismatches.
+2022-04-26 06:23:38,321 - DEBUG - LEFT candidate 4: base pen 4.094, combined pen 4.094, 0 max mismatches, 0 total mismatches.
+2022-04-26 06:23:38,321 - DEBUG - LEFT candidate 5: base pen 4.369, combined pen 4.369, 0 max mismatches, 0 total mismatches.
+2022-04-26 06:23:38,321 - DEBUG - LEFT candidate 6: base pen 4.535, combined pen 4.535, 0 max mismatches, 0 total mismatches.
+2022-04-26 06:23:38,322 - DEBUG - LEFT candidate 7: base pen 4.768, combined pen 4.768, 0 max mismatches, 0 total mismatches.
+2022-04-26 06:23:38,322 - DEBUG - LEFT candidate 8: base pen 4.824, combined pen 4.824, 0 max mismatches, 0 total mismatches.
+2022-04-26 06:23:38,323 - DEBUG - LEFT candidate 9: base pen 4.824, combined pen 4.824, 0 max mismatches, 0 total mismatches.
+2022-04-26 06:23:38,323 - DEBUG - Right region flank MSA: Alphabet() alignment with 7 rows and 54 columns
+GACTTGGAGAGGAGAGCTCAATGATTTCACTGGGAGTTGTTGGG...CTT CHRF_BD0003_CZ
+GACTTGGAGAGGAGAGCTCAATGATTTCACTGGGAGTTGCTGGG...CTT CSF_0017_CZ
+GACTTGGAGAGGAGAGCTCAATGATTTCACTGGGAGTTGTTGGG...CTT CSF_0004_CZ
+GACTTGGAGAGGAGAGCTCAATGATTTCACTGGGAGTTGTTGGG...CTT CSF_0018_CZ
+GACTTGGAGAGGAGAGCTCAATGATTTCACTGGGAGTTGCTGGG...CTT CSF_0019_CZ
+GACTTGGAGAGGAGAGCTCAATGATTTCACTGGGAGTTGCTGGG...CTT CSF_0023_NODE_1_length_4912_cov_9477
+GACTTGGAGAGGAGAGCTCAATGATTTCACTGGGAGTTGCTGGG...CTT CSF_0026_CZ
+2022-04-26 06:23:38,323 - DEBUG - Picked primer RIGHT:ACTTGGAGAGGAGAGCTCAATGA:1702
+2022-04-26 06:23:38,323 - DEBUG - Picked MSA slice: Alphabet() alignment with 8 rows and 23 columns
+ACTTGGAGAGGAGAGCTCAATGA CHRF_BD0003_CZ
+ACTTGGAGAGGAGAGCTCAATGA CSF_0017_CZ
+ACTTGGAGAGGAGAGCTCAATGA CSF_0004_CZ
+ACTTGGAGAGGAGAGCTCAATGA CSF_0018_CZ
+ACTTGGAGAGGAGAGCTCAATGA CSF_0019_CZ
+ACTTGGAGAGGAGAGCTCAATGA CSF_0023_NODE_1_length_4912_cov_9477
+ACTTGGAGAGGAGAGCTCAATGA CSF_0026_CZ
+*********************** Cigar
+2022-04-26 06:23:38,324 - DEBUG - RIGHT candidate 0: base pen 1.080, combined pen 1.080, 0 max mismatches, 0 total mismatches.
+2022-04-26 06:23:38,324 - DEBUG - RIGHT candidate 1: base pen 1.317, combined pen 1.317, 0 max mismatches, 0 total mismatches.
+2022-04-26 06:23:38,324 - DEBUG - RIGHT candidate 2: base pen 1.318, combined pen 1.318, 0 max mismatches, 0 total mismatches.
+2022-04-26 06:23:38,325 - DEBUG - RIGHT candidate 3: base pen 1.752, combined pen 1.752, 0 max mismatches, 0 total mismatches.
+2022-04-26 06:23:38,325 - DEBUG - RIGHT candidate 4: base pen 2.007, combined pen 2.007, 0 max mismatches, 0 total mismatches.
+2022-04-26 06:23:38,325 - DEBUG - RIGHT candidate 5: base pen 2.052, combined pen 2.052, 0 max mismatches, 0 total mismatches.
+2022-04-26 06:23:38,326 - DEBUG - RIGHT candidate 6: base pen 2.052, combined pen 2.052, 0 max mismatches, 0 total mismatches.
+2022-04-26 06:23:38,326 - DEBUG - RIGHT candidate 7: base pen 2.053, combined pen 2.053, 0 max mismatches, 0 total mismatches.
+2022-04-26 06:23:38,327 - DEBUG - RIGHT candidate 8: base pen 2.133, combined pen 2.133, 0 max mismatches, 0 total mismatches.
+2022-04-26 06:23:38,327 - DEBUG - RIGHT candidate 9: base pen 2.166, combined pen 2.166, 0 max mismatches, 0 total mismatches.
+2022-04-26 06:23:38,329 - DEBUG - Window: left_limit 1384, slice_start 1605, right_limit 4911
+2022-04-26 06:23:38,329 - DEBUG - Region 6, pool 2
+2022-04-26 06:23:38,329 - DEBUG - Finding primers for slice 1605 to 2024
+2022-04-26 06:23:38,604 - DEBUG - Left region flank MSA: Alphabet() alignment with 7 rows and 54 columns
+ATGATTGGTTTCCACCACCCACTCAGAAAAAAAGGCGGGCAGTT...CAC CHRF_BD0003_CZ
+ATGATTGGTTTCCACCACCCACTCAGAAGAAAAGGCGGGCAGTT...CAC CSF_0017_CZ
+ATGATTGGTTTCCACCACCCACTCAGAAGAAAAGGCGGGCAGTT...CAC CSF_0004_CZ
+ATGATTGGTTTCCACCACCCACTCAGAAGAAAAGGCGGGCAGTT...CAC CSF_0018_CZ
+ATGATTGGTTTCCACCACCCACTCAGAAGAAAAGGCGGGCAGTT...CAC CSF_0019_CZ
+ATGATTGGTTTCCACCACCCACTCAGAAGAAAAGGCGGGCAGTT...CAC CSF_0023_NODE_1_length_4912_cov_9477
+ATGATTGGTTTCCACCACCCACTCAGAAGAAAAGGCGGGCAGTT...CAC CSF_0026_CZ
+2022-04-26 06:23:38,604 - DEBUG - Picked primer LEFT:CCACCACCCACTCAGAAGAAAA:1616
+2022-04-26 06:23:38,604 - DEBUG - Picked MSA slice: Alphabet() alignment with 8 rows and 22 columns
+CCACCACCCACTCAGAAAAAAA CHRF_BD0003_CZ
+CCACCACCCACTCAGAAGAAAA CSF_0017_CZ
+CCACCACCCACTCAGAAGAAAA CSF_0004_CZ
+CCACCACCCACTCAGAAGAAAA CSF_0018_CZ
+CCACCACCCACTCAGAAGAAAA CSF_0019_CZ
+CCACCACCCACTCAGAAGAAAA CSF_0023_NODE_1_length_4912_cov_9477
+CCACCACCCACTCAGAAGAAAA CSF_0026_CZ
+***************** **** Cigar
+2022-04-26 06:23:38,605 - DEBUG - LEFT candidate 0: base pen 0.394, combined pen 1.394, 1 max mismatch, 1 total mismatch.
+2022-04-26 06:23:38,605 - DEBUG - LEFT candidate 1: base pen 0.416, combined pen 1.416, 1 max mismatch, 1 total mismatch.
+2022-04-26 06:23:38,606 - DEBUG - LEFT candidate 2: base pen 0.416, combined pen 1.416, 1 max mismatch, 1 total mismatch.
+2022-04-26 06:23:38,606 - DEBUG - LEFT candidate 3: base pen 0.416, combined pen 1.416, 1 max mismatch, 1 total mismatch.
+2022-04-26 06:23:38,606 - DEBUG - LEFT candidate 4: base pen 0.577, combined pen 1.577, 1 max mismatch, 1 total mismatch.
+2022-04-26 06:23:38,607 - DEBUG - LEFT candidate 5: base pen 0.657, combined pen 1.657, 1 max mismatch, 1 total mismatch.
+2022-04-26 06:23:38,607 - DEBUG - LEFT candidate 6: base pen 1.762, combined pen 1.762, 0 max mismatches, 0 total mismatches.
+2022-04-26 06:23:38,607 - DEBUG - LEFT candidate 7: base pen 0.879, combined pen 1.879, 1 max mismatch, 1 total mismatch.
+2022-04-26 06:23:38,608 - DEBUG - LEFT candidate 8: base pen 1.200, combined pen 2.200, 1 max mismatch, 1 total mismatch.
+2022-04-26 06:23:38,608 - DEBUG - LEFT candidate 9: base pen 1.200, combined pen 2.200, 1 max mismatch, 1 total mismatch.
+2022-04-26 06:23:38,608 - DEBUG - Right region flank MSA: Alphabet() alignment with 7 rows and 54 columns
+ACCAAGCCCAAATAAATCTTCTATTAACCAAGTGAGCCTCCGAG...CAC CHRF_BD0003_CZ
+ACCAAGCCCAAATAAATCTTCTATTAACCAAGTGAGCCTCCGAG...CGC CSF_0017_CZ
+ACCAAGCCCAAATAAATCTTCTATTAACCAAGTGAGCCTCCGAG...CAC CSF_0004_CZ
+ACCAAGCCCAAATAAATCTTCTATTAACCAAGTGAGCCTCCGAG...CAC CSF_0018_CZ
+ACCAAGCCCAAATAAATCTTCTATTAACCAAGTGAGCCTCCGAG...CAC CSF_0019_CZ
+ACCAAGCCCAAATAAATCTTCTATTAACCAAATGAGCCTCCGAG...CAC CSF_0023_NODE_1_length_4912_cov_9477
+ACCAAGCCCAAATAAATCTTCTATTAACCAAGTGAGCCTCCGAG...CAC CSF_0026_CZ
+2022-04-26 06:23:38,608 - DEBUG - Picked primer RIGHT:ACCAAGCCCAAATAAATCTTCTATTAACC:2024
+2022-04-26 06:23:38,609 - DEBUG - Picked MSA slice: Alphabet() alignment with 8 rows and 29 columns
+ACCAAGCCCAAATAAATCTTCTATTAACC CHRF_BD0003_CZ
+ACCAAGCCCAAATAAATCTTCTATTAACC CSF_0017_CZ
+ACCAAGCCCAAATAAATCTTCTATTAACC CSF_0004_CZ
+ACCAAGCCCAAATAAATCTTCTATTAACC CSF_0018_CZ
+ACCAAGCCCAAATAAATCTTCTATTAACC CSF_0019_CZ
+ACCAAGCCCAAATAAATCTTCTATTAACC CSF_0023_NODE_1_length_4912_cov_9477
+ACCAAGCCCAAATAAATCTTCTATTAACC CSF_0026_CZ
+***************************** Cigar
+2022-04-26 06:23:38,609 - DEBUG - RIGHT candidate 0: base pen 7.019, combined pen 7.019, 0 max mismatches, 0 total mismatches.
+2022-04-26 06:23:38,610 - DEBUG - RIGHT candidate 1: base pen 7.020, combined pen 7.020, 0 max mismatches, 0 total mismatches.
+2022-04-26 06:23:38,610 - DEBUG - RIGHT candidate 2: base pen 7.332, combined pen 7.332, 0 max mismatches, 0 total mismatches.
+2022-04-26 06:23:38,610 - DEBUG - RIGHT candidate 3: base pen 8.337, combined pen 8.337, 0 max mismatches, 0 total mismatches.
+2022-04-26 06:23:38,611 - DEBUG - RIGHT candidate 4: base pen 8.425, combined pen 8.425, 0 max mismatches, 0 total mismatches.
+2022-04-26 06:23:38,611 - DEBUG - RIGHT candidate 5: base pen 7.729, combined pen 8.729, 1 max mismatch, 1 total mismatch.
+2022-04-26 06:23:38,612 - DEBUG - RIGHT candidate 6: base pen 7.831, combined pen 8.831, 1 max mismatch, 1 total mismatch.
+2022-04-26 06:23:38,612 - DEBUG - RIGHT candidate 7: base pen 8.138, combined pen 9.138, 1 max mismatch, 1 total mismatch.
+2022-04-26 06:23:38,613 - DEBUG - RIGHT candidate 8: base pen 8.225, combined pen 9.225, 1 max mismatch, 1 total mismatch.
+2022-04-26 06:23:38,613 - DEBUG - RIGHT candidate 9: base pen 8.227, combined pen 9.227, 1 max mismatch, 1 total mismatch.
+2022-04-26 06:23:38,615 - DEBUG - Window: left_limit 1703, slice_start 1921, right_limit 4911
+2022-04-26 06:23:38,615 - DEBUG - Region 7, pool 1
+2022-04-26 06:23:38,615 - DEBUG - Finding primers for slice 1921 to 2340
+2022-04-26 06:23:38,817 - DEBUG - Left region flank MSA: Alphabet() alignment with 7 rows and 54 columns
+ACTTTTTTGGACTTACTTGTGGTCTCGAGAGTTTTGGAGATTTA...TGT CHRF_BD0003_CZ
+ACTTTTTTGGACTTACTTGTGGTCTCGAGAGTTTTGGAGATTTA...CGT CSF_0017_CZ
+ACTTTTTTGGACTTACTTGTGGTCTCGAGAGTTTTGGAGATTTA...TGT CSF_0004_CZ
+ACTTTTTTGGACTTACTTGTGGTCTCGAGAGTTTTGGAGATTTA...TGT CSF_0018_CZ
+ACTTTTTTGGACTTACTTGTGGTCTCGAGAGTTTTGGAGATTTA...TGT CSF_0019_CZ
+ACTTTTTTGGACTTACTTGTGGTCTCGAGAGTTTTGGAGATTTA...TGT CSF_0023_NODE_1_length_4912_cov_9477
+ACTTTTTTGGACTTACTTGTGGTCTCGAGAGTTTTGGAGATTTA...TGT CSF_0026_CZ
+2022-04-26 06:23:38,817 - DEBUG - Picked primer LEFT:TGTGGTCTCGAGAGTTTTGGAG:1938
+2022-04-26 06:23:38,818 - DEBUG - Picked MSA slice: Alphabet() alignment with 8 rows and 22 columns
+TGTGGTCTCGAGAGTTTTGGAG CHRF_BD0003_CZ
+TGTGGTCTCGAGAGTTTTGGAG CSF_0017_CZ
+TGTGGTCTCGAGAGTTTTGGAG CSF_0004_CZ
+TGTGGTCTCGAGAGTTTTGGAG CSF_0018_CZ
+TGTGGTCTCGAGAGTTTTGGAG CSF_0019_CZ
+TGTGGTCTCGAGAGTTTTGGAG CSF_0023_NODE_1_length_4912_cov_9477
+TGTGGTCTCGAGAGTTTTGGAG CSF_0026_CZ
+********************** Cigar
+2022-04-26 06:23:38,818 - DEBUG - LEFT candidate 0: base pen 0.856, combined pen 0.856, 0 max mismatches, 0 total mismatches.
+2022-04-26 06:23:38,818 - DEBUG - LEFT candidate 1: base pen 1.006, combined pen 1.006, 0 max mismatches, 0 total mismatches.
+2022-04-26 06:23:38,819 - DEBUG - LEFT candidate 2: base pen 1.006, combined pen 1.006, 0 max mismatches, 0 total mismatches.
+2022-04-26 06:23:38,819 - DEBUG - LEFT candidate 3: base pen 1.251, combined pen 1.251, 0 max mismatches, 0 total mismatches.
+2022-04-26 06:23:38,819 - DEBUG - LEFT candidate 4: base pen 1.255, combined pen 1.255, 0 max mismatches, 0 total mismatches.
+2022-04-26 06:23:38,820 - DEBUG - LEFT candidate 5: base pen 1.255, combined pen 1.255, 0 max mismatches, 0 total mismatches.
+2022-04-26 06:23:38,820 - DEBUG - LEFT candidate 6: base pen 1.377, combined pen 1.377, 0 max mismatches, 0 total mismatches.
+2022-04-26 06:23:38,820 - DEBUG - LEFT candidate 7: base pen 1.630, combined pen 1.630, 0 max mismatches, 0 total mismatches.
+2022-04-26 06:23:38,820 - DEBUG - LEFT candidate 8: base pen 1.753, combined pen 1.753, 0 max mismatches, 0 total mismatches.
+2022-04-26 06:23:38,821 - DEBUG - LEFT candidate 9: base pen 2.131, combined pen 2.131, 0 max mismatches, 0 total mismatches.
+2022-04-26 06:23:38,821 - DEBUG - Right region flank MSA: Alphabet() alignment with 7 rows and 54 columns
+AGCAGGTAAAGCATTAGCAAATTTAAGCAAGCCTTGGAAAGCCT...CAT CHRF_BD0003_CZ
+AGCAGGTAAAGCATTAGCAAATTTAAGCAAGCCTTGGAAAGCCT...CAT CSF_0017_CZ
+AGCAGGTAAAGCATTAGCAAATTTAAGCAAGCCTTGGAAAGCCT...CAT CSF_0004_CZ
+AGCAGGTAAAGCATTAGCAAATTTAAGCAAGCCTTGGAAAGCCT...CAT CSF_0018_CZ
+AGCAGGTAAAGCATTAGCAAATTTAAGCAAGCCTTGGAAAGCCT...CAT CSF_0019_CZ
+AGCAGGTAAAGCATTAGCAAATTTAAGCAAGCCTTGGAAAGCCT...CAT CSF_0023_NODE_1_length_4912_cov_9477
+AGCAGGTAAAGCATTAGCAAATTTAAGCAAGCCTTGGAAAGCCT...CAT CSF_0026_CZ
+2022-04-26 06:23:38,821 - DEBUG - Picked primer RIGHT:AGCAAATTTAAGCAAGCCTTGGA:2325
+2022-04-26 06:23:38,821 - DEBUG - Picked MSA slice: Alphabet() alignment with 8 rows and 23 columns
+AGCAAATTTAAGCAAGCCTTGGA CHRF_BD0003_CZ
+AGCAAATTTAAGCAAGCCTTGGA CSF_0017_CZ
+AGCAAATTTAAGCAAGCCTTGGA CSF_0004_CZ
+AGCAAATTTAAGCAAGCCTTGGA CSF_0018_CZ
+AGCAAATTTAAGCAAGCCTTGGA CSF_0019_CZ
+AGCAAATTTAAGCAAGCCTTGGA CSF_0023_NODE_1_length_4912_cov_9477
+AGCAAATTTAAGCAAGCCTTGGA CSF_0026_CZ
+*********************** Cigar
+2022-04-26 06:23:38,822 - DEBUG - RIGHT candidate 0: base pen 2.069, combined pen 2.069, 0 max mismatches, 0 total mismatches.
+2022-04-26 06:23:38,822 - DEBUG - RIGHT candidate 1: base pen 2.475, combined pen 2.475, 0 max mismatches, 0 total mismatches.
+2022-04-26 06:23:38,822 - DEBUG - RIGHT candidate 2: base pen 3.204, combined pen 3.204, 0 max mismatches, 0 total mismatches.
+2022-04-26 06:23:38,823 - DEBUG - RIGHT candidate 3: base pen 3.278, combined pen 3.278, 0 max mismatches, 0 total mismatches.
+2022-04-26 06:23:38,823 - DEBUG - RIGHT candidate 4: base pen 3.627, combined pen 3.627, 0 max mismatches, 0 total mismatches.
+2022-04-26 06:23:38,823 - DEBUG - RIGHT candidate 5: base pen 3.627, combined pen 3.627, 0 max mismatches, 0 total mismatches.
+2022-04-26 06:23:38,824 - DEBUG - RIGHT candidate 6: base pen 3.975, combined pen 3.975, 0 max mismatches, 0 total mismatches.
+2022-04-26 06:23:38,824 - DEBUG - RIGHT candidate 7: base pen 3.975, combined pen 3.975, 0 max mismatches, 0 total mismatches.
+2022-04-26 06:23:38,824 - DEBUG - RIGHT candidate 8: base pen 4.095, combined pen 4.095, 0 max mismatches, 0 total mismatches.
+2022-04-26 06:23:38,825 - DEBUG - RIGHT candidate 9: base pen 4.103, combined pen 4.103, 0 max mismatches, 0 total mismatches.
+2022-04-26 06:23:38,827 - DEBUG - Window: left_limit 2025, slice_start 2228, right_limit 4911
+2022-04-26 06:23:38,827 - DEBUG - Region 8, pool 2
+2022-04-26 06:23:38,827 - DEBUG - Finding primers for slice 2228 to 2647
+2022-04-26 06:23:39,029 - DEBUG - Stepping left to 2217
+2022-04-26 06:23:39,029 - DEBUG - Finding primers for slice 2217 to 2636
+2022-04-26 06:23:39,189 - DEBUG - Left region flank MSA: Alphabet() alignment with 7 rows and 54 columns
+TGGACCGGAACCTTCAAGTCCAGCGAACCGCGGAGGGGGGCCAT...TCA CHRF_BD0003_CZ
+TGGACCGGAACCTTCAAGTCCAGCGAACCGCGGAGGGGGGCCAT...TCA CSF_0017_CZ
+TGGACCGGAACCTTCAAGTCCAGCGAACCGCGGAGGGGGGCCAT...TCA CSF_0004_CZ
+TGGACCGGAACCTTCAAGTCCAGCGAACCGCGGAGGGGGGCCAT...TCA CSF_0018_CZ
+TGGACCGGAACCTTCAAGTCCAGCGAACCGCGGAGGGGGGCCAT...TCA CSF_0019_CZ
+TGGACCGGAACCTTCAAGTCCAGCGAACCGCGGAGGGGGGCCAT...TCA CSF_0023_NODE_1_length_4912_cov_9477
+TGGACCGGAACCTTCAAGTCCAGCGAACCGCGGAGGGGGGCCAT...TCA CSF_0026_CZ
+2022-04-26 06:23:39,190 - DEBUG - Picked primer LEFT:GAACCTTCAAGTCCAGCGAACC:2224
+2022-04-26 06:23:39,190 - DEBUG - Picked MSA slice: Alphabet() alignment with 8 rows and 22 columns
+GAACCTTCAAGTCCAGCGAACC CHRF_BD0003_CZ
+GAACCTTCAAGTCCAGCGAACC CSF_0017_CZ
+GAACCTTCAAGTCCAGCGAACC CSF_0004_CZ
+GAACCTTCAAGTCCAGCGAACC CSF_0018_CZ
+GAACCTTCAAGTCCAGCGAACC CSF_0019_CZ
+GAACCTTCAAGTCCAGCGAACC CSF_0023_NODE_1_length_4912_cov_9477
+GAACCTTCAAGTCCAGCGAACC CSF_0026_CZ
+********************** Cigar
+2022-04-26 06:23:39,190 - DEBUG - LEFT candidate 0: base pen 0.876, combined pen 0.876, 0 max mismatches, 0 total mismatches.
+2022-04-26 06:23:39,191 - DEBUG - LEFT candidate 1: base pen 0.876, combined pen 0.876, 0 max mismatches, 0 total mismatches.
+2022-04-26 06:23:39,191 - DEBUG - LEFT candidate 2: base pen 1.083, combined pen 1.083, 0 max mismatches, 0 total mismatches.
+2022-04-26 06:23:39,191 - DEBUG - LEFT candidate 3: base pen 1.355, combined pen 1.355, 0 max mismatches, 0 total mismatches.
+2022-04-26 06:23:39,191 - DEBUG - LEFT candidate 4: base pen 2.431, combined pen 2.431, 0 max mismatches, 0 total mismatches.
+2022-04-26 06:23:39,192 - DEBUG - LEFT candidate 5: base pen 2.733, combined pen 2.733, 0 max mismatches, 0 total mismatches.
+2022-04-26 06:23:39,192 - DEBUG - LEFT candidate 6: base pen 3.018, combined pen 3.018, 0 max mismatches, 0 total mismatches.
+2022-04-26 06:23:39,192 - DEBUG - LEFT candidate 7: base pen 3.379, combined pen 3.379, 0 max mismatches, 0 total mismatches.
+2022-04-26 06:23:39,193 - DEBUG - LEFT candidate 8: base pen 3.379, combined pen 3.379, 0 max mismatches, 0 total mismatches.
+2022-04-26 06:23:39,193 - DEBUG - LEFT candidate 9: base pen 3.380, combined pen 3.380, 0 max mismatches, 0 total mismatches.
+2022-04-26 06:23:39,193 - DEBUG - Right region flank MSA: Alphabet() alignment with 7 rows and 54 columns
+TCTTCTTTGCCAAAATTTGTTAGCGAGTCTTCAAAAAATCTATC...TCA CHRF_BD0003_CZ
+TCTTCTTTGCCAAAATTTGTTAGCGAGTCTTCAAAAAATCTATC...TCA CSF_0017_CZ
+TCTTCTTTGCCAAAATTTGTTAGCGAGTCTTCAAAAAATCTATC...TCA CSF_0004_CZ
+TCTTCTTTGCCAAAATTTGTTAGCGAGTCTTCAAAAAATCTATC...TCA CSF_0018_CZ
+TCTTCTTTGCCAAAATTTGTTAGCGAGTCTTCAAAAAATCTATC...TCA CSF_0019_CZ
+TCTTCTTTGCCAAAATTTGTTAGCGAGTCTTCAAAAAATCTATC...TCA CSF_0023_NODE_1_length_4912_cov_9477
+TCTTCTTTGCCAAAATTTGTTAGCGAGTCTTCAAAAAACCTATC...TCA CSF_0026_CZ
+2022-04-26 06:23:39,193 - DEBUG - Picked primer RIGHT:TGCCAAAATTTGTTAGCGAGTCT:2629
+2022-04-26 06:23:39,193 - DEBUG - Picked MSA slice: Alphabet() alignment with 8 rows and 23 columns
+TGCCAAAATTTGTTAGCGAGTCT CHRF_BD0003_CZ
+TGCCAAAATTTGTTAGCGAGTCT CSF_0017_CZ
+TGCCAAAATTTGTTAGCGAGTCT CSF_0004_CZ
+TGCCAAAATTTGTTAGCGAGTCT CSF_0018_CZ
+TGCCAAAATTTGTTAGCGAGTCT CSF_0019_CZ
+TGCCAAAATTTGTTAGCGAGTCT CSF_0023_NODE_1_length_4912_cov_9477
+TGCCAAAATTTGTTAGCGAGTCT CSF_0026_CZ
+*********************** Cigar
+2022-04-26 06:23:39,194 - DEBUG - RIGHT candidate 0: base pen 2.316, combined pen 2.316, 0 max mismatches, 0 total mismatches.
+2022-04-26 06:23:39,194 - DEBUG - RIGHT candidate 1: base pen 2.719, combined pen 2.719, 0 max mismatches, 0 total mismatches.
+2022-04-26 06:23:39,194 - DEBUG - RIGHT candidate 2: base pen 2.719, combined pen 2.719, 0 max mismatches, 0 total mismatches.
+2022-04-26 06:23:39,195 - DEBUG - RIGHT candidate 3: base pen 3.165, combined pen 3.165, 0 max mismatches, 0 total mismatches.
+2022-04-26 06:23:39,195 - DEBUG - RIGHT candidate 4: base pen 3.165, combined pen 3.165, 0 max mismatches, 0 total mismatches.
+2022-04-26 06:23:39,196 - DEBUG - RIGHT candidate 5: base pen 3.169, combined pen 3.169, 0 max mismatches, 0 total mismatches.
+2022-04-26 06:23:39,196 - DEBUG - RIGHT candidate 6: base pen 3.169, combined pen 3.169, 0 max mismatches, 0 total mismatches.
+2022-04-26 06:23:39,196 - DEBUG - RIGHT candidate 7: base pen 3.169, combined pen 3.169, 0 max mismatches, 0 total mismatches.
+2022-04-26 06:23:39,197 - DEBUG - RIGHT candidate 8: base pen 3.307, combined pen 3.307, 0 max mismatches, 0 total mismatches.
+2022-04-26 06:23:39,197 - DEBUG - RIGHT candidate 9: base pen 3.429, combined pen 3.429, 0 max mismatches, 0 total mismatches.
+2022-04-26 06:23:39,199 - DEBUG - Window: left_limit 2326, slice_start 2532, right_limit 4911
+2022-04-26 06:23:39,199 - DEBUG - Region 9, pool 1
+2022-04-26 06:23:39,199 - DEBUG - Finding primers for slice 2532 to 2951
+2022-04-26 06:23:39,394 - DEBUG - Left region flank MSA: Alphabet() alignment with 7 rows and 54 columns
+AACTCTGCGAGGCATTGTGCGATTTGCAGCTGCTGCTTTTGTGC...TGA CHRF_BD0003_CZ
+AACTCTGCGAGGCATTGTGCGATTTGCAGCTGCTGCTTTTGTGC...TGA CSF_0017_CZ
+AACTCTGCGAGGCATTGTGCGATTTGCAGCTGCTGCTTTTGTGC...TGA CSF_0004_CZ
+AACTCTGCGAGGCATTGTGCGATTTGCAGCTGCTGCTTTTGTGC...TGA CSF_0018_CZ
+AACTCTGCGAGGCATTGTGCGATTTGCAGCTGCTGCTTTTGTGC...TGA CSF_0019_CZ
+AACTCTGCGAGGCATTGTGCGATTTGCAGCTGCTGCTTTTGTGC...TGA CSF_0023_NODE_1_length_4912_cov_9477
+AACTCTGCGAGGCATTGTGCGATTTGCAGCTGCTGCTTTTGTGC...TGA CSF_0026_CZ
+2022-04-26 06:23:39,394 - DEBUG - Picked primer LEFT:CGAGGCATTGTGCGATTTGC:2539
+2022-04-26 06:23:39,394 - DEBUG - Picked MSA slice: Alphabet() alignment with 8 rows and 20 columns
+CGAGGCATTGTGCGATTTGC CHRF_BD0003_CZ
+CGAGGCATTGTGCGATTTGC CSF_0017_CZ
+CGAGGCATTGTGCGATTTGC CSF_0004_CZ
+CGAGGCATTGTGCGATTTGC CSF_0018_CZ
+CGAGGCATTGTGCGATTTGC CSF_0019_CZ
+CGAGGCATTGTGCGATTTGC CSF_0023_NODE_1_length_4912_cov_9477
+CGAGGCATTGTGCGATTTGC CSF_0026_CZ
+******************** Cigar
+2022-04-26 06:23:39,395 - DEBUG - LEFT candidate 0: base pen 2.152, combined pen 2.152, 0 max mismatches, 0 total mismatches.
+2022-04-26 06:23:39,395 - DEBUG - LEFT candidate 1: base pen 2.152, combined pen 2.152, 0 max mismatches, 0 total mismatches.
+2022-04-26 06:23:39,395 - DEBUG - LEFT candidate 2: base pen 2.597, combined pen 2.597, 0 max mismatches, 0 total mismatches.
+2022-04-26 06:23:39,395 - DEBUG - LEFT candidate 3: base pen 2.602, combined pen 2.602, 0 max mismatches, 0 total mismatches.
+2022-04-26 06:23:39,396 - DEBUG - LEFT candidate 4: base pen 3.002, combined pen 3.002, 0 max mismatches, 0 total mismatches.
+2022-04-26 06:23:39,396 - DEBUG - LEFT candidate 5: base pen 3.037, combined pen 3.037, 0 max mismatches, 0 total mismatches.
+2022-04-26 06:23:39,396 - DEBUG - LEFT candidate 6: base pen 4.213, combined pen 4.213, 0 max mismatches, 0 total mismatches.
+2022-04-26 06:23:39,396 - DEBUG - Right region flank MSA: Alphabet() alignment with 7 rows and 54 columns
+TTCATTAATCTGTCAGCGCCGTGACCATGTAAATAAGGAATGTC...TCA CHRF_BD0003_CZ
+TTCATTAATCTGTCAGCGCCGTGACCATGTAAATAAGGAATGTC...TCA CSF_0017_CZ
+TTCATTAATCTGTCAGCGCCGTGACCATGTAAATAAGGAATGTC...TCA CSF_0004_CZ
+TTCATTAATCTGTCAGCGCCGTGACCATGTAAATAAGGAATGTC...TCA CSF_0018_CZ
+TTCATTAATCTGTCAGCGCCGTGACCATGTAAATAAGGAATGTC...TCA CSF_0019_CZ
+TTCATTAATCTGTCAGCGCCGTGACCATGTAAATAAGGAATGTC...TCA CSF_0023_NODE_1_length_4912_cov_9477
+TTCATTAATCTGTCAGCGCCGTGACCATGTAAATAAGGAATGTC...TCA CSF_0026_CZ
+2022-04-26 06:23:39,396 - DEBUG - Picked primer RIGHT:AGCGCCGTGACCATGTAAATAA:2937
+2022-04-26 06:23:39,397 - DEBUG - Picked MSA slice: Alphabet() alignment with 8 rows and 22 columns
+AGCGCCGTGACCATGTAAATAA CHRF_BD0003_CZ
+AGCGCCGTGACCATGTAAATAA CSF_0017_CZ
+AGCGCCGTGACCATGTAAATAA CSF_0004_CZ
+AGCGCCGTGACCATGTAAATAA CSF_0018_CZ
+AGCGCCGTGACCATGTAAATAA CSF_0019_CZ
+AGCGCCGTGACCATGTAAATAA CSF_0023_NODE_1_length_4912_cov_9477
+AGCGCCGTGACCATGTAAATAA CSF_0026_CZ
+********************** Cigar
+2022-04-26 06:23:39,397 - DEBUG - RIGHT candidate 0: base pen 0.141, combined pen 0.141, 0 max mismatches, 0 total mismatches.
+2022-04-26 06:23:39,397 - DEBUG - RIGHT candidate 1: base pen 0.143, combined pen 0.143, 0 max mismatches, 0 total mismatches.
+2022-04-26 06:23:39,398 - DEBUG - RIGHT candidate 2: base pen 0.485, combined pen 0.485, 0 max mismatches, 0 total mismatches.
+2022-04-26 06:23:39,398 - DEBUG - RIGHT candidate 3: base pen 0.485, combined pen 0.485, 0 max mismatches, 0 total mismatches.
+2022-04-26 06:23:39,398 - DEBUG - RIGHT candidate 4: base pen 0.486, combined pen 0.486, 0 max mismatches, 0 total mismatches.
+2022-04-26 06:23:39,399 - DEBUG - RIGHT candidate 5: base pen 0.490, combined pen 0.490, 0 max mismatches, 0 total mismatches.
+2022-04-26 06:23:39,399 - DEBUG - RIGHT candidate 6: base pen 0.538, combined pen 0.538, 0 max mismatches, 0 total mismatches.
+2022-04-26 06:23:39,399 - DEBUG - RIGHT candidate 7: base pen 1.100, combined pen 1.100, 0 max mismatches, 0 total mismatches.
+2022-04-26 06:23:39,400 - DEBUG - RIGHT candidate 8: base pen 1.110, combined pen 1.110, 0 max mismatches, 0 total mismatches.
+2022-04-26 06:23:39,400 - DEBUG - RIGHT candidate 9: base pen 1.237, combined pen 1.237, 0 max mismatches, 0 total mismatches.
+2022-04-26 06:23:39,402 - DEBUG - Window: left_limit 2630, slice_start 2841, right_limit 4911
+2022-04-26 06:23:39,402 - DEBUG - Region 10, pool 2
+2022-04-26 06:23:39,402 - DEBUG - Finding primers for slice 2841 to 3260
+2022-04-26 06:23:39,547 - DEBUG - Primer interaction between TGGATGAGGCAGCAAAACATCA and ATGGTATTTTGCTGCATGGGC predicted with a ∆G of -3.17 kcal/mol
+2022-04-26 06:23:39,553 - DEBUG - Left region flank MSA: Alphabet() alignment with 7 rows and 54 columns
+TCAGGGACCAGTGGATGAGGCAGCAAAACATCATGATGAACGGT...GAT CHRF_BD0003_CZ
+TCAGGGACCAGTGGATGAGGCAGCAAAACATCATGATGAACGGT...GAT CSF_0017_CZ
+TCAGGGACCAGTGGATGAGGCAGCAAAACATCATGATGAACGGT...GAT CSF_0004_CZ
+TCAGGGACCAGTGGATGAGGCAGCAAAACATCATGATGAACGGT...GAT CSF_0018_CZ
+TCAGGGACCAGTGGATGAGGCAGCAAAACATCATGATGAACGGT...GAT CSF_0019_CZ
+TCAGGGACCAGTGGATGAGGCAGCAAAACATCATGATGAACGGT...GAT CSF_0023_NODE_1_length_4912_cov_9477
+TCAGGGACCAGTGGATGAGGCAGCAAAACATCATGATGAACGGT...GAT CSF_0026_CZ
+2022-04-26 06:23:39,553 - DEBUG - Picked primer LEFT:AGTGGATGAGGCAGCAAAACAT:2850
+2022-04-26 06:23:39,554 - DEBUG - Picked MSA slice: Alphabet() alignment with 8 rows and 22 columns
+AGTGGATGAGGCAGCAAAACAT CHRF_BD0003_CZ
+AGTGGATGAGGCAGCAAAACAT CSF_0017_CZ
+AGTGGATGAGGCAGCAAAACAT CSF_0004_CZ
+AGTGGATGAGGCAGCAAAACAT CSF_0018_CZ
+AGTGGATGAGGCAGCAAAACAT CSF_0019_CZ
+AGTGGATGAGGCAGCAAAACAT CSF_0023_NODE_1_length_4912_cov_9477
+AGTGGATGAGGCAGCAAAACAT CSF_0026_CZ
+********************** Cigar
+2022-04-26 06:23:39,554 - DEBUG - LEFT candidate 0: *interaction, base pen 0.002, combined pen 0.002, 0 max mismatches, 0 total mismatches.
+2022-04-26 06:23:39,554 - DEBUG - LEFT candidate 1: base pen 0.005, combined pen 0.005, 0 max mismatches, 0 total mismatches.
+2022-04-26 06:23:39,554 - DEBUG - LEFT candidate 2: base pen 0.405, combined pen 0.405, 0 max mismatches, 0 total mismatches.
+2022-04-26 06:23:39,555 - DEBUG - LEFT candidate 3: base pen 0.835, combined pen 0.835, 0 max mismatches, 0 total mismatches.
+2022-04-26 06:23:39,555 - DEBUG - LEFT candidate 4: base pen 1.013, combined pen 1.013, 0 max mismatches, 0 total mismatches.
+2022-04-26 06:23:39,555 - DEBUG - LEFT candidate 5: base pen 1.248, combined pen 1.248, 0 max mismatches, 0 total mismatches.
+2022-04-26 06:23:39,556 - DEBUG - LEFT candidate 6: base pen 1.264, combined pen 1.264, 0 max mismatches, 0 total mismatches.
+2022-04-26 06:23:39,556 - DEBUG - LEFT candidate 7: base pen 1.389, combined pen 1.389, 0 max mismatches, 0 total mismatches.
+2022-04-26 06:23:39,556 - DEBUG - LEFT candidate 8: base pen 1.417, combined pen 1.417, 0 max mismatches, 0 total mismatches.
+2022-04-26 06:23:39,557 - DEBUG - LEFT candidate 9: base pen 1.467, combined pen 1.467, 0 max mismatches, 0 total mismatches.
+2022-04-26 06:23:39,557 - DEBUG - Right region flank MSA: Alphabet() alignment with 7 rows and 54 columns
+ACTTTAACTCCACCTCCTCCTCCAGCTGGTTCCACGGACATTGT...TCA CHRF_BD0003_CZ
+ACTTTAACTCCACCTCCTCCTCCAGCTGGTTCCACGGACATTGT...TCA CSF_0017_CZ
+ACTTTAACTCCACCTCCTCCTCCAGCTGGTTCCACGGACATTGT...TCA CSF_0004_CZ
+ACTTTAACTCCACCTCCTCCTCCAGCTGGTTCCACGGACATTGT...TCA CSF_0018_CZ
+ACTTTAACTCCACCTCCTCCTCCAGCTGGTTCCACGGACATTGT...TCA CSF_0019_CZ
+ACTTTAACTCCACCTCCTCCTCCAGCTGGTTCCACGGACATTGT...TCA CSF_0023_NODE_1_length_4912_cov_9477
+ACTTTAACTCCACCTCCTCCTCCAGCTGGTTCCACGGACATTGT...TCA CSF_0026_CZ
+2022-04-26 06:23:39,557 - DEBUG - Picked primer RIGHT:TTAACTCCACCTCCTCCTCCAG:3257
+2022-04-26 06:23:39,557 - DEBUG - Picked MSA slice: Alphabet() alignment with 8 rows and 22 columns
+TTAACTCCACCTCCTCCTCCAG CHRF_BD0003_CZ
+TTAACTCCACCTCCTCCTCCAG CSF_0017_CZ
+TTAACTCCACCTCCTCCTCCAG CSF_0004_CZ
+TTAACTCCACCTCCTCCTCCAG CSF_0018_CZ
+TTAACTCCACCTCCTCCTCCAG CSF_0019_CZ
+TTAACTCCACCTCCTCCTCCAG CSF_0023_NODE_1_length_4912_cov_9477
+TTAACTCCACCTCCTCCTCCAG CSF_0026_CZ
+********************** Cigar
+2022-04-26 06:23:39,558 - DEBUG - RIGHT candidate 0: base pen 0.254, combined pen 0.254, 0 max mismatches, 0 total mismatches.
+2022-04-26 06:23:39,558 - DEBUG - RIGHT candidate 1: base pen 0.654, combined pen 0.654, 0 max mismatches, 0 total mismatches.
+2022-04-26 06:23:39,558 - DEBUG - RIGHT candidate 2: base pen 1.319, combined pen 1.319, 0 max mismatches, 0 total mismatches.
+2022-04-26 06:23:39,558 - DEBUG - RIGHT candidate 3: base pen 1.337, combined pen 1.337, 0 max mismatches, 0 total mismatches.
+2022-04-26 06:23:39,559 - DEBUG - RIGHT candidate 4: base pen 1.337, combined pen 1.337, 0 max mismatches, 0 total mismatches.
+2022-04-26 06:23:39,559 - DEBUG - RIGHT candidate 5: base pen 1.338, combined pen 1.338, 0 max mismatches, 0 total mismatches.
+2022-04-26 06:23:39,559 - DEBUG - RIGHT candidate 6: base pen 2.329, combined pen 2.329, 0 max mismatches, 0 total mismatches.
+2022-04-26 06:23:39,560 - DEBUG - RIGHT candidate 7: base pen 3.226, combined pen 3.226, 0 max mismatches, 0 total mismatches.
+2022-04-26 06:23:39,562 - DEBUG - Window: left_limit 2938, slice_start 3161, right_limit 4911
+2022-04-26 06:23:39,562 - DEBUG - Region 11, pool 1
+2022-04-26 06:23:39,562 - DEBUG - Finding primers for slice 3161 to 3580
+2022-04-26 06:23:39,721 - DEBUG - Left region flank MSA: Alphabet() alignment with 7 rows and 54 columns
+GGATTGGTACCCCTGAGGAGTCTGAACCAACCTTGCCTGTGCAG...CCA CHRF_BD0003_CZ
+GGATTGGTACCCCTGAGGAGTCTGAACCAACCTTGCCTGTGCAG...CCA CSF_0017_CZ
+GGATTGGTACCCCTGAGGAGTCTGAACCAACCTTGCCTGTGCAG...CCA CSF_0004_CZ
+GGATTGGTACCCCTGAGGAGTCTGAACCAACCTTGCCTGTGCAG...CCA CSF_0018_CZ
+GGATTGGTACCCCTGAGGAGTCTGAACCAACCTTGCCTGTGCAG...CCA CSF_0019_CZ
+GGATTGGTACCCCTGAGGAGTCTGAACCAACCTTGCCTGTGCAG...CCA CSF_0023_NODE_1_length_4912_cov_9477
+GGATTGGTACCCCTGAGGAGTCTGAACCAACCTTGCCTGTGCAG...CCA CSF_0026_CZ
+2022-04-26 06:23:39,721 - DEBUG - Picked primer LEFT:ATTGGTACCCCTGAGGAGTCTG:3163
+2022-04-26 06:23:39,722 - DEBUG - Picked MSA slice: Alphabet() alignment with 8 rows and 22 columns
+ATTGGTACCCCTGAGGAGTCTG CHRF_BD0003_CZ
+ATTGGTACCCCTGAGGAGTCTG CSF_0017_CZ
+ATTGGTACCCCTGAGGAGTCTG CSF_0004_CZ
+ATTGGTACCCCTGAGGAGTCTG CSF_0018_CZ
+ATTGGTACCCCTGAGGAGTCTG CSF_0019_CZ
+ATTGGTACCCCTGAGGAGTCTG CSF_0023_NODE_1_length_4912_cov_9477
+ATTGGTACCCCTGAGGAGTCTG CSF_0026_CZ
+********************** Cigar
+2022-04-26 06:23:39,722 - DEBUG - LEFT candidate 0: base pen 0.081, combined pen 0.081, 0 max mismatches, 0 total mismatches.
+2022-04-26 06:23:39,722 - DEBUG - LEFT candidate 1: base pen 0.187, combined pen 0.187, 0 max mismatches, 0 total mismatches.
+2022-04-26 06:23:39,723 - DEBUG - LEFT candidate 2: base pen 0.311, combined pen 0.311, 0 max mismatches, 0 total mismatches.
+2022-04-26 06:23:39,723 - DEBUG - LEFT candidate 3: base pen 0.539, combined pen 0.539, 0 max mismatches, 0 total mismatches.
+2022-04-26 06:23:39,723 - DEBUG - LEFT candidate 4: base pen 0.569, combined pen 0.569, 0 max mismatches, 0 total mismatches.
+2022-04-26 06:23:39,724 - DEBUG - LEFT candidate 5: base pen 0.922, combined pen 0.922, 0 max mismatches, 0 total mismatches.
+2022-04-26 06:23:39,724 - DEBUG - LEFT candidate 6: base pen 1.058, combined pen 1.058, 0 max mismatches, 0 total mismatches.
+2022-04-26 06:23:39,724 - DEBUG - LEFT candidate 7: base pen 1.105, combined pen 1.105, 0 max mismatches, 0 total mismatches.
+2022-04-26 06:23:39,725 - DEBUG - LEFT candidate 8: base pen 1.105, combined pen 1.105, 0 max mismatches, 0 total mismatches.
+2022-04-26 06:23:39,725 - DEBUG - LEFT candidate 9: base pen 1.105, combined pen 1.105, 0 max mismatches, 0 total mismatches.
+2022-04-26 06:23:39,725 - DEBUG - Right region flank MSA: Alphabet() alignment with 7 rows and 54 columns
+CAGTGGTGCCTGTCTGATTAGTTGCAACATCCTTGATTACAATA...TTG CHRF_BD0003_CZ
+CAGTGGTGCCTGTCTGATTAGTTGCAACATCCTTGATTACAATA...TTG CSF_0017_CZ
+CAGTGGTGCCTGTCTGATTAGTTGCAACATCCTTGATTACAATA...TTG CSF_0004_CZ
+CAGTGGTGCCTGTCTGATTAGTTGCAACATCCTTGATTACAATA...TTG CSF_0018_CZ
+CAGTGGTGCCTGTCTGATTAGTTGCAACATCCTTGATTACAATA...TTG CSF_0019_CZ
+CAGTGGTGCCTGTCTGATTAGTTGCAACATCCTTGATTACAATA...TTG CSF_0023_NODE_1_length_4912_cov_9477
+CAGTGGTGCCTGTCTGATTAGTTGCAACATCCTTGATTACAATA...TTG CSF_0026_CZ
+2022-04-26 06:23:39,725 - DEBUG - Picked primer RIGHT:TGGTGCCTGTCTGATTAGTTGC:3577
+2022-04-26 06:23:39,726 - DEBUG - Picked MSA slice: Alphabet() alignment with 8 rows and 22 columns
+TGGTGCCTGTCTGATTAGTTGC CHRF_BD0003_CZ
+TGGTGCCTGTCTGATTAGTTGC CSF_0017_CZ
+TGGTGCCTGTCTGATTAGTTGC CSF_0004_CZ
+TGGTGCCTGTCTGATTAGTTGC CSF_0018_CZ
+TGGTGCCTGTCTGATTAGTTGC CSF_0019_CZ
+TGGTGCCTGTCTGATTAGTTGC CSF_0023_NODE_1_length_4912_cov_9477
+TGGTGCCTGTCTGATTAGTTGC CSF_0026_CZ
+********************** Cigar
+2022-04-26 06:23:39,726 - DEBUG - RIGHT candidate 0: base pen 0.057, combined pen 0.057, 0 max mismatches, 0 total mismatches.
+2022-04-26 06:23:39,726 - DEBUG - RIGHT candidate 1: base pen 0.057, combined pen 0.057, 0 max mismatches, 0 total mismatches.
+2022-04-26 06:23:39,726 - DEBUG - RIGHT candidate 2: base pen 0.790, combined pen 0.790, 0 max mismatches, 0 total mismatches.
+2022-04-26 06:23:39,727 - DEBUG - RIGHT candidate 3: base pen 1.002, combined pen 1.002, 0 max mismatches, 0 total mismatches.
+2022-04-26 06:23:39,727 - DEBUG - RIGHT candidate 4: base pen 1.188, combined pen 1.188, 0 max mismatches, 0 total mismatches.
+2022-04-26 06:23:39,727 - DEBUG - RIGHT candidate 5: base pen 1.188, combined pen 1.188, 0 max mismatches, 0 total mismatches.
+2022-04-26 06:23:39,728 - DEBUG - RIGHT candidate 6: base pen 1.386, combined pen 1.386, 0 max mismatches, 0 total mismatches.
+2022-04-26 06:23:39,728 - DEBUG - RIGHT candidate 7: base pen 1.456, combined pen 1.456, 0 max mismatches, 0 total mismatches.
+2022-04-26 06:23:39,728 - DEBUG - RIGHT candidate 8: base pen 1.620, combined pen 1.620, 0 max mismatches, 0 total mismatches.
+2022-04-26 06:23:39,729 - DEBUG - RIGHT candidate 9: base pen 2.190, combined pen 2.190, 0 max mismatches, 0 total mismatches.
+2022-04-26 06:23:39,731 - DEBUG - Window: left_limit 3258, slice_start 3481, right_limit 4911
+2022-04-26 06:23:39,731 - DEBUG - Region 12, pool 2
+2022-04-26 06:23:39,731 - DEBUG - Finding primers for slice 3481 to 3900
+2022-04-26 06:23:39,922 - DEBUG - Stepping left to 3470
+2022-04-26 06:23:39,922 - DEBUG - Finding primers for slice 3470 to 3889
+2022-04-26 06:23:40,075 - DEBUG - Stepping left to 3459
+2022-04-26 06:23:40,075 - DEBUG - Finding primers for slice 3459 to 3878
+2022-04-26 06:23:40,246 - DEBUG - Left region flank MSA: Alphabet() alignment with 7 rows and 54 columns
+TACTCCCAGAGATTTTCAACAATTACTAGATGAATATGATGAAA...TAA CHRF_BD0003_CZ
+TACTCCCAGAGATTTTCAACAATTACTAGATGAATATGATGAAA...TAA CSF_0017_CZ
+TACTCCCAGAGATTTTCAACAATTACTAGATGAATATGATGAAA...TAA CSF_0004_CZ
+TACTCCCAGAGATTTTCAACAATTACTAGATGAATATGATGAAA...TAA CSF_0018_CZ
+TACTCCCAGAGATTTTCAACAATTACTAGATGAATATGATGAAA...TAA CSF_0019_CZ
+TACTCCCAGAGATTTTCAACAATTACTAGATGAATATGATGAAA...TAA CSF_0023_NODE_1_length_4912_cov_9477
+TACTCCCAGAGATTTTCAACAATTACTAGATGAATATGATGAAA...TAA CSF_0026_CZ
+2022-04-26 06:23:40,246 - DEBUG - Picked primer LEFT:ACTCCCAGAGATTTTCAACAATTACTAG:3460
+2022-04-26 06:23:40,246 - DEBUG - Picked MSA slice: Alphabet() alignment with 8 rows and 28 columns
+ACTCCCAGAGATTTTCAACAATTACTAG CHRF_BD0003_CZ
+ACTCCCAGAGATTTTCAACAATTACTAG CSF_0017_CZ
+ACTCCCAGAGATTTTCAACAATTACTAG CSF_0004_CZ
+ACTCCCAGAGATTTTCAACAATTACTAG CSF_0018_CZ
+ACTCCCAGAGATTTTCAACAATTACTAG CSF_0019_CZ
+ACTCCCAGAGATTTTCAACAATTACTAG CSF_0023_NODE_1_length_4912_cov_9477
+ACTCCCAGAGATTTTCAACAATTACTAG CSF_0026_CZ
+**************************** Cigar
+2022-04-26 06:23:40,247 - DEBUG - LEFT candidate 0: base pen 7.021, combined pen 7.021, 0 max mismatches, 0 total mismatches.
+2022-04-26 06:23:40,247 - DEBUG - LEFT candidate 1: base pen 7.087, combined pen 7.087, 0 max mismatches, 0 total mismatches.
+2022-04-26 06:23:40,247 - DEBUG - LEFT candidate 2: base pen 7.230, combined pen 7.230, 0 max mismatches, 0 total mismatches.
+2022-04-26 06:23:40,248 - DEBUG - LEFT candidate 3: base pen 7.680, combined pen 7.680, 0 max mismatches, 0 total mismatches.
+2022-04-26 06:23:40,248 - DEBUG - LEFT candidate 4: base pen 7.680, combined pen 7.680, 0 max mismatches, 0 total mismatches.
+2022-04-26 06:23:40,248 - DEBUG - LEFT candidate 5: base pen 7.882, combined pen 7.882, 0 max mismatches, 0 total mismatches.
+2022-04-26 06:23:40,249 - DEBUG - LEFT candidate 6: base pen 8.060, combined pen 8.060, 0 max mismatches, 0 total mismatches.
+2022-04-26 06:23:40,249 - DEBUG - LEFT candidate 7: base pen 8.071, combined pen 8.071, 0 max mismatches, 0 total mismatches.
+2022-04-26 06:23:40,250 - DEBUG - LEFT candidate 8: base pen 8.135, combined pen 8.135, 0 max mismatches, 0 total mismatches.
+2022-04-26 06:23:40,250 - DEBUG - LEFT candidate 9: base pen 8.215, combined pen 8.215, 0 max mismatches, 0 total mismatches.
+2022-04-26 06:23:40,250 - DEBUG - Right region flank MSA: Alphabet() alignment with 7 rows and 54 columns
+TTTCTCCAAGGTAGATCATCTGGAAATTCATAATGATGAGACCA...CCT CHRF_BD0003_CZ
+TTTCTCCAAGGTAGATCATCTGGAAATTCATAATGATGAGACCA...CCT CSF_0017_CZ
+TTTCTCCAAGGTAGATCATCTGGAAATTCATAATGATGAGACCA...CCT CSF_0004_CZ
+TTTCTCCAAGGTAGATCATCTGGAAATTCATAATGATGAGACCA...CCT CSF_0018_CZ
+TTTCTCCAAGGTAGATCATCTGGAAATTCATAATGATGAGACCA...CCT CSF_0019_CZ
+TTTCTCCAAGGTAGATCATCTGGAAATTCATAATGATGAGACCA...CCT CSF_0023_NODE_1_length_4912_cov_9477
+TTTCTCCAAGGTAGATCATCTGGAAATTCATAATGATGAGACCA...CCT CSF_0026_CZ
+2022-04-26 06:23:40,250 - DEBUG - Picked primer RIGHT:TTTCTCCAAGGTAGATCATCTGGAA:3878
+2022-04-26 06:23:40,251 - DEBUG - Picked MSA slice: Alphabet() alignment with 8 rows and 25 columns
+TTTCTCCAAGGTAGATCATCTGGAA CHRF_BD0003_CZ
+TTTCTCCAAGGTAGATCATCTGGAA CSF_0017_CZ
+TTTCTCCAAGGTAGATCATCTGGAA CSF_0004_CZ
+TTTCTCCAAGGTAGATCATCTGGAA CSF_0018_CZ
+TTTCTCCAAGGTAGATCATCTGGAA CSF_0019_CZ
+TTTCTCCAAGGTAGATCATCTGGAA CSF_0023_NODE_1_length_4912_cov_9477
+TTTCTCCAAGGTAGATCATCTGGAA CSF_0026_CZ
+************************* Cigar
+2022-04-26 06:23:40,251 - DEBUG - RIGHT candidate 0: base pen 4.336, combined pen 4.336, 0 max mismatches, 0 total mismatches.
+2022-04-26 06:23:40,251 - DEBUG - RIGHT candidate 1: base pen 4.336, combined pen 4.336, 0 max mismatches, 0 total mismatches.
+2022-04-26 06:23:40,252 - DEBUG - RIGHT candidate 2: base pen 4.710, combined pen 4.710, 0 max mismatches, 0 total mismatches.
+2022-04-26 06:23:40,252 - DEBUG - RIGHT candidate 3: base pen 4.768, combined pen 4.768, 0 max mismatches, 0 total mismatches.
+2022-04-26 06:23:40,252 - DEBUG - RIGHT candidate 4: base pen 4.939, combined pen 4.939, 0 max mismatches, 0 total mismatches.
+2022-04-26 06:23:40,253 - DEBUG - RIGHT candidate 5: base pen 4.939, combined pen 4.939, 0 max mismatches, 0 total mismatches.
+2022-04-26 06:23:40,253 - DEBUG - RIGHT candidate 6: base pen 5.083, combined pen 5.083, 0 max mismatches, 0 total mismatches.
+2022-04-26 06:23:40,254 - DEBUG - RIGHT candidate 7: base pen 5.134, combined pen 5.134, 0 max mismatches, 0 total mismatches.
+2022-04-26 06:23:40,254 - DEBUG - RIGHT candidate 8: base pen 5.272, combined pen 5.272, 0 max mismatches, 0 total mismatches.
+2022-04-26 06:23:40,254 - DEBUG - RIGHT candidate 9: base pen 5.350, combined pen 5.350, 0 max mismatches, 0 total mismatches.
+2022-04-26 06:23:40,256 - DEBUG - Window: left_limit 3578, slice_start 3779, right_limit 4911
+2022-04-26 06:23:40,256 - DEBUG - Region 13, pool 1
+2022-04-26 06:23:40,256 - DEBUG - Finding primers for slice 3779 to 4198
+2022-04-26 06:23:40,469 - DEBUG - Left region flank MSA: Alphabet() alignment with 7 rows and 54 columns
+CAGAACTATTTTTTCTAGAACACCATGATGCAGAGTGTTTAGGA...ATC CHRF_BD0003_CZ
+CAGAACTATTTTTTCTAGAACACCATGATGCAGAGTGTTTAGGA...ATC CSF_0017_CZ
+CAGAACTATTTTTTCTAGAACACCATGATGCAGAGTGTTTAGGA...ATC CSF_0004_CZ
+CAGAACTATTTTTTCTAGAACACCATGATGCAGAGTGTTTAGGA...ATC CSF_0018_CZ
+CAGAACTATTTTTTCTAGAACACCATGATGCAGAGTGTTTAGGA...ATC CSF_0019_CZ
+CAGAACTATTTTTTCTAGAACACCATGATGCAGAGTGTTTAGGA...ATC CSF_0023_NODE_1_length_4912_cov_9477
+CAGAACTATTTTTTCTAGAACACCATGATGCAGAGTGTTTAGGA...ATC CSF_0026_CZ
+2022-04-26 06:23:40,470 - DEBUG - Picked primer LEFT:AGAACACCATGATGCAGAGTGT:3795
+2022-04-26 06:23:40,470 - DEBUG - Picked MSA slice: Alphabet() alignment with 8 rows and 22 columns
+AGAACACCATGATGCAGAGTGT CHRF_BD0003_CZ
+AGAACACCATGATGCAGAGTGT CSF_0017_CZ
+AGAACACCATGATGCAGAGTGT CSF_0004_CZ
+AGAACACCATGATGCAGAGTGT CSF_0018_CZ
+AGAACACCATGATGCAGAGTGT CSF_0019_CZ
+AGAACACCATGATGCAGAGTGT CSF_0023_NODE_1_length_4912_cov_9477
+AGAACACCATGATGCAGAGTGT CSF_0026_CZ
+********************** Cigar
+2022-04-26 06:23:40,470 - DEBUG - LEFT candidate 0: base pen 0.856, combined pen 0.856, 0 max mismatches, 0 total mismatches.
+2022-04-26 06:23:40,471 - DEBUG - LEFT candidate 1: base pen 2.006, combined pen 2.006, 0 max mismatches, 0 total mismatches.
+2022-04-26 06:23:40,471 - DEBUG - LEFT candidate 2: base pen 2.058, combined pen 2.058, 0 max mismatches, 0 total mismatches.
+2022-04-26 06:23:40,471 - DEBUG - LEFT candidate 3: base pen 2.298, combined pen 2.298, 0 max mismatches, 0 total mismatches.
+2022-04-26 06:23:40,472 - DEBUG - LEFT candidate 4: base pen 2.900, combined pen 2.900, 0 max mismatches, 0 total mismatches.
+2022-04-26 06:23:40,472 - DEBUG - LEFT candidate 5: base pen 3.237, combined pen 3.237, 0 max mismatches, 0 total mismatches.
+2022-04-26 06:23:40,472 - DEBUG - LEFT candidate 6: base pen 3.334, combined pen 3.334, 0 max mismatches, 0 total mismatches.
+2022-04-26 06:23:40,473 - DEBUG - LEFT candidate 7: base pen 4.184, combined pen 4.184, 0 max mismatches, 0 total mismatches.
+2022-04-26 06:23:40,473 - DEBUG - LEFT candidate 8: base pen 4.188, combined pen 4.188, 0 max mismatches, 0 total mismatches.
+2022-04-26 06:23:40,473 - DEBUG - LEFT candidate 9: base pen 4.265, combined pen 4.265, 0 max mismatches, 0 total mismatches.
+2022-04-26 06:23:40,474 - DEBUG - Right region flank MSA: Alphabet() alignment with 7 rows and 54 columns
+AATCAGTTTTGTTTGCTAACCATTCTTCTGTGCGAACAGACCAT...GAA CHRF_BD0003_CZ
+AATCAGTTTTGTTTGCTAACCATTCTTCTGTGCGAACAGACCAT...GAA CSF_0017_CZ
+AATCAGTTTTGTTTGCTAACCATTCTTCTGTGCGAACAGACCAT...GAA CSF_0004_CZ
+AATCAGTTTTGTTTGCTAACCATTCTTCTGTGCGAACAGACCAT...GAA CSF_0018_CZ
+AATCAGTTTTGTTTGCTAACCATTCTTCTGTGCGAACAGACCAT...GAA CSF_0019_CZ
+AATCAGTTTTGTTTGCTAACCATTCTTCTGTGCGAACAGACCAT...GAA CSF_0023_NODE_1_length_4912_cov_9477
+AATCAGTTTTGTTTGCTAACCATTCTTCTGTGCGAACAGACCAT...GAA CSF_0026_CZ
+2022-04-26 06:23:40,474 - DEBUG - Picked primer RIGHT:TGCTAACCATTCTTCTGTGCGA:4185
+2022-04-26 06:23:40,474 - DEBUG - Picked MSA slice: Alphabet() alignment with 8 rows and 22 columns
+TGCTAACCATTCTTCTGTGCGA CHRF_BD0003_CZ
+TGCTAACCATTCTTCTGTGCGA CSF_0017_CZ
+TGCTAACCATTCTTCTGTGCGA CSF_0004_CZ
+TGCTAACCATTCTTCTGTGCGA CSF_0018_CZ
+TGCTAACCATTCTTCTGTGCGA CSF_0019_CZ
+TGCTAACCATTCTTCTGTGCGA CSF_0023_NODE_1_length_4912_cov_9477
+TGCTAACCATTCTTCTGTGCGA CSF_0026_CZ
+********************** Cigar
+2022-04-26 06:23:40,474 - DEBUG - RIGHT candidate 0: base pen 0.530, combined pen 0.530, 0 max mismatches, 0 total mismatches.
+2022-04-26 06:23:40,475 - DEBUG - RIGHT candidate 1: base pen 1.059, combined pen 1.059, 0 max mismatches, 0 total mismatches.
+2022-04-26 06:23:40,475 - DEBUG - RIGHT candidate 2: base pen 1.059, combined pen 1.059, 0 max mismatches, 0 total mismatches.
+2022-04-26 06:23:40,475 - DEBUG - RIGHT candidate 3: base pen 1.306, combined pen 1.306, 0 max mismatches, 0 total mismatches.
+2022-04-26 06:23:40,476 - DEBUG - RIGHT candidate 4: base pen 1.328, combined pen 1.328, 0 max mismatches, 0 total mismatches.
+2022-04-26 06:23:40,476 - DEBUG - RIGHT candidate 5: base pen 1.371, combined pen 1.371, 0 max mismatches, 0 total mismatches.
+2022-04-26 06:23:40,476 - DEBUG - RIGHT candidate 6: base pen 1.692, combined pen 1.692, 0 max mismatches, 0 total mismatches.
+2022-04-26 06:23:40,477 - DEBUG - RIGHT candidate 7: base pen 2.421, combined pen 2.421, 0 max mismatches, 0 total mismatches.
+2022-04-26 06:23:40,477 - DEBUG - RIGHT candidate 8: base pen 2.447, combined pen 2.447, 0 max mismatches, 0 total mismatches.
+2022-04-26 06:23:40,477 - DEBUG - RIGHT candidate 9: base pen 2.496, combined pen 2.496, 0 max mismatches, 0 total mismatches.
+2022-04-26 06:23:40,479 - DEBUG - Window: left_limit 3879, slice_start 4089, right_limit 4911
+2022-04-26 06:23:40,479 - DEBUG - Region 14, pool 2
+2022-04-26 06:23:40,480 - DEBUG - Finding primers for slice 4089 to 4508
+2022-04-26 06:23:40,742 - DEBUG - Left region flank MSA: Alphabet() alignment with 7 rows and 54 columns
+TCCTGTTGCTATTGGAAATCCTGCTACAAGTGATAGATACAGTG...ATT CHRF_BD0003_CZ
+TCCTGTTGCTATTGGAAATCCTGCTACAAGTGATAGGTACAGTG...GTT CSF_0017_CZ
+TCCTGTTGCTATTGGAAATCCTGCTACAAGTGATAGGTACAGTG...GTT CSF_0004_CZ
+TCCTGTTGCTATTGGAAATCCTGCTACAAGTGATAGGTACAGTG...GTT CSF_0018_CZ
+TCCTGTTGCTATTGGAAATCCTGCTACAAGTGATAGATACAGTG...ATT CSF_0019_CZ
+TCCTGTTGCTATTGGAAATCCTGCTACAAGTGATAGATACAGTG...ATT CSF_0023_NODE_1_length_4912_cov_9477
+TCCTGTTGCTATTGGAAATCCTGCTACAAGTGATAGATACAGTG...ACT CSF_0026_CZ
+2022-04-26 06:23:40,742 - DEBUG - Picked primer LEFT:CCTGTTGCTATTGGAAATCCTGC:4090
+2022-04-26 06:23:40,743 - DEBUG - Picked MSA slice: Alphabet() alignment with 8 rows and 23 columns
+CCTGTTGCTATTGGAAATCCTGC CHRF_BD0003_CZ
+CCTGTTGCTATTGGAAATCCTGC CSF_0017_CZ
+CCTGTTGCTATTGGAAATCCTGC CSF_0004_CZ
+CCTGTTGCTATTGGAAATCCTGC CSF_0018_CZ
+CCTGTTGCTATTGGAAATCCTGC CSF_0019_CZ
+CCTGTTGCTATTGGAAATCCTGC CSF_0023_NODE_1_length_4912_cov_9477
+CCTGTTGCTATTGGAAATCCTGC CSF_0026_CZ
+*********************** Cigar
+2022-04-26 06:23:40,743 - DEBUG - LEFT candidate 0: base pen 1.567, combined pen 1.567, 0 max mismatches, 0 total mismatches.
+2022-04-26 06:23:40,743 - DEBUG - LEFT candidate 1: base pen 2.444, combined pen 2.444, 0 max mismatches, 0 total mismatches.
+2022-04-26 06:23:40,744 - DEBUG - LEFT candidate 2: base pen 2.732, combined pen 2.732, 0 max mismatches, 0 total mismatches.
+2022-04-26 06:23:40,744 - DEBUG - LEFT candidate 3: base pen 2.735, combined pen 2.735, 0 max mismatches, 0 total mismatches.
+2022-04-26 06:23:40,744 - DEBUG - LEFT candidate 4: base pen 3.039, combined pen 3.039, 0 max mismatches, 0 total mismatches.
+2022-04-26 06:23:40,745 - DEBUG - LEFT candidate 5: base pen 3.192, combined pen 3.192, 0 max mismatches, 0 total mismatches.
+2022-04-26 06:23:40,745 - DEBUG - LEFT candidate 6: base pen 3.321, combined pen 3.321, 0 max mismatches, 0 total mismatches.
+2022-04-26 06:23:40,745 - DEBUG - LEFT candidate 7: base pen 3.321, combined pen 3.321, 0 max mismatches, 0 total mismatches.
+2022-04-26 06:23:40,746 - DEBUG - LEFT candidate 8: base pen 3.402, combined pen 3.402, 0 max mismatches, 0 total mismatches.
+2022-04-26 06:23:40,746 - DEBUG - LEFT candidate 9: base pen 3.402, combined pen 3.402, 0 max mismatches, 0 total mismatches.
+2022-04-26 06:23:40,746 - DEBUG - Right region flank MSA: Alphabet() alignment with 7 rows and 54 columns
+ATTTTAGTCCATATTTGACAATCATATGATAAAGGATTTGGGTT...GCA CHRF_BD0003_CZ
+ATTTTAGTCCATATTTGACAGTCATATGATAAAGGATTTGGGTT...GCA CSF_0017_CZ
+ATTTTAGTCCATATTTGACAGTCATATGATAAAGGATTTGGGTT...GCA CSF_0004_CZ
+ATTTTAGTCCATATTTGACAGTCATATGATAAAGGATTTGGGTT...GCA CSF_0018_CZ
+ATTTTAGTCCATATTTGACAATCATATGATAAAGGATTTGGGTT...GCA CSF_0019_CZ
+ATTTTAGTCCATATTTGACAGTCATATGATAAAGGATTTGGGTT...GCA CSF_0023_NODE_1_length_4912_cov_9477
+ATTTTAGTCCATATTTGACAGTCATATGATAAAGGATTTGGGTT...GCA CSF_0026_CZ
+2022-04-26 06:23:40,746 - DEBUG - Picked primer RIGHT:AGTCCATATTTGACAGTCATATGATAAAGG:4503
+2022-04-26 06:23:40,747 - DEBUG - Picked MSA slice: Alphabet() alignment with 8 rows and 30 columns
+AGTCCATATTTGACAATCATATGATAAAGG CHRF_BD0003_CZ
+AGTCCATATTTGACAGTCATATGATAAAGG CSF_0017_CZ
+AGTCCATATTTGACAGTCATATGATAAAGG CSF_0004_CZ
+AGTCCATATTTGACAGTCATATGATAAAGG CSF_0018_CZ
+AGTCCATATTTGACAATCATATGATAAAGG CSF_0019_CZ
+AGTCCATATTTGACAGTCATATGATAAAGG CSF_0023_NODE_1_length_4912_cov_9477
+AGTCCATATTTGACAGTCATATGATAAAGG CSF_0026_CZ
+*************** ************** Cigar
+2022-04-26 06:23:40,747 - DEBUG - RIGHT candidate 0: base pen 8.703, combined pen 10.703, 1 max mismatch, 2 total mismatches.
+2022-04-26 06:23:40,748 - DEBUG - RIGHT candidate 1: base pen 8.703, combined pen 10.703, 1 max mismatch, 2 total mismatches.
+2022-04-26 06:23:40,748 - DEBUG - RIGHT candidate 2: base pen 9.330, combined pen 11.330, 1 max mismatch, 2 total mismatches.
+2022-04-26 06:23:40,749 - DEBUG - RIGHT candidate 3: base pen 9.346, combined pen 11.346, 1 max mismatch, 2 total mismatches.
+2022-04-26 06:23:40,749 - DEBUG - RIGHT candidate 4: base pen 9.392, combined pen 11.392, 1 max mismatch, 2 total mismatches.
+2022-04-26 06:23:40,749 - DEBUG - RIGHT candidate 5: base pen 9.820, combined pen 11.820, 1 max mismatch, 2 total mismatches.
+2022-04-26 06:23:40,750 - DEBUG - RIGHT candidate 6: base pen 10.037, combined pen 12.037, 1 max mismatch, 2 total mismatches.
+2022-04-26 06:23:40,750 - DEBUG - RIGHT candidate 7: base pen 10.184, combined pen 12.184, 1 max mismatch, 2 total mismatches.
+2022-04-26 06:23:40,751 - DEBUG - RIGHT candidate 8: base pen 10.377, combined pen 12.377, 1 max mismatch, 2 total mismatches.
+2022-04-26 06:23:40,751 - DEBUG - RIGHT candidate 9: base pen 10.604, combined pen 12.604, 1 max mismatch, 2 total mismatches.
+2022-04-26 06:23:40,753 - DEBUG - Window: left_limit 4186, slice_start 4399, right_limit 4911
+2022-04-26 06:23:40,753 - DEBUG - Region 15, pool 1
+2022-04-26 06:23:40,753 - DEBUG - Finding primers for slice 4399 to 4818
+2022-04-26 06:23:40,980 - DEBUG - Left region flank MSA: Alphabet() alignment with 7 rows and 54 columns
+GATACAGTGTACAGCCCAAAATTGTATCAAGAACCTGTGTTTCC...CCT CHRF_BD0003_CZ
+GATACAGTGTACAGCCCAAAATTGTATCAAGAACCTGTGTTTCC...CCT CSF_0017_CZ
+GATACAGTGTACAGCCCAAAATTGTATCAAGAACCTGTGTTTCC...CCT CSF_0004_CZ
+GATACAGTGTACAGCCCAAAATTGTATCAAGAACCTGTGTTTCC...CCT CSF_0018_CZ
+GATACAGTGTACAGCCCAAAATTGTATCAAGAACCTGTGTTTCC...CCT CSF_0019_CZ
+GATACAGTGTACAGCCCAAAATTGTATCAAGAACCTGTGTTTCC...CCT CSF_0023_NODE_1_length_4912_cov_9477
+GATACAGTGTACAGCCCAAAATTGTATCAAGAACCTGTGTTTCC...CCT CSF_0026_CZ
+2022-04-26 06:23:40,980 - DEBUG - Picked primer LEFT:GCCCAAAATTGTATCAAGAACCTGT:4412
+2022-04-26 06:23:40,981 - DEBUG - Picked MSA slice: Alphabet() alignment with 8 rows and 25 columns
+GCCCAAAATTGTATCAAGAACCTGT CHRF_BD0003_CZ
+GCCCAAAATTGTATCAAGAACCTGT CSF_0017_CZ
+GCCCAAAATTGTATCAAGAACCTGT CSF_0004_CZ
+GCCCAAAATTGTATCAAGAACCTGT CSF_0018_CZ
+GCCCAAAATTGTATCAAGAACCTGT CSF_0019_CZ
+GCCCAAAATTGTATCAAGAACCTGT CSF_0023_NODE_1_length_4912_cov_9477
+GCCCAAAATTGTATCAAGAACCTGT CSF_0026_CZ
+************************* Cigar
+2022-04-26 06:23:40,981 - DEBUG - LEFT candidate 0: base pen 3.338, combined pen 3.338, 0 max mismatches, 0 total mismatches.
+2022-04-26 06:23:40,982 - DEBUG - LEFT candidate 1: base pen 3.338, combined pen 3.338, 0 max mismatches, 0 total mismatches.
+2022-04-26 06:23:40,982 - DEBUG - LEFT candidate 2: base pen 3.569, combined pen 3.569, 0 max mismatches, 0 total mismatches.
+2022-04-26 06:23:40,982 - DEBUG - LEFT candidate 3: base pen 3.569, combined pen 3.569, 0 max mismatches, 0 total mismatches.
+2022-04-26 06:23:40,983 - DEBUG - LEFT candidate 4: base pen 3.802, combined pen 3.802, 0 max mismatches, 0 total mismatches.
+2022-04-26 06:23:40,983 - DEBUG - LEFT candidate 5: base pen 3.802, combined pen 3.802, 0 max mismatches, 0 total mismatches.
+2022-04-26 06:23:40,983 - DEBUG - LEFT candidate 6: base pen 3.802, combined pen 3.802, 0 max mismatches, 0 total mismatches.
+2022-04-26 06:23:40,984 - DEBUG - LEFT candidate 7: base pen 4.268, combined pen 4.268, 0 max mismatches, 0 total mismatches.
+2022-04-26 06:23:40,984 - DEBUG - LEFT candidate 8: base pen 4.388, combined pen 4.388, 0 max mismatches, 0 total mismatches.
+2022-04-26 06:23:40,984 - DEBUG - LEFT candidate 9: base pen 4.489, combined pen 4.489, 0 max mismatches, 0 total mismatches.
+2022-04-26 06:23:40,984 - DEBUG - Right region flank MSA: Alphabet() alignment with 7 rows and 54 columns
+CGTGTTTGGGTCTTGTAAGCTATTAGCAAGAGTAAATGGCATAC...ATC CHRF_BD0003_CZ
+CGTGTTTGGGTCTTGTAAGCTATTAGCAAGAGTAAATGGCATAC...ATC CSF_0017_CZ
+CGTGTTTGGGTCTTGTAAGCTATTAGCAAGAGTAAATGGCATAC...ATC CSF_0004_CZ
+CGTGTTTGGGTCTTGTAAGCTATTAGCAAGAGTAAATGGCATAC...ATC CSF_0018_CZ
+CGTGTTTGGGTCTTGTAAGCTATTAGCAAGAGTAAATGGCATAC...ATC CSF_0019_CZ
+CGTGTTTGGGTCTTGTAAGCTATTAGCAAGAGTAAATGGCATAC...ATC CSF_0023_NODE_1_length_4912_cov_9477
+CGTGTTTGGGTCTTGTAAGCTATTAGCAAGAGTAAATGGCATAC...ATC CSF_0026_CZ
+2022-04-26 06:23:40,985 - DEBUG - Picked primer RIGHT:CGTGTTTGGGTCTTGTAAGCTATT:4818
+2022-04-26 06:23:40,985 - DEBUG - Picked MSA slice: Alphabet() alignment with 8 rows and 24 columns
+CGTGTTTGGGTCTTGTAAGCTATT CHRF_BD0003_CZ
+CGTGTTTGGGTCTTGTAAGCTATT CSF_0017_CZ
+CGTGTTTGGGTCTTGTAAGCTATT CSF_0004_CZ
+CGTGTTTGGGTCTTGTAAGCTATT CSF_0018_CZ
+CGTGTTTGGGTCTTGTAAGCTATT CSF_0019_CZ
+CGTGTTTGGGTCTTGTAAGCTATT CSF_0023_NODE_1_length_4912_cov_9477
+CGTGTTTGGGTCTTGTAAGCTATT CSF_0026_CZ
+************************ Cigar
+2022-04-26 06:23:40,985 - DEBUG - RIGHT candidate 0: base pen 3.137, combined pen 3.137, 0 max mismatches, 0 total mismatches.
+2022-04-26 06:23:40,986 - DEBUG - RIGHT candidate 1: base pen 3.802, combined pen 3.802, 0 max mismatches, 0 total mismatches.
+2022-04-26 06:23:40,986 - DEBUG - RIGHT candidate 2: base pen 4.071, combined pen 4.071, 0 max mismatches, 0 total mismatches.
+2022-04-26 06:23:40,986 - DEBUG - RIGHT candidate 3: base pen 4.071, combined pen 4.071, 0 max mismatches, 0 total mismatches.
+2022-04-26 06:23:40,987 - DEBUG - RIGHT candidate 4: base pen 4.164, combined pen 4.164, 0 max mismatches, 0 total mismatches.
+2022-04-26 06:23:40,987 - DEBUG - RIGHT candidate 5: base pen 4.189, combined pen 4.189, 0 max mismatches, 0 total mismatches.
+2022-04-26 06:23:40,987 - DEBUG - RIGHT candidate 6: base pen 4.260, combined pen 4.260, 0 max mismatches, 0 total mismatches.
+2022-04-26 06:23:40,988 - DEBUG - RIGHT candidate 7: base pen 4.262, combined pen 4.262, 0 max mismatches, 0 total mismatches.
+2022-04-26 06:23:40,988 - DEBUG - RIGHT candidate 8: base pen 4.266, combined pen 4.266, 0 max mismatches, 0 total mismatches.
+2022-04-26 06:23:40,988 - DEBUG - RIGHT candidate 9: base pen 4.266, combined pen 4.266, 0 max mismatches, 0 total mismatches.
+2022-04-26 06:23:40,992 - INFO - Writing /outputs/268dc4fa3454473cb180876b3dd1de0a/Trpv4_v5.primer.bed
+2022-04-26 06:23:40,992 - INFO - Writing /outputs/268dc4fa3454473cb180876b3dd1de0a/Trpv4_v5.insert.bed
+2022-04-26 06:23:40,993 - INFO - Writing /outputs/268dc4fa3454473cb180876b3dd1de0a/Trpv4_v5.primer.tsv
+2022-04-26 06:23:40,993 - INFO - Writing /outputs/268dc4fa3454473cb180876b3dd1de0a/Trpv4_v5.reference.fasta
+2022-04-26 06:23:41,009 - INFO - Writing /outputs/268dc4fa3454473cb180876b3dd1de0a/Trpv4_v5.plot.pdf
+2022-04-26 06:23:41,009 - INFO - Writing /outputs/268dc4fa3454473cb180876b3dd1de0a/Trpv4_v5.plot.svg
+2022-04-26 06:23:41,078 - INFO - Writing /outputs/268dc4fa3454473cb180876b3dd1de0a/Trpv4_v5.report.json

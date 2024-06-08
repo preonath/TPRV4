@@ -1,0 +1,350 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE svg
+  PUBLIC '-//W3C//DTD SVG 1.0//EN'
+  'http://www.w3.org/TR/2001/REC-SVG-20010904/DTD/svg10.dtd'>
+<svg fill-rule="evenodd" height="400" preserveAspectRatio="xMinYMin meet" version="1.0" viewBox="0 0 600 400" width="600" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+	<title>...</title>
+	<desc>...</desc>
+	<clipPath id="clip">
+		<rect height="400" width="600" x="0" y="0"/>
+	</clipPath>
+	<g id="group" style="clip-path: url(#clip)" transform="scale(1,-1) translate(0,-400)">
+		<g transform="">
+			<path d="M 35.496743,269.792632 L 35.496743,269.792632 Z" style="stroke: rgb(93%,50%,93%); stroke-linecap: butt; stroke-width: 1;"/>
+			<path d="M 35.496743,269.792632 L 40.993485,278.660000 Z" style="stroke: rgb(93%,50%,93%); stroke-linecap: butt; stroke-width: 1;"/>
+			<path d="M 40.993485,278.660000 L 46.490228,272.009474 Z" style="stroke: rgb(93%,50%,93%); stroke-linecap: butt; stroke-width: 1;"/>
+			<path d="M 46.490228,272.009474 L 51.986971,265.358947 Z" style="stroke: rgb(93%,50%,93%); stroke-linecap: butt; stroke-width: 1;"/>
+			<path d="M 51.986971,265.358947 L 57.483713,269.792632 Z" style="stroke: rgb(93%,50%,93%); stroke-linecap: butt; stroke-width: 1;"/>
+			<path d="M 57.483713,269.792632 L 62.980456,274.226316 Z" style="stroke: rgb(93%,50%,93%); stroke-linecap: butt; stroke-width: 1;"/>
+			<path d="M 62.980456,274.226316 L 68.477199,265.358947 Z" style="stroke: rgb(93%,50%,93%); stroke-linecap: butt; stroke-width: 1;"/>
+			<path d="M 68.477199,265.358947 L 73.973941,247.624211 Z" style="stroke: rgb(93%,50%,93%); stroke-linecap: butt; stroke-width: 1;"/>
+			<path d="M 73.973941,247.624211 L 79.470684,249.841053 Z" style="stroke: rgb(93%,50%,93%); stroke-linecap: butt; stroke-width: 1;"/>
+			<path d="M 79.470684,249.841053 L 84.967427,260.925263 Z" style="stroke: rgb(93%,50%,93%); stroke-linecap: butt; stroke-width: 1;"/>
+			<path d="M 84.967427,260.925263 L 90.464169,252.057895 Z" style="stroke: rgb(93%,50%,93%); stroke-linecap: butt; stroke-width: 1;"/>
+			<path d="M 90.464169,252.057895 L 95.960912,245.407368 Z" style="stroke: rgb(93%,50%,93%); stroke-linecap: butt; stroke-width: 1;"/>
+			<path d="M 95.960912,245.407368 L 101.457655,249.841053 Z" style="stroke: rgb(93%,50%,93%); stroke-linecap: butt; stroke-width: 1;"/>
+			<path d="M 101.457655,249.841053 L 106.954397,256.491579 Z" style="stroke: rgb(93%,50%,93%); stroke-linecap: butt; stroke-width: 1;"/>
+			<path d="M 106.954397,256.491579 L 112.451140,260.925263 Z" style="stroke: rgb(93%,50%,93%); stroke-linecap: butt; stroke-width: 1;"/>
+			<path d="M 112.451140,260.925263 L 117.947883,258.708421 Z" style="stroke: rgb(93%,50%,93%); stroke-linecap: butt; stroke-width: 1;"/>
+			<path d="M 117.947883,258.708421 L 123.444625,254.274737 Z" style="stroke: rgb(93%,50%,93%); stroke-linecap: butt; stroke-width: 1;"/>
+			<path d="M 123.444625,254.274737 L 128.941368,254.274737 Z" style="stroke: rgb(93%,50%,93%); stroke-linecap: butt; stroke-width: 1;"/>
+			<path d="M 128.941368,254.274737 L 134.438111,247.624211 Z" style="stroke: rgb(93%,50%,93%); stroke-linecap: butt; stroke-width: 1;"/>
+			<path d="M 134.438111,247.624211 L 139.934853,240.973684 Z" style="stroke: rgb(93%,50%,93%); stroke-linecap: butt; stroke-width: 1;"/>
+			<path d="M 139.934853,240.973684 L 145.431596,243.190526 Z" style="stroke: rgb(93%,50%,93%); stroke-linecap: butt; stroke-width: 1;"/>
+			<path d="M 145.431596,243.190526 L 150.928339,243.190526 Z" style="stroke: rgb(93%,50%,93%); stroke-linecap: butt; stroke-width: 1;"/>
+			<path d="M 150.928339,243.190526 L 156.425081,256.491579 Z" style="stroke: rgb(93%,50%,93%); stroke-linecap: butt; stroke-width: 1;"/>
+			<path d="M 156.425081,256.491579 L 161.921824,265.358947 Z" style="stroke: rgb(93%,50%,93%); stroke-linecap: butt; stroke-width: 1;"/>
+			<path d="M 161.921824,265.358947 L 167.418567,258.708421 Z" style="stroke: rgb(93%,50%,93%); stroke-linecap: butt; stroke-width: 1;"/>
+			<path d="M 167.418567,258.708421 L 172.915309,267.575789 Z" style="stroke: rgb(93%,50%,93%); stroke-linecap: butt; stroke-width: 1;"/>
+			<path d="M 172.915309,267.575789 L 178.412052,272.009474 Z" style="stroke: rgb(93%,50%,93%); stroke-linecap: butt; stroke-width: 1;"/>
+			<path d="M 178.412052,272.009474 L 183.908795,254.274737 Z" style="stroke: rgb(93%,50%,93%); stroke-linecap: butt; stroke-width: 1;"/>
+			<path d="M 183.908795,254.274737 L 189.405537,245.407368 Z" style="stroke: rgb(93%,50%,93%); stroke-linecap: butt; stroke-width: 1;"/>
+			<path d="M 189.405537,245.407368 L 194.902280,247.624211 Z" style="stroke: rgb(93%,50%,93%); stroke-linecap: butt; stroke-width: 1;"/>
+			<path d="M 194.902280,247.624211 L 200.399023,249.841053 Z" style="stroke: rgb(93%,50%,93%); stroke-linecap: butt; stroke-width: 1;"/>
+			<path d="M 200.399023,249.841053 L 205.895765,263.142105 Z" style="stroke: rgb(93%,50%,93%); stroke-linecap: butt; stroke-width: 1;"/>
+			<path d="M 205.895765,263.142105 L 211.392508,265.358947 Z" style="stroke: rgb(93%,50%,93%); stroke-linecap: butt; stroke-width: 1;"/>
+			<path d="M 211.392508,265.358947 L 216.889251,247.624211 Z" style="stroke: rgb(93%,50%,93%); stroke-linecap: butt; stroke-width: 1;"/>
+			<path d="M 216.889251,247.624211 L 222.385993,247.624211 Z" style="stroke: rgb(93%,50%,93%); stroke-linecap: butt; stroke-width: 1;"/>
+			<path d="M 222.385993,247.624211 L 227.882736,247.624211 Z" style="stroke: rgb(93%,50%,93%); stroke-linecap: butt; stroke-width: 1;"/>
+			<path d="M 227.882736,247.624211 L 233.379479,238.756842 Z" style="stroke: rgb(93%,50%,93%); stroke-linecap: butt; stroke-width: 1;"/>
+			<path d="M 233.379479,238.756842 L 238.876221,252.057895 Z" style="stroke: rgb(93%,50%,93%); stroke-linecap: butt; stroke-width: 1;"/>
+			<path d="M 238.876221,252.057895 L 244.372964,263.142105 Z" style="stroke: rgb(93%,50%,93%); stroke-linecap: butt; stroke-width: 1;"/>
+			<path d="M 244.372964,263.142105 L 249.869707,265.358947 Z" style="stroke: rgb(93%,50%,93%); stroke-linecap: butt; stroke-width: 1;"/>
+			<path d="M 249.869707,265.358947 L 255.366450,272.009474 Z" style="stroke: rgb(93%,50%,93%); stroke-linecap: butt; stroke-width: 1;"/>
+			<path d="M 255.366450,272.009474 L 260.863192,269.792632 Z" style="stroke: rgb(93%,50%,93%); stroke-linecap: butt; stroke-width: 1;"/>
+			<path d="M 260.863192,269.792632 L 266.359935,254.274737 Z" style="stroke: rgb(93%,50%,93%); stroke-linecap: butt; stroke-width: 1;"/>
+			<path d="M 266.359935,254.274737 L 271.856678,247.624211 Z" style="stroke: rgb(93%,50%,93%); stroke-linecap: butt; stroke-width: 1;"/>
+			<path d="M 271.856678,247.624211 L 277.353420,245.407368 Z" style="stroke: rgb(93%,50%,93%); stroke-linecap: butt; stroke-width: 1;"/>
+			<path d="M 277.353420,245.407368 L 282.850163,247.624211 Z" style="stroke: rgb(93%,50%,93%); stroke-linecap: butt; stroke-width: 1;"/>
+			<path d="M 282.850163,247.624211 L 288.346906,252.057895 Z" style="stroke: rgb(93%,50%,93%); stroke-linecap: butt; stroke-width: 1;"/>
+			<path d="M 288.346906,252.057895 L 293.843648,254.274737 Z" style="stroke: rgb(93%,50%,93%); stroke-linecap: butt; stroke-width: 1;"/>
+			<path d="M 293.843648,254.274737 L 299.340391,260.925263 Z" style="stroke: rgb(93%,50%,93%); stroke-linecap: butt; stroke-width: 1;"/>
+			<path d="M 299.340391,260.925263 L 304.837134,256.491579 Z" style="stroke: rgb(93%,50%,93%); stroke-linecap: butt; stroke-width: 1;"/>
+			<path d="M 304.837134,256.491579 L 310.333876,256.491579 Z" style="stroke: rgb(93%,50%,93%); stroke-linecap: butt; stroke-width: 1;"/>
+			<path d="M 310.333876,256.491579 L 315.830619,256.491579 Z" style="stroke: rgb(93%,50%,93%); stroke-linecap: butt; stroke-width: 1;"/>
+			<path d="M 315.830619,256.491579 L 321.327362,260.925263 Z" style="stroke: rgb(93%,50%,93%); stroke-linecap: butt; stroke-width: 1;"/>
+			<path d="M 321.327362,260.925263 L 326.824104,263.142105 Z" style="stroke: rgb(93%,50%,93%); stroke-linecap: butt; stroke-width: 1;"/>
+			<path d="M 326.824104,263.142105 L 332.320847,252.057895 Z" style="stroke: rgb(93%,50%,93%); stroke-linecap: butt; stroke-width: 1;"/>
+			<path d="M 332.320847,252.057895 L 337.817590,263.142105 Z" style="stroke: rgb(93%,50%,93%); stroke-linecap: butt; stroke-width: 1;"/>
+			<path d="M 337.817590,263.142105 L 343.314332,258.708421 Z" style="stroke: rgb(93%,50%,93%); stroke-linecap: butt; stroke-width: 1;"/>
+			<path d="M 343.314332,258.708421 L 348.811075,247.624211 Z" style="stroke: rgb(93%,50%,93%); stroke-linecap: butt; stroke-width: 1;"/>
+			<path d="M 348.811075,247.624211 L 354.307818,256.491579 Z" style="stroke: rgb(93%,50%,93%); stroke-linecap: butt; stroke-width: 1;"/>
+			<path d="M 354.307818,256.491579 L 359.804560,256.491579 Z" style="stroke: rgb(93%,50%,93%); stroke-linecap: butt; stroke-width: 1;"/>
+			<path d="M 359.804560,256.491579 L 365.301303,260.925263 Z" style="stroke: rgb(93%,50%,93%); stroke-linecap: butt; stroke-width: 1;"/>
+			<path d="M 365.301303,260.925263 L 370.798046,260.925263 Z" style="stroke: rgb(93%,50%,93%); stroke-linecap: butt; stroke-width: 1;"/>
+			<path d="M 370.798046,260.925263 L 376.294788,252.057895 Z" style="stroke: rgb(93%,50%,93%); stroke-linecap: butt; stroke-width: 1;"/>
+			<path d="M 376.294788,252.057895 L 381.791531,254.274737 Z" style="stroke: rgb(93%,50%,93%); stroke-linecap: butt; stroke-width: 1;"/>
+			<path d="M 381.791531,254.274737 L 387.288274,260.925263 Z" style="stroke: rgb(93%,50%,93%); stroke-linecap: butt; stroke-width: 1;"/>
+			<path d="M 387.288274,260.925263 L 392.785016,263.142105 Z" style="stroke: rgb(93%,50%,93%); stroke-linecap: butt; stroke-width: 1;"/>
+			<path d="M 392.785016,263.142105 L 398.281759,260.925263 Z" style="stroke: rgb(93%,50%,93%); stroke-linecap: butt; stroke-width: 1;"/>
+			<path d="M 398.281759,260.925263 L 403.778502,269.792632 Z" style="stroke: rgb(93%,50%,93%); stroke-linecap: butt; stroke-width: 1;"/>
+			<path d="M 403.778502,269.792632 L 409.275244,272.009474 Z" style="stroke: rgb(93%,50%,93%); stroke-linecap: butt; stroke-width: 1;"/>
+			<path d="M 409.275244,272.009474 L 414.771987,258.708421 Z" style="stroke: rgb(93%,50%,93%); stroke-linecap: butt; stroke-width: 1;"/>
+			<path d="M 414.771987,258.708421 L 420.268730,263.142105 Z" style="stroke: rgb(93%,50%,93%); stroke-linecap: butt; stroke-width: 1;"/>
+			<path d="M 420.268730,263.142105 L 425.765472,263.142105 Z" style="stroke: rgb(93%,50%,93%); stroke-linecap: butt; stroke-width: 1;"/>
+			<path d="M 425.765472,263.142105 L 431.262215,258.708421 Z" style="stroke: rgb(93%,50%,93%); stroke-linecap: butt; stroke-width: 1;"/>
+			<path d="M 431.262215,258.708421 L 436.758958,260.925263 Z" style="stroke: rgb(93%,50%,93%); stroke-linecap: butt; stroke-width: 1;"/>
+			<path d="M 436.758958,260.925263 L 442.255700,263.142105 Z" style="stroke: rgb(93%,50%,93%); stroke-linecap: butt; stroke-width: 1;"/>
+			<path d="M 442.255700,263.142105 L 447.752443,265.358947 Z" style="stroke: rgb(93%,50%,93%); stroke-linecap: butt; stroke-width: 1;"/>
+			<path d="M 447.752443,265.358947 L 453.249186,260.925263 Z" style="stroke: rgb(93%,50%,93%); stroke-linecap: butt; stroke-width: 1;"/>
+			<path d="M 453.249186,260.925263 L 458.745928,249.841053 Z" style="stroke: rgb(93%,50%,93%); stroke-linecap: butt; stroke-width: 1;"/>
+			<path d="M 458.745928,249.841053 L 464.242671,260.925263 Z" style="stroke: rgb(93%,50%,93%); stroke-linecap: butt; stroke-width: 1;"/>
+			<path d="M 464.242671,260.925263 L 469.739414,260.925263 Z" style="stroke: rgb(93%,50%,93%); stroke-linecap: butt; stroke-width: 1;"/>
+			<path d="M 469.739414,260.925263 L 475.236156,240.973684 Z" style="stroke: rgb(93%,50%,93%); stroke-linecap: butt; stroke-width: 1;"/>
+			<path d="M 475.236156,240.973684 L 480.732899,236.540000 Z" style="stroke: rgb(93%,50%,93%); stroke-linecap: butt; stroke-width: 1;"/>
+			<path d="M 480.732899,236.540000 L 486.229642,252.057895 Z" style="stroke: rgb(93%,50%,93%); stroke-linecap: butt; stroke-width: 1;"/>
+			<path d="M 486.229642,252.057895 L 491.726384,263.142105 Z" style="stroke: rgb(93%,50%,93%); stroke-linecap: butt; stroke-width: 1;"/>
+			<path d="M 491.726384,263.142105 L 497.223127,256.491579 Z" style="stroke: rgb(93%,50%,93%); stroke-linecap: butt; stroke-width: 1;"/>
+			<path d="M 497.223127,256.491579 L 502.719870,265.358947 Z" style="stroke: rgb(93%,50%,93%); stroke-linecap: butt; stroke-width: 1;"/>
+			<path d="M 502.719870,265.358947 L 508.216612,260.925263 Z" style="stroke: rgb(93%,50%,93%); stroke-linecap: butt; stroke-width: 1;"/>
+			<path d="M 508.216612,260.925263 L 513.713355,254.274737 Z" style="stroke: rgb(93%,50%,93%); stroke-linecap: butt; stroke-width: 1;"/>
+			<path d="M 513.713355,254.274737 L 519.210098,267.575789 Z" style="stroke: rgb(93%,50%,93%); stroke-linecap: butt; stroke-width: 1;"/>
+			<path d="M 519.210098,267.575789 L 524.706840,265.358947 Z" style="stroke: rgb(93%,50%,93%); stroke-linecap: butt; stroke-width: 1;"/>
+			<path d="M 524.706840,265.358947 L 530.203583,252.057895 Z" style="stroke: rgb(93%,50%,93%); stroke-linecap: butt; stroke-width: 1;"/>
+			<path d="M 530.203583,252.057895 L 535.700326,249.841053 Z" style="stroke: rgb(93%,50%,93%); stroke-linecap: butt; stroke-width: 1;"/>
+			<path d="M 535.700326,249.841053 L 541.197068,249.841053 Z" style="stroke: rgb(93%,50%,93%); stroke-linecap: butt; stroke-width: 1;"/>
+			<path d="M 541.197068,249.841053 L 546.693811,247.624211 Z" style="stroke: rgb(93%,50%,93%); stroke-linecap: butt; stroke-width: 1;"/>
+			<path d="M 546.693811,247.624211 L 552.190554,245.407368 Z" style="stroke: rgb(93%,50%,93%); stroke-linecap: butt; stroke-width: 1;"/>
+			<path d="M 552.190554,245.407368 L 557.687296,252.057895 Z" style="stroke: rgb(93%,50%,93%); stroke-linecap: butt; stroke-width: 1;"/>
+			<path d="M 557.687296,252.057895 L 563.184039,247.624211 Z" style="stroke: rgb(93%,50%,93%); stroke-linecap: butt; stroke-width: 1;"/>
+			<path d="M 563.184039,247.624211 L 568.680782,252.057895 Z" style="stroke: rgb(93%,50%,93%); stroke-linecap: butt; stroke-width: 1;"/>
+			<path d="M 568.680782,252.057895 L 570.000000,269.792632 Z" style="stroke: rgb(93%,50%,93%); stroke-linecap: butt; stroke-width: 1;"/>
+			<path d="M 30.000000,89.792632 L 34.177524,89.792632 Z" style="stroke: rgb(93%,50%,93%); stroke-linecap: butt; stroke-width: 1;"/>
+			<path d="M 34.177524,89.792632 L 39.674267,80.925263 Z" style="stroke: rgb(93%,50%,93%); stroke-linecap: butt; stroke-width: 1;"/>
+			<path d="M 39.674267,80.925263 L 45.171010,76.491579 Z" style="stroke: rgb(93%,50%,93%); stroke-linecap: butt; stroke-width: 1;"/>
+			<path d="M 45.171010,76.491579 L 50.667752,83.142105 Z" style="stroke: rgb(93%,50%,93%); stroke-linecap: butt; stroke-width: 1;"/>
+			<path d="M 50.667752,83.142105 L 56.164495,72.057895 Z" style="stroke: rgb(93%,50%,93%); stroke-linecap: butt; stroke-width: 1;"/>
+			<path d="M 56.164495,72.057895 L 61.661238,58.756842 Z" style="stroke: rgb(93%,50%,93%); stroke-linecap: butt; stroke-width: 1;"/>
+			<path d="M 61.661238,58.756842 L 67.157980,69.841053 Z" style="stroke: rgb(93%,50%,93%); stroke-linecap: butt; stroke-width: 1;"/>
+			<path d="M 67.157980,69.841053 L 72.654723,74.274737 Z" style="stroke: rgb(93%,50%,93%); stroke-linecap: butt; stroke-width: 1;"/>
+			<path d="M 72.654723,74.274737 L 78.151466,74.274737 Z" style="stroke: rgb(93%,50%,93%); stroke-linecap: butt; stroke-width: 1;"/>
+			<path d="M 78.151466,74.274737 L 83.648208,83.142105 Z" style="stroke: rgb(93%,50%,93%); stroke-linecap: butt; stroke-width: 1;"/>
+			<path d="M 83.648208,83.142105 L 89.144951,83.142105 Z" style="stroke: rgb(93%,50%,93%); stroke-linecap: butt; stroke-width: 1;"/>
+			<path d="M 89.144951,83.142105 L 94.641694,89.792632 Z" style="stroke: rgb(93%,50%,93%); stroke-linecap: butt; stroke-width: 1;"/>
+			<path d="M 94.641694,89.792632 L 100.138436,98.660000 Z" style="stroke: rgb(93%,50%,93%); stroke-linecap: butt; stroke-width: 1;"/>
+			<path d="M 100.138436,98.660000 L 105.635179,85.358947 Z" style="stroke: rgb(93%,50%,93%); stroke-linecap: butt; stroke-width: 1;"/>
+			<path d="M 105.635179,85.358947 L 111.131922,85.358947 Z" style="stroke: rgb(93%,50%,93%); stroke-linecap: butt; stroke-width: 1;"/>
+			<path d="M 111.131922,85.358947 L 116.628664,87.575789 Z" style="stroke: rgb(93%,50%,93%); stroke-linecap: butt; stroke-width: 1;"/>
+			<path d="M 116.628664,87.575789 L 122.125407,78.708421 Z" style="stroke: rgb(93%,50%,93%); stroke-linecap: butt; stroke-width: 1;"/>
+			<path d="M 122.125407,78.708421 L 127.622150,78.708421 Z" style="stroke: rgb(93%,50%,93%); stroke-linecap: butt; stroke-width: 1;"/>
+			<path d="M 127.622150,78.708421 L 133.118893,80.925263 Z" style="stroke: rgb(93%,50%,93%); stroke-linecap: butt; stroke-width: 1;"/>
+			<path d="M 133.118893,80.925263 L 138.615635,74.274737 Z" style="stroke: rgb(93%,50%,93%); stroke-linecap: butt; stroke-width: 1;"/>
+			<path d="M 138.615635,74.274737 L 144.112378,80.925263 Z" style="stroke: rgb(93%,50%,93%); stroke-linecap: butt; stroke-width: 1;"/>
+			<path d="M 144.112378,80.925263 L 149.609121,83.142105 Z" style="stroke: rgb(93%,50%,93%); stroke-linecap: butt; stroke-width: 1;"/>
+			<path d="M 149.609121,83.142105 L 155.105863,72.057895 Z" style="stroke: rgb(93%,50%,93%); stroke-linecap: butt; stroke-width: 1;"/>
+			<path d="M 155.105863,72.057895 L 160.602606,74.274737 Z" style="stroke: rgb(93%,50%,93%); stroke-linecap: butt; stroke-width: 1;"/>
+			<path d="M 160.602606,74.274737 L 166.099349,83.142105 Z" style="stroke: rgb(93%,50%,93%); stroke-linecap: butt; stroke-width: 1;"/>
+			<path d="M 166.099349,83.142105 L 171.596091,94.226316 Z" style="stroke: rgb(93%,50%,93%); stroke-linecap: butt; stroke-width: 1;"/>
+			<path d="M 171.596091,94.226316 L 177.092834,94.226316 Z" style="stroke: rgb(93%,50%,93%); stroke-linecap: butt; stroke-width: 1;"/>
+			<path d="M 177.092834,94.226316 L 182.589577,94.226316 Z" style="stroke: rgb(93%,50%,93%); stroke-linecap: butt; stroke-width: 1;"/>
+			<path d="M 182.589577,94.226316 L 188.086319,92.009474 Z" style="stroke: rgb(93%,50%,93%); stroke-linecap: butt; stroke-width: 1;"/>
+			<path d="M 188.086319,92.009474 L 193.583062,80.925263 Z" style="stroke: rgb(93%,50%,93%); stroke-linecap: butt; stroke-width: 1;"/>
+			<path d="M 193.583062,80.925263 L 199.079805,85.358947 Z" style="stroke: rgb(93%,50%,93%); stroke-linecap: butt; stroke-width: 1;"/>
+			<path d="M 199.079805,85.358947 L 204.576547,85.358947 Z" style="stroke: rgb(93%,50%,93%); stroke-linecap: butt; stroke-width: 1;"/>
+			<path d="M 204.576547,85.358947 L 210.073290,74.274737 Z" style="stroke: rgb(93%,50%,93%); stroke-linecap: butt; stroke-width: 1;"/>
+			<path d="M 210.073290,74.274737 L 215.570033,67.624211 Z" style="stroke: rgb(93%,50%,93%); stroke-linecap: butt; stroke-width: 1;"/>
+			<path d="M 215.570033,67.624211 L 221.066775,65.407368 Z" style="stroke: rgb(93%,50%,93%); stroke-linecap: butt; stroke-width: 1;"/>
+			<path d="M 221.066775,65.407368 L 226.563518,74.274737 Z" style="stroke: rgb(93%,50%,93%); stroke-linecap: butt; stroke-width: 1;"/>
+			<path d="M 226.563518,74.274737 L 232.060261,74.274737 Z" style="stroke: rgb(93%,50%,93%); stroke-linecap: butt; stroke-width: 1;"/>
+			<path d="M 232.060261,74.274737 L 237.557003,69.841053 Z" style="stroke: rgb(93%,50%,93%); stroke-linecap: butt; stroke-width: 1;"/>
+			<path d="M 237.557003,69.841053 L 243.053746,63.190526 Z" style="stroke: rgb(93%,50%,93%); stroke-linecap: butt; stroke-width: 1;"/>
+			<path d="M 243.053746,63.190526 L 248.550489,63.190526 Z" style="stroke: rgb(93%,50%,93%); stroke-linecap: butt; stroke-width: 1;"/>
+			<path d="M 248.550489,63.190526 L 254.047231,63.190526 Z" style="stroke: rgb(93%,50%,93%); stroke-linecap: butt; stroke-width: 1;"/>
+			<path d="M 254.047231,63.190526 L 259.543974,60.973684 Z" style="stroke: rgb(93%,50%,93%); stroke-linecap: butt; stroke-width: 1;"/>
+			<path d="M 259.543974,60.973684 L 265.040717,65.407368 Z" style="stroke: rgb(93%,50%,93%); stroke-linecap: butt; stroke-width: 1;"/>
+			<path d="M 265.040717,65.407368 L 270.537459,72.057895 Z" style="stroke: rgb(93%,50%,93%); stroke-linecap: butt; stroke-width: 1;"/>
+			<path d="M 270.537459,72.057895 L 276.034202,83.142105 Z" style="stroke: rgb(93%,50%,93%); stroke-linecap: butt; stroke-width: 1;"/>
+			<path d="M 276.034202,83.142105 L 281.530945,78.708421 Z" style="stroke: rgb(93%,50%,93%); stroke-linecap: butt; stroke-width: 1;"/>
+			<path d="M 281.530945,78.708421 L 287.027687,67.624211 Z" style="stroke: rgb(93%,50%,93%); stroke-linecap: butt; stroke-width: 1;"/>
+			<path d="M 287.027687,67.624211 L 292.524430,67.624211 Z" style="stroke: rgb(93%,50%,93%); stroke-linecap: butt; stroke-width: 1;"/>
+			<path d="M 292.524430,67.624211 L 298.021173,67.624211 Z" style="stroke: rgb(93%,50%,93%); stroke-linecap: butt; stroke-width: 1;"/>
+			<path d="M 298.021173,67.624211 L 303.517915,67.624211 Z" style="stroke: rgb(93%,50%,93%); stroke-linecap: butt; stroke-width: 1;"/>
+			<path d="M 303.517915,67.624211 L 309.014658,67.624211 Z" style="stroke: rgb(93%,50%,93%); stroke-linecap: butt; stroke-width: 1;"/>
+			<path d="M 309.014658,67.624211 L 314.511401,74.274737 Z" style="stroke: rgb(93%,50%,93%); stroke-linecap: butt; stroke-width: 1;"/>
+			<path d="M 314.511401,74.274737 L 320.008143,67.624211 Z" style="stroke: rgb(93%,50%,93%); stroke-linecap: butt; stroke-width: 1;"/>
+			<path d="M 320.008143,67.624211 L 325.504886,65.407368 Z" style="stroke: rgb(93%,50%,93%); stroke-linecap: butt; stroke-width: 1;"/>
+			<path d="M 325.504886,65.407368 L 331.001629,74.274737 Z" style="stroke: rgb(93%,50%,93%); stroke-linecap: butt; stroke-width: 1;"/>
+			<path d="M 331.001629,74.274737 L 336.498371,72.057895 Z" style="stroke: rgb(93%,50%,93%); stroke-linecap: butt; stroke-width: 1;"/>
+			<path d="M 336.498371,72.057895 L 341.995114,72.057895 Z" style="stroke: rgb(93%,50%,93%); stroke-linecap: butt; stroke-width: 1;"/>
+			<path d="M 341.995114,72.057895 L 347.491857,65.407368 Z" style="stroke: rgb(93%,50%,93%); stroke-linecap: butt; stroke-width: 1;"/>
+			<path d="M 347.491857,65.407368 L 352.988599,65.407368 Z" style="stroke: rgb(93%,50%,93%); stroke-linecap: butt; stroke-width: 1;"/>
+			<path d="M 352.988599,65.407368 L 358.485342,80.925263 Z" style="stroke: rgb(93%,50%,93%); stroke-linecap: butt; stroke-width: 1;"/>
+			<path d="M 358.485342,80.925263 L 363.982085,87.575789 Z" style="stroke: rgb(93%,50%,93%); stroke-linecap: butt; stroke-width: 1;"/>
+			<path d="M 363.982085,87.575789 L 369.478827,83.142105 Z" style="stroke: rgb(93%,50%,93%); stroke-linecap: butt; stroke-width: 1;"/>
+			<path d="M 369.478827,83.142105 L 374.975570,80.925263 Z" style="stroke: rgb(93%,50%,93%); stroke-linecap: butt; stroke-width: 1;"/>
+			<path d="M 374.975570,80.925263 L 380.472313,76.491579 Z" style="stroke: rgb(93%,50%,93%); stroke-linecap: butt; stroke-width: 1;"/>
+			<path d="M 380.472313,76.491579 L 385.969055,72.057895 Z" style="stroke: rgb(93%,50%,93%); stroke-linecap: butt; stroke-width: 1;"/>
+			<path d="M 385.969055,72.057895 L 391.465798,72.057895 Z" style="stroke: rgb(93%,50%,93%); stroke-linecap: butt; stroke-width: 1;"/>
+			<path d="M 391.465798,72.057895 L 396.962541,69.841053 Z" style="stroke: rgb(93%,50%,93%); stroke-linecap: butt; stroke-width: 1;"/>
+			<path d="M 396.962541,69.841053 L 402.459283,78.708421 Z" style="stroke: rgb(93%,50%,93%); stroke-linecap: butt; stroke-width: 1;"/>
+			<path d="M 402.459283,78.708421 L 407.956026,74.274737 Z" style="stroke: rgb(93%,50%,93%); stroke-linecap: butt; stroke-width: 1;"/>
+			<path d="M 407.956026,74.274737 L 413.452769,63.190526 Z" style="stroke: rgb(93%,50%,93%); stroke-linecap: butt; stroke-width: 1;"/>
+			<path d="M 413.452769,63.190526 L 418.949511,67.624211 Z" style="stroke: rgb(93%,50%,93%); stroke-linecap: butt; stroke-width: 1;"/>
+			<path d="M 418.949511,67.624211 L 424.446254,65.407368 Z" style="stroke: rgb(93%,50%,93%); stroke-linecap: butt; stroke-width: 1;"/>
+			<path d="M 424.446254,65.407368 L 429.942997,72.057895 Z" style="stroke: rgb(93%,50%,93%); stroke-linecap: butt; stroke-width: 1;"/>
+			<path d="M 429.942997,72.057895 L 435.439739,76.491579 Z" style="stroke: rgb(93%,50%,93%); stroke-linecap: butt; stroke-width: 1;"/>
+			<path d="M 435.439739,76.491579 L 440.936482,83.142105 Z" style="stroke: rgb(93%,50%,93%); stroke-linecap: butt; stroke-width: 1;"/>
+			<path d="M 440.936482,83.142105 L 446.433225,83.142105 Z" style="stroke: rgb(93%,50%,93%); stroke-linecap: butt; stroke-width: 1;"/>
+			<path d="M 446.433225,83.142105 L 451.929967,76.491579 Z" style="stroke: rgb(93%,50%,93%); stroke-linecap: butt; stroke-width: 1;"/>
+			<path d="M 451.929967,76.491579 L 457.426710,74.274737 Z" style="stroke: rgb(93%,50%,93%); stroke-linecap: butt; stroke-width: 1;"/>
+			<path d="M 457.426710,74.274737 L 462.923453,69.841053 Z" style="stroke: rgb(93%,50%,93%); stroke-linecap: butt; stroke-width: 1;"/>
+			<path d="M 462.923453,69.841053 L 468.420195,78.708421 Z" style="stroke: rgb(93%,50%,93%); stroke-linecap: butt; stroke-width: 1;"/>
+			<path d="M 468.420195,78.708421 L 473.916938,69.841053 Z" style="stroke: rgb(93%,50%,93%); stroke-linecap: butt; stroke-width: 1;"/>
+			<path d="M 473.916938,69.841053 L 479.413681,58.756842 Z" style="stroke: rgb(93%,50%,93%); stroke-linecap: butt; stroke-width: 1;"/>
+			<path d="M 479.413681,58.756842 L 484.910423,63.190526 Z" style="stroke: rgb(93%,50%,93%); stroke-linecap: butt; stroke-width: 1;"/>
+			<path d="M 484.910423,63.190526 L 490.407166,74.274737 Z" style="stroke: rgb(93%,50%,93%); stroke-linecap: butt; stroke-width: 1;"/>
+			<path d="M 490.407166,74.274737 L 495.903909,76.491579 Z" style="stroke: rgb(93%,50%,93%); stroke-linecap: butt; stroke-width: 1;"/>
+			<path d="M 495.903909,76.491579 L 501.400651,83.142105 Z" style="stroke: rgb(93%,50%,93%); stroke-linecap: butt; stroke-width: 1;"/>
+			<path d="M 501.400651,83.142105 L 506.897394,96.443158 Z" style="stroke: rgb(93%,50%,93%); stroke-linecap: butt; stroke-width: 1;"/>
+			<path d="M 506.897394,96.443158 L 512.394137,74.274737 Z" style="stroke: rgb(93%,50%,93%); stroke-linecap: butt; stroke-width: 1;"/>
+			<path d="M 512.394137,74.274737 L 517.890879,63.190526 Z" style="stroke: rgb(93%,50%,93%); stroke-linecap: butt; stroke-width: 1;"/>
+			<path d="M 517.890879,63.190526 L 523.387622,80.925263 Z" style="stroke: rgb(93%,50%,93%); stroke-linecap: butt; stroke-width: 1;"/>
+			<path d="M 523.387622,80.925263 L 528.884365,89.792632 Z" style="stroke: rgb(93%,50%,93%); stroke-linecap: butt; stroke-width: 1;"/>
+			<path d="M 528.884365,89.792632 L 534.381107,89.792632 Z" style="stroke: rgb(93%,50%,93%); stroke-linecap: butt; stroke-width: 1;"/>
+			<path d="M 534.381107,89.792632 L 539.877850,78.708421 Z" style="stroke: rgb(93%,50%,93%); stroke-linecap: butt; stroke-width: 1;"/>
+			<path d="M 539.877850,78.708421 L 545.374593,76.491579 Z" style="stroke: rgb(93%,50%,93%); stroke-linecap: butt; stroke-width: 1;"/>
+			<path d="M 545.374593,76.491579 L 550.871336,76.491579 Z" style="stroke: rgb(93%,50%,93%); stroke-linecap: butt; stroke-width: 1;"/>
+			<path d="M 550.871336,76.491579 L 556.368078,74.274737 Z" style="stroke: rgb(93%,50%,93%); stroke-linecap: butt; stroke-width: 1;"/>
+			<path d="M 556.368078,74.274737 L 561.864821,63.190526 Z" style="stroke: rgb(93%,50%,93%); stroke-linecap: butt; stroke-width: 1;"/>
+			<path d="M 561.864821,63.190526 L 564.283388,63.190526 Z" style="stroke: rgb(93%,50%,93%); stroke-linecap: butt; stroke-width: 1;"/>
+			<polygon points="43.63192 338.6, 131.7997 338.6, 131.7997 343.46, 43.63192 343.46" style="stroke: rgb(85%,43%,57%); stroke-linecap: butt; stroke-width: 1; fill: rgb(85%,43%,57%);"/>
+			<polygon points="43.63192 338.6, 48.02932 338.6, 48.02932 343.46, 43.63192 343.46" style="stroke: rgb(100%,0%,0%); stroke-linecap: butt; stroke-width: 1; fill: rgb(100%,0%,0%);"/>
+			<polygon points="126.0831 338.6, 131.7997 338.6, 131.7997 343.46, 126.0831 343.46" style="stroke: rgb(100%,0%,0%); stroke-linecap: butt; stroke-width: 1; fill: rgb(100%,0%,0%);"/>
+			<polygon points="109.373 333.74, 196.4414 333.74, 196.4414 338.6, 109.373 338.6" style="stroke: rgb(85%,43%,57%); stroke-linecap: butt; stroke-width: 1; fill: rgb(85%,43%,57%);"/>
+			<polygon points="109.373 333.74, 113.9902 333.74, 113.9902 338.6, 109.373 338.6" style="stroke: rgb(100%,0%,0%); stroke-linecap: butt; stroke-width: 1; fill: rgb(100%,0%,0%);"/>
+			<polygon points="191.1645 333.74, 196.4414 333.74, 196.4414 338.6, 191.1645 338.6" style="stroke: rgb(100%,0%,0%); stroke-linecap: butt; stroke-width: 1; fill: rgb(100%,0%,0%);"/>
+			<polygon points="177.0928 338.6, 265.7003 338.6, 265.7003 343.46, 177.0928 343.46" style="stroke: rgb(85%,43%,57%); stroke-linecap: butt; stroke-width: 1; fill: rgb(85%,43%,57%);"/>
+			<polygon points="177.0928 338.6, 181.7101 338.6, 181.7101 343.46, 177.0928 343.46" style="stroke: rgb(100%,0%,0%); stroke-linecap: butt; stroke-width: 1; fill: rgb(100%,0%,0%);"/>
+			<polygon points="261.0831 338.6, 265.7003 338.6, 265.7003 343.46, 261.0831 343.46" style="stroke: rgb(100%,0%,0%); stroke-linecap: butt; stroke-width: 1; fill: rgb(100%,0%,0%);"/>
+			<polygon points="244.5928 333.74, 334.0798 333.74, 334.0798 338.6, 244.5928 338.6" style="stroke: rgb(85%,43%,57%); stroke-linecap: butt; stroke-width: 1; fill: rgb(85%,43%,57%);"/>
+			<polygon points="244.5928 333.74, 248.9902 333.74, 248.9902 338.6, 244.5928 338.6" style="stroke: rgb(100%,0%,0%); stroke-linecap: butt; stroke-width: 1; fill: rgb(100%,0%,0%);"/>
+			<polygon points="328.8029 333.74, 334.0798 333.74, 334.0798 338.6, 328.8029 338.6" style="stroke: rgb(100%,0%,0%); stroke-linecap: butt; stroke-width: 1; fill: rgb(100%,0%,0%);"/>
+			<polygon points="313.6319 338.6, 404.2182 338.6, 404.2182 343.46, 313.6319 343.46" style="stroke: rgb(85%,43%,57%); stroke-linecap: butt; stroke-width: 1; fill: rgb(85%,43%,57%);"/>
+			<polygon points="313.6319 338.6, 318.9088 338.6, 318.9088 343.46, 313.6319 343.46" style="stroke: rgb(100%,0%,0%); stroke-linecap: butt; stroke-width: 1; fill: rgb(100%,0%,0%);"/>
+			<polygon points="399.3811 338.6, 404.2182 338.6, 404.2182 343.46, 399.3811 343.46" style="stroke: rgb(100%,0%,0%); stroke-linecap: butt; stroke-width: 1; fill: rgb(100%,0%,0%);"/>
+			<polygon points="385.3094 333.74, 475.0163 333.74, 475.0163 338.6, 385.3094 338.6" style="stroke: rgb(85%,43%,57%); stroke-linecap: butt; stroke-width: 1; fill: rgb(85%,43%,57%);"/>
+			<polygon points="385.3094 333.74, 389.9267 333.74, 389.9267 338.6, 385.3094 338.6" style="stroke: rgb(100%,0%,0%); stroke-linecap: butt; stroke-width: 1; fill: rgb(100%,0%,0%);"/>
+			<polygon points="468.8599 333.74, 475.0163 333.74, 475.0163 338.6, 468.8599 338.6" style="stroke: rgb(100%,0%,0%); stroke-linecap: butt; stroke-width: 1; fill: rgb(100%,0%,0%);"/>
+			<polygon points="456.1075 338.6, 541.1971 338.6, 541.1971 343.46, 456.1075 343.46" style="stroke: rgb(85%,43%,57%); stroke-linecap: butt; stroke-width: 1; fill: rgb(85%,43%,57%);"/>
+			<polygon points="456.1075 338.6, 460.7248 338.6, 460.7248 343.46, 456.1075 343.46" style="stroke: rgb(100%,0%,0%); stroke-linecap: butt; stroke-width: 1; fill: rgb(100%,0%,0%);"/>
+			<polygon points="536.3599 338.6, 541.1971 338.6, 541.1971 343.46, 536.3599 343.46" style="stroke: rgb(100%,0%,0%); stroke-linecap: butt; stroke-width: 1; fill: rgb(100%,0%,0%);"/>
+			<polygon points="518.9902 333.74, 570 333.74, 570 338.6, 518.9902 338.6" style="stroke: rgb(85%,43%,57%); stroke-linecap: butt; stroke-width: 1; fill: rgb(85%,43%,57%);"/>
+			<polygon points="30 153.74, 68.03746 153.74, 68.03746 158.6, 30 158.6" style="stroke: rgb(85%,43%,57%); stroke-linecap: butt; stroke-width: 1; fill: rgb(85%,43%,57%);"/>
+			<polygon points="518.9902 333.74, 523.6075 333.74, 523.6075 338.6, 518.9902 338.6" style="stroke: rgb(100%,0%,0%); stroke-linecap: butt; stroke-width: 1; fill: rgb(100%,0%,0%);"/>
+			<polygon points="63.20033 153.74, 68.03746 153.74, 68.03746 158.6, 63.20033 158.6" style="stroke: rgb(100%,0%,0%); stroke-linecap: butt; stroke-width: 1; fill: rgb(100%,0%,0%);"/>
+			<polygon points="48.24919 158.6, 135.7573 158.6, 135.7573 163.46, 48.24919 163.46" style="stroke: rgb(85%,43%,57%); stroke-linecap: butt; stroke-width: 1; fill: rgb(85%,43%,57%);"/>
+			<polygon points="48.24919 158.6, 52.42671 158.6, 52.42671 163.46, 48.24919 163.46" style="stroke: rgb(100%,0%,0%); stroke-linecap: butt; stroke-width: 1; fill: rgb(100%,0%,0%);"/>
+			<polygon points="131.1401 158.6, 135.7573 158.6, 135.7573 163.46, 131.1401 163.46" style="stroke: rgb(100%,0%,0%); stroke-linecap: butt; stroke-width: 1; fill: rgb(100%,0%,0%);"/>
+			<polygon points="116.6287 153.74, 206.1156 153.74, 206.1156 158.6, 116.6287 158.6" style="stroke: rgb(85%,43%,57%); stroke-linecap: butt; stroke-width: 1; fill: rgb(85%,43%,57%);"/>
+			<polygon points="116.6287 153.74, 121.2459 153.74, 121.2459 158.6, 116.6287 158.6" style="stroke: rgb(100%,0%,0%); stroke-linecap: butt; stroke-width: 1; fill: rgb(100%,0%,0%);"/>
+			<polygon points="201.4984 153.74, 206.1156 153.74, 206.1156 158.6, 201.4984 158.6" style="stroke: rgb(100%,0%,0%); stroke-linecap: butt; stroke-width: 1; fill: rgb(100%,0%,0%);"/>
+			<polygon points="185.4479 158.6, 276.4739 158.6, 276.4739 163.46, 185.4479 163.46" style="stroke: rgb(85%,43%,57%); stroke-linecap: butt; stroke-width: 1; fill: rgb(85%,43%,57%);"/>
+			<polygon points="185.4479 158.6, 190.0651 158.6, 190.0651 163.46, 185.4479 163.46" style="stroke: rgb(100%,0%,0%); stroke-linecap: butt; stroke-width: 1; fill: rgb(100%,0%,0%);"/>
+			<polygon points="271.8567 158.6, 276.4739 158.6, 276.4739 163.46, 271.8567 163.46" style="stroke: rgb(100%,0%,0%); stroke-linecap: butt; stroke-width: 1; fill: rgb(100%,0%,0%);"/>
+			<polygon points="250.7492 153.74, 342.6547 153.74, 342.6547 158.6, 250.7492 158.6" style="stroke: rgb(85%,43%,57%); stroke-linecap: butt; stroke-width: 1; fill: rgb(85%,43%,57%);"/>
+			<polygon points="250.7492 153.74, 256.6857 153.74, 256.6857 158.6, 250.7492 158.6" style="stroke: rgb(100%,0%,0%); stroke-linecap: butt; stroke-width: 1; fill: rgb(100%,0%,0%);"/>
+			<polygon points="337.3779 153.74, 342.6547 153.74, 342.6547 158.6, 337.3779 158.6" style="stroke: rgb(100%,0%,0%); stroke-linecap: butt; stroke-width: 1; fill: rgb(100%,0%,0%);"/>
+			<polygon points="324.4055 158.6, 410.1547 158.6, 410.1547 163.46, 324.4055 163.46" style="stroke: rgb(85%,43%,57%); stroke-linecap: butt; stroke-width: 1; fill: rgb(85%,43%,57%);"/>
+			<polygon points="324.4055 158.6, 329.0228 158.6, 329.0228 163.46, 324.4055 163.46" style="stroke: rgb(100%,0%,0%); stroke-linecap: butt; stroke-width: 1; fill: rgb(100%,0%,0%);"/>
+			<polygon points="405.5375 158.6, 410.1547 158.6, 410.1547 163.46, 405.5375 163.46" style="stroke: rgb(100%,0%,0%); stroke-linecap: butt; stroke-width: 1; fill: rgb(100%,0%,0%);"/>
+			<polygon points="389.2671 153.74, 480.0733 153.74, 480.0733 158.6, 389.2671 158.6" style="stroke: rgb(85%,43%,57%); stroke-linecap: butt; stroke-width: 1; fill: rgb(85%,43%,57%);"/>
+			<polygon points="389.2671 153.74, 394.1042 153.74, 394.1042 158.6, 389.2671 158.6" style="stroke: rgb(100%,0%,0%); stroke-linecap: butt; stroke-width: 1; fill: rgb(100%,0%,0%);"/>
+			<polygon points="473.6971 153.74, 480.0733 153.74, 480.0733 158.6, 473.6971 158.6" style="stroke: rgb(100%,0%,0%); stroke-linecap: butt; stroke-width: 1; fill: rgb(100%,0%,0%);"/>
+			<polygon points="460.0651 158.6, 549.3322 158.6, 549.3322 163.46, 460.0651 163.46" style="stroke: rgb(85%,43%,57%); stroke-linecap: butt; stroke-width: 1; fill: rgb(85%,43%,57%);"/>
+			<polygon points="460.0651 158.6, 465.342 158.6, 465.342 163.46, 460.0651 163.46" style="stroke: rgb(100%,0%,0%); stroke-linecap: butt; stroke-width: 1; fill: rgb(100%,0%,0%);"/>
+			<polygon points="544.2752 158.6, 549.3322 158.6, 549.3322 163.46, 544.2752 163.46" style="stroke: rgb(100%,0%,0%); stroke-linecap: butt; stroke-width: 1; fill: rgb(100%,0%,0%);"/>
+			<path d="M 30.000000,257.600000 L 570.000000,257.600000 Z" style="stroke: rgb(0%,0%,0%); stroke-linecap: butt; stroke-width: 1;"/>
+			<path d="M 30.000000,236.540000 L 30.000000,278.660000 Z" style="stroke: rgb(0%,0%,0%); stroke-linecap: butt; stroke-width: 1;"/>
+			<path d="M 569.780130,56.540000 L 569.780130,98.660000 Z" style="stroke: rgb(0%,0%,0%); stroke-linecap: butt; stroke-width: 1;"/>
+			<path d="M 30.000000,77.600000 L 569.780130,77.600000 Z" style="stroke: rgb(0%,0%,0%); stroke-linecap: butt; stroke-width: 1;"/>
+			<path d="M 30.000000,56.540000 L 30.000000,98.660000 Z" style="stroke: rgb(0%,0%,0%); stroke-linecap: butt; stroke-width: 1;"/>
+			<path d="M 249.869707,257.600000 L 249.869707,268.130000 Z" style="stroke: rgb(0%,0%,0%); stroke-linecap: butt; stroke-width: 1;"/>
+			<path d="M 469.739414,257.600000 L 469.739414,268.130000 Z" style="stroke: rgb(0%,0%,0%); stroke-linecap: butt; stroke-width: 1;"/>
+			<path d="M 149.609121,77.600000 L 149.609121,88.130000 Z" style="stroke: rgb(0%,0%,0%); stroke-linecap: butt; stroke-width: 1;"/>
+			<path d="M 369.478827,77.600000 L 369.478827,88.130000 Z" style="stroke: rgb(0%,0%,0%); stroke-linecap: butt; stroke-width: 1;"/>
+			<path d="M 30.000000,338.600000 L 570.000000,338.600000 Z" style="stroke: rgb(0%,0%,0%); stroke-linecap: butt; stroke-width: 1;"/>
+			<path d="M 30.000000,333.740000 L 30.000000,343.460000 Z" style="stroke: rgb(0%,0%,0%); stroke-linecap: butt; stroke-width: 1;"/>
+			<path d="M 569.780130,153.740000 L 569.780130,163.460000 Z" style="stroke: rgb(0%,0%,0%); stroke-linecap: butt; stroke-width: 1;"/>
+			<path d="M 30.000000,158.600000 L 569.780130,158.600000 Z" style="stroke: rgb(0%,0%,0%); stroke-linecap: butt; stroke-width: 1;"/>
+			<path d="M 30.000000,153.740000 L 30.000000,163.460000 Z" style="stroke: rgb(0%,0%,0%); stroke-linecap: butt; stroke-width: 1;"/>
+			<g transform=" matrix(0.707107,0.707107,-0.707107,0.707107,249.869707,268.130000)">
+				<text style="font-family: Helvetica; font-size: 6px; fill: rgb(0%,0%,0%);" transform="translate(0,0) scale(1,-1)" x="0" y="0">1000</text>
+			</g>
+			<g transform=" matrix(0.707107,0.707107,-0.707107,0.707107,469.739414,268.130000)">
+				<text style="font-family: Helvetica; font-size: 6px; fill: rgb(0%,0%,0%);" transform="translate(0,0) scale(1,-1)" x="0" y="0">2000</text>
+			</g>
+			<g transform=" matrix(0.707107,0.707107,-0.707107,0.707107,149.609121,88.130000)">
+				<text style="font-family: Helvetica; font-size: 6px; fill: rgb(0%,0%,0%);" transform="translate(0,0) scale(1,-1)" x="0" y="0">3000</text>
+			</g>
+			<g transform=" matrix(0.707107,0.707107,-0.707107,0.707107,369.478827,88.130000)">
+				<text style="font-family: Helvetica; font-size: 6px; fill: rgb(0%,0%,0%);" transform="translate(0,0) scale(1,-1)" x="0" y="0">4000</text>
+			</g>
+			<g transform=" matrix(0.707107,0.707107,-0.707107,0.707107,30.000000,236.540000)">
+				<text style="font-family: Helvetica; font-size: 6px; fill: rgb(0%,0%,0%);" transform="translate(0,0) scale(1,-1)" x="0" y="0">0.260</text>
+			</g>
+			<g transform=" matrix(0.707107,0.707107,-0.707107,0.707107,30.000000,278.660000)">
+				<text style="font-family: Helvetica; font-size: 6px; fill: rgb(0%,0%,0%);" transform="translate(0,0) scale(1,-1)" x="0" y="0">0.640</text>
+			</g>
+			<g transform=" matrix(0.707107,0.707107,-0.707107,0.707107,30.000000,257.600000)">
+				<text style="font-family: Helvetica; font-size: 6px; fill: rgb(0%,0%,0%);" transform="translate(0,0) scale(1,-1)" x="0" y="0"></text>
+			</g>
+			<g transform=" matrix(0.707107,0.707107,-0.707107,0.707107,30.000000,56.540000)">
+				<text style="font-family: Helvetica; font-size: 6px; fill: rgb(0%,0%,0%);" transform="translate(0,0) scale(1,-1)" x="0" y="0">0.260</text>
+			</g>
+			<g transform=" matrix(0.707107,0.707107,-0.707107,0.707107,30.000000,98.660000)">
+				<text style="font-family: Helvetica; font-size: 6px; fill: rgb(0%,0%,0%);" transform="translate(0,0) scale(1,-1)" x="0" y="0">0.640</text>
+			</g>
+			<g transform=" matrix(0.707107,0.707107,-0.707107,0.707107,30.000000,77.600000)">
+				<text style="font-family: Helvetica; font-size: 6px; fill: rgb(0%,0%,0%);" transform="translate(0,0) scale(1,-1)" x="0" y="0"></text>
+			</g>
+			<g transform=" matrix(1.000000,0.000000,-0.000000,1.000000,87.715798,343.460000)">
+				<text style="font-family: Helvetica; font-size: 6px; fill: rgb(0%,0%,0%);" transform="translate(0,0) scale(1,-1)" x="0" y="0">1</text>
+			</g>
+			<g transform=" matrix(1.000000,0.000000,-0.000000,1.000000,152.907166,333.740000)">
+				<text style="font-family: Helvetica; font-size: 6px; fill: rgb(0%,0%,0%);" transform="translate(0,0) scale(1,-1)" x="0" y="0">2</text>
+			</g>
+			<g transform=" matrix(1.000000,0.000000,-0.000000,1.000000,221.396580,343.460000)">
+				<text style="font-family: Helvetica; font-size: 6px; fill: rgb(0%,0%,0%);" transform="translate(0,0) scale(1,-1)" x="0" y="0">3</text>
+			</g>
+			<g transform=" matrix(1.000000,0.000000,-0.000000,1.000000,289.336319,333.740000)">
+				<text style="font-family: Helvetica; font-size: 6px; fill: rgb(0%,0%,0%);" transform="translate(0,0) scale(1,-1)" x="0" y="0">4</text>
+			</g>
+			<g transform=" matrix(1.000000,0.000000,-0.000000,1.000000,358.925081,343.460000)">
+				<text style="font-family: Helvetica; font-size: 6px; fill: rgb(0%,0%,0%);" transform="translate(0,0) scale(1,-1)" x="0" y="0">5</text>
+			</g>
+			<g transform=" matrix(1.000000,0.000000,-0.000000,1.000000,430.162866,333.740000)">
+				<text style="font-family: Helvetica; font-size: 6px; fill: rgb(0%,0%,0%);" transform="translate(0,0) scale(1,-1)" x="0" y="0">6</text>
+			</g>
+			<g transform=" matrix(1.000000,0.000000,-0.000000,1.000000,498.652280,343.460000)">
+				<text style="font-family: Helvetica; font-size: 6px; fill: rgb(0%,0%,0%);" transform="translate(0,0) scale(1,-1)" x="0" y="0">7</text>
+			</g>
+			<g transform=" matrix(1.000000,0.000000,-0.000000,1.000000,544.495114,333.740000)">
+				<text style="font-family: Helvetica; font-size: 6px; fill: rgb(0%,0%,0%);" transform="translate(0,0) scale(1,-1)" x="0" y="0">8</text>
+			</g>
+			<g transform=" matrix(1.000000,0.000000,-0.000000,1.000000,49.018730,153.740000)">
+				<text style="font-family: Helvetica; font-size: 6px; fill: rgb(0%,0%,0%);" transform="translate(0,0) scale(1,-1)" x="0" y="0">8</text>
+			</g>
+			<g transform=" matrix(1.000000,0.000000,-0.000000,1.000000,92.003257,163.460000)">
+				<text style="font-family: Helvetica; font-size: 6px; fill: rgb(0%,0%,0%);" transform="translate(0,0) scale(1,-1)" x="0" y="0">9</text>
+			</g>
+			<g transform=" matrix(1.000000,0.000000,-0.000000,1.000000,161.372150,153.740000)">
+				<text style="font-family: Helvetica; font-size: 6px; fill: rgb(0%,0%,0%);" transform="translate(0,0) scale(1,-1)" x="0" y="0">10</text>
+			</g>
+			<g transform=" matrix(1.000000,0.000000,-0.000000,1.000000,230.960912,163.460000)">
+				<text style="font-family: Helvetica; font-size: 6px; fill: rgb(0%,0%,0%);" transform="translate(0,0) scale(1,-1)" x="0" y="0">11</text>
+			</g>
+			<g transform=" matrix(1.000000,0.000000,-0.000000,1.000000,296.701954,153.740000)">
+				<text style="font-family: Helvetica; font-size: 6px; fill: rgb(0%,0%,0%);" transform="translate(0,0) scale(1,-1)" x="0" y="0">12</text>
+			</g>
+			<g transform=" matrix(1.000000,0.000000,-0.000000,1.000000,367.280130,163.460000)">
+				<text style="font-family: Helvetica; font-size: 6px; fill: rgb(0%,0%,0%);" transform="translate(0,0) scale(1,-1)" x="0" y="0">13</text>
+			</g>
+			<g transform=" matrix(1.000000,0.000000,-0.000000,1.000000,434.670195,153.740000)">
+				<text style="font-family: Helvetica; font-size: 6px; fill: rgb(0%,0%,0%);" transform="translate(0,0) scale(1,-1)" x="0" y="0">14</text>
+			</g>
+			<g transform=" matrix(1.000000,0.000000,-0.000000,1.000000,504.698697,163.460000)">
+				<text style="font-family: Helvetica; font-size: 6px; fill: rgb(0%,0%,0%);" transform="translate(0,0) scale(1,-1)" x="0" y="0">15</text>
+			</g>
+		</g>
+	</g>
+</svg>

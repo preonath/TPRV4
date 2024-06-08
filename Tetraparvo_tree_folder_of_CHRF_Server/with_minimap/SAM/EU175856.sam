@@ -1,0 +1,2 @@
+@SQ	SN:KM390024.1	LN:4877
+@PG	ID:minimap2	PN:minimap2	VN:2.24-r1122	CL:minimap2 -ax asm5 /home/chrf/Tetraparvo_tree/ref.fa /home/chrf/Tetraparvo_tree/Assembly/EU175856.fasta

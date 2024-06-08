@@ -1,0 +1,7 @@
+czid consensus-genome upload-sample CSF_0042_TP4_S13_L001_R1_001.fastq.gz CSF_0042_TP4_S13_L001_R2_001.fastq.gz \
+    --project TPRV4_trial \
+    --sample-name CSF_0042_TP4_S13_L001 \
+    --metadata-csv metadata.csv \
+    --sequencing-platform Illumina \
+    --reference-fasta KM390024.1.fasta \
+    --primer-bed Primer_K.bed

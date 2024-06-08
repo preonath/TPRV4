@@ -1,0 +1,47 @@
+
+
+WARNING: RAxML is not checking sequences for duplicate seqs and sites with missing data!
+
+
+
+This is RAxML version 8.2.11 released by Alexandros Stamatakis on June 2017.
+
+With greatly appreciated code contributions by:
+Andre Aberer      (HITS)
+Simon Berger      (HITS)
+Alexey Kozlov     (HITS)
+Kassian Kobert    (HITS)
+David Dao         (KIT and HITS)
+Sarah Lutteropp   (KIT and HITS)
+Nick Pattengale   (Sandia)
+Wayne Pfeiffer    (SDSC)
+Akifumi S. Tanabe (NRIFS)
+Charlie Taylor    (UF)
+
+
+RAxML Bipartition Computation: Drawing support values from trees in file RAxML_bootstrap.All_TPRV_SNPallel.bsSupport onto tree in file RAxML_bestTree.All_TPRV_SNPallel.bestTree
+
+
+RAxML was called as follows:
+
+raxmlHPC-PTHREADS-AVX -p 1206 -m GTRGAMMA -f b -t RAxML_bestTree.All_TPRV_SNPallel.bestTree -z RAxML_bootstrap.All_TPRV_SNPallel.bsSupport -n All_TPRV_SNPallel.bestTree.bsSupport 
+
+
+
+
+Found 1 tree in File RAxML_bestTree.All_TPRV_SNPallel.bestTree
+
+
+
+Found 1000 trees in File RAxML_bootstrap.All_TPRV_SNPallel.bsSupport
+
+
+
+Found 1 tree in File RAxML_bestTree.All_TPRV_SNPallel.bestTree
+
+
+
+Time for Computation of Bipartitions 0.054829
+Tree with bipartitions written to file:  /media/chrf/Home03/Trial_Preonath/TPRV/RAxML_bipartitions.All_TPRV_SNPallel.bestTree.bsSupport
+Tree with bipartitions as branch labels written to file:  /media/chrf/Home03/Trial_Preonath/TPRV/RAxML_bipartitionsBranchLabels.All_TPRV_SNPallel.bestTree.bsSupport
+Execution information file written to :  /media/chrf/Home03/Trial_Preonath/TPRV/RAxML_info.All_TPRV_SNPallel.bestTree.bsSupport
