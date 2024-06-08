@@ -1,4 +1,4 @@
-home="/home/tanmoy/Genotyping_Ref/"
+home="/media/asus/275dd380-2319-4638-bcdd-5f65b2b1d4b5/CHRF_Project_Data/CHRF_TPRV_Sequencing/ANALYSIS/Genotyping_Ref"
 
 mkdir $home\/Genotype
 for file in $home\/vcf/*.vcf
